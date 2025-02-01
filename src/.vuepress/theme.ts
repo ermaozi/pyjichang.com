@@ -119,9 +119,10 @@ export default hopeTheme({
     comment: {
       provider: "Giscus",
       repo: "ermaozi/pyjichang.com",
-      repoId: "R_kgDOL4rZSQ",
+      repoId: "R_kgDONxKsOA",
       category: "Announcements",
-      categoryId: "DIC_kwDOL4rZSc4CiGyu",
+      categoryId: "DIC_kwDONxKsOM4CmcQa",
+      mapping: "title",
     },
 
     components: {
