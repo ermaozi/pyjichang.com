@@ -1,7 +1,7 @@
 ---
 title: 🚀 Shadowrocket(iOS小火箭) 新手使用教程
 createTime: 2025/01/03 18:18:11
-permalink: /文档/z747kgjd/
+permalink: /doc/z747kgjd/
 tags:
     - Shadowrocket
     - 科学上网

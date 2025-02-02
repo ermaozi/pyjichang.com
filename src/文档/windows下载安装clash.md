@@ -1,7 +1,7 @@
 ---
 title: windows下载安装clash
 createTime: 2024/10/23 12:21:37
-permalink: /文档/0gematwc/
+permalink: /doc/0gematwc/
 tags:
   - 科学上网
   - VPN

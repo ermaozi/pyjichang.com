@@ -1,7 +1,7 @@
 ---
 title: ✈️机场推荐【XSUS】 - 高性价比、老牌机场
 createTime: 2025/01/28 10:11:45
-permalink: /机场推荐/bc6o8acd/
+permalink: /vpnrecs/bc6o8acd/
 tags:
   - 科学上网
   - VPN
@@ -38,6 +38,6 @@ XSUS 机场是一家老牌机场，价格实惠，节点较多，节点质量也
 
 ## 客户端使用方法
 
-- 📱 [clash for Android](https://www.pyjichang.com/文档/eh8f4n86/)
-- 🖥 [clash for Windows](https://www.pyjichang.com/文档/0gematwc/)
-- 🍎 [clash for iOS](https://www.pyjichang.com/文档/z747kgjd/)
+- 📱 [clash for Android](https://www.pyjichang.com/doc/eh8f4n86/)
+- 🖥 [clash for Windows](https://www.pyjichang.com/doc/0gematwc/)
+- 🍎 [clash for iOS](https://www.pyjichang.com/doc/z747kgjd/)

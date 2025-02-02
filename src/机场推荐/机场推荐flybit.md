@@ -1,7 +1,7 @@
 ---
 title: ✈️机场推荐【flybit】- 便宜实惠、高性价比
 createTime: 2024/12/01 08:58:05
-permalink: /机场推荐/q8yp9r2b/
+permalink: /vpnrecs/q8yp9r2b/
 tags:
   - 科学上网
   - VPN
@@ -34,6 +34,6 @@ tags:
 
 ## 客户端使用方法
 
-- 📱 [clash for Android](https://www.pyjichang.com/文档/eh8f4n86/)
-- 🖥 [clash for Windows](https://www.pyjichang.com/文档/0gematwc/)
-- 🍎 [clash for iOS](https://www.pyjichang.com/文档/z747kgjd/)
+- 📱 [clash for Android](https://www.pyjichang.com/doc/eh8f4n86/)
+- 🖥 [clash for Windows](https://www.pyjichang.com/doc/0gematwc/)
+- 🍎 [clash for iOS](https://www.pyjichang.com/doc/z747kgjd/)

@@ -1,7 +1,7 @@
 ---
 title: ⚠️【机场跑路】2025年1月25日EFCloud机场跑路
 createTime: 2025/01/25 19:01:15
-permalink: /跑路机场/nz313xp6/
+permalink: /scamvpn/nz313xp6/
 tags:
   - 科学上网
   - VPN

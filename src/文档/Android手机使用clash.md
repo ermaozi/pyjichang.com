@@ -1,7 +1,7 @@
 ---
 title: Clash for android 下载与安装
 createTime: 2024/09/17 17:26:51
-permalink: /文档/eh8f4n86/
+permalink: /doc/eh8f4n86/
 tags:
   - 科学上网
   - VPN
