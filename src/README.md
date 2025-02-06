@@ -25,6 +25,7 @@ title: 便宜好用的翻墙机场推荐
 |---|---|---|--|---|---|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
+|[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)| 无 |20元 120G/月|❌不支持|[点击加入](https://t.me/flashfoxcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[XSUS](#xsus)|[https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)| 无 |8元 168G/30天|✔支持|[点击加入](https://t.me/xsusvpn)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|[点击加入](https://t.me/dageyun)|
@@ -62,6 +63,31 @@ title: 便宜好用的翻墙机场推荐
 最便宜的订阅有10元 100G/月。
 
 解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
+
+---
+
+### 闪狐云
+
+注册链接：[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)
+
+邀请码：NCO1w4Iv
+
+试用：无
+
+最便宜的订阅有20元 120G/月。
+
+闪狐云是目前我用过的节点质量最高的机场，价格虽然不是最便宜的，但是性价比非常高。支持支付宝。
+
+**特性如下**
+
+- BGP隧道中转，IPLC高速内网纯专线出口，延迟低
+- 5大运营商动态优化。
+- trojan协议，安全、高速、加密。
+- 解锁全球流媒体、AI工具。
+- 无设备和ip限制。
+- 1000Mbps速率，晚高峰不限速
+- 专业人工客服，快速响应
+- 接受企业或者个人定制业务
 
 ---
 
