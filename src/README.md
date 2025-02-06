@@ -29,6 +29,7 @@ title: 便宜好用的翻墙机场推荐
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[XSUS](#xsus)|[https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)| 无 |8元 168G/30天|✔支持|[点击加入](https://t.me/xsusvpn)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|[点击加入](https://t.me/dageyun)|
+|[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)| 无 |12元 100G/月|❌不支持|[点击加入](https://t.me/niceduck_group)|
 |[加速啦](#加速啦)|[https://jiasu.la/?r=39116](https://jiasu.la/?r=39116)| 1G 不限时 |10元 60G/月|✔支持|[点击加入](https://t.me/jiasu_la)|
 |[Aladdin](#aladdin)|[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=RtNzblsTdt)|无|30元 390G/半年|❌不支持|暂无|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|[点击加入](https://t.me/xxai_official)|
@@ -133,7 +134,7 @@ title: 便宜好用的翻墙机场推荐
 
 试用：无
 
-最便宜的订阅有8元 168G/30天。稳定运行2年+，节点质量高，支持按流量购买，支持支付宝、微信、USDT支付。
+最便宜的订阅有8元 168G/30天。稳定运行2年+，节点质量高，支持按流量购买，支持支付宝。
 
 ---
 
@@ -146,6 +147,20 @@ title: 便宜好用的翻墙机场推荐
 最便宜的订阅有19.9元 100G/月。
 
 大哥云机场5年老品牌，可以免费试用，支持奈飞等多家流媒体解锁，支持YOUTUBE 8K流畅观看支持IPLC线路。
+
+---
+
+### 好鸭云
+
+注册链接：[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)
+
+邀请码：QS0hzI2y
+
+最便宜的订阅有12元 100G/月。
+
+节点非常稳定，老板态度好，客服也很热情，支持支付宝。
+
+最重要的是会随套餐**送Emby影视服务**(一个看高清电影、电视剧、番剧的站点)！喜欢看剧的同学可以试试。
 
 ---
 
