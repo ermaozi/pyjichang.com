@@ -23,8 +23,9 @@ title: 便宜好用的翻墙机场推荐
 
 |机场名称|地址|试用|最便宜订阅|按流量购买|TG群|
 |---|---|---|--|---|---|
-|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
+|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
+|[xxyun](#xxyun)|[https://www.xxvip.shop](https://www.xxvip.shop/#/register?code=XQiZqbSr)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)| 无 |20元 120G/月|❌不支持|[点击加入](https://t.me/flashfoxcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[XSUS](#xsus)|[https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)| 无 |8元 168G/30天|✔支持|[点击加入](https://t.me/xsusvpn)|
@@ -65,6 +66,20 @@ title: 便宜好用的翻墙机场推荐
 最便宜的订阅有10元 100G/月。
 
 解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
+
+---
+
+### xxyun
+
+注册链接：[https://www.xxvip.shop](https://www.xxvip.shop/#/register?code=XQiZqbSr)
+
+邀请码：XQiZqbSr
+
+试用方案：享受1天10G流量
+
+最优惠订阅方案：仅需8.89元/月，即可获得100G流量
+
+xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用中转线路，但整体速度仍较稳定，再加上价格亲民、支持全流媒体解锁，并且不限制在线设备数量，十分适合偶尔需要在外网观看视频或查阅资料的用户。
 
 ---
 
