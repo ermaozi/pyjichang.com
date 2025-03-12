@@ -26,6 +26,8 @@ title: 便宜好用的翻墙机场推荐
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[xxyun](#xxyun)|[https://www.xxvip.shop](https://www.xxvip.shop/#/register?code=XQiZqbSr)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
+|[TNT](#tnt)|[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)|无|20元 110G/月|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)| 无 |20元 120G/月|❌不支持|[点击加入](https://t.me/flashfoxcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[XSUS](#xsus)|[https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)| 无 |8元 168G/30天|✔支持|[点击加入](https://t.me/xsusvpn)|
@@ -80,6 +82,46 @@ title: 便宜好用的翻墙机场推荐
 最优惠订阅方案：仅需8.89元/月，即可获得100G流量
 
 xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用中转线路，但整体速度仍较稳定，再加上价格亲民、支持全流媒体解锁，并且不限制在线设备数量，十分适合偶尔需要在外网观看视频或查阅资料的用户。
+
+---
+
+### 百变小樱
+
+注册链接：[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)
+
+试用：无
+
+最便宜的订阅有15元 100G/30天。
+
+百变小樱优惠码：
+
+- 半年付95折优惠码：`happy10-1-6month`
+- 年付88折优惠码：`happy10-1-1year`
+- 三年付78折优惠码：`happy10-1-3years`
+
+百变小樱是一家自2020年起运营的低调小众机场，线路稳定可靠，采用隧道与专线结合的架构。其套餐支持两种不同的使用方式，并配有定制化精简面板，有效避免节点列表冗长。团队已迁至海外运营，确保无按流量风险，主打产品特点为稳定性、全流媒体解锁、超低价格以及附赠流媒体账号。
+
+另外，此机场支持SSR系列代理软件，例如小火箭和Clash。
+
+支付方式涵盖支付宝、微信支付以及USDT。
+
+---
+
+### TNT
+
+注册链接：[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)
+
+邀请码：f1EyPwf3
+
+试用：无
+
+最低 20元 110G/月
+
+- 全IPLC专线，不限速
+- 原生IP解锁流媒体
+- 解锁 Chatgpt，Tiktok
+- 高效客服响应
+- 不限制客户端
 
 ---
 
