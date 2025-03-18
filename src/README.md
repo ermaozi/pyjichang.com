@@ -27,6 +27,9 @@ title: 便宜好用的翻墙机场推荐
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[xxyun](#xxyun)|[https://www.xxvip.shop](https://www.xxvip.shop/#/register?code=XQiZqbSr)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
+|[大讯云](#大讯云)|[https://cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)| 72小时 10G | 15元 100G/月|✔支持|[点击加入](https://t.me/+LjwQckcuaQ84N2Y5)|
+|[猫弦云](#猫弦云)|[https://svip.maoxian88.buzz](https://svip.maoxian88.buzz/#/register?code=sCCkw2uB)| 3天 10G | 13元 120G/月|✔支持|[点击加入](https://t.me/mao_xuan)|
+|[小飞象](#小飞象)|[https://cn3.xiaofeixiang.xyz](https://cn3.xiaofeixiang.xyz/#/register?code=Y3YCU0VC)| 3天 10G | 25元 200G/月|✔支持|[点击加入](https://t.me/+olkrnpt-gYcwZmFl)|
 |[TNT](#tnt)|[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)|无|20元 110G/月|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)| 无 |20元 120G/月|❌不支持|[点击加入](https://t.me/flashfoxcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
@@ -104,6 +107,52 @@ xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用�
 另外，此机场支持SSR系列代理软件，例如小火箭和Clash。
 
 支付方式涵盖支付宝、微信支付以及USDT。
+
+---
+
+### 大讯云
+
+注册链接：[https://cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)
+
+邀请码：CYBd5IxN
+
+试用：72小时 10G
+
+最便宜的订阅有15元 100G/月。
+
+- 全平台设备支持使用
+- 5设备连接限制
+- 限速100Mbps
+- 自研3.0 AI隧道节点
+- 全球多地加速 解锁流媒体 奈飞/迪士尼/ChatGPT
+
+---
+
+### 猫弦云
+
+注册链接：[https://svip.maoxian88.buzz](https://svip.maoxian88.buzz/#/register?code=sCCkw2uB)
+
+邀请码：sCCkw2uB
+
+试用：3天 10G
+
+最便宜的订阅有13元 120G/月。
+
+猫弦云价格比较实惠，解锁主流媒体，支持国内支付方式。
+
+---
+
+### 小飞象
+
+注册链接：[https://cn3.xiaofeixiang.xyz](https://cn3.xiaofeixiang.xyz/#/register?code=Y3YCU0VC)
+
+邀请码：Y3YCU0VC
+
+试用：3天 10G
+
+最便宜的订阅有25元 200G/月。
+
+小飞象是一家老牌机场，节点质量高，支持支付宝，微信支付，USDT支付，
 
 ---
 
