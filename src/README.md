@@ -25,7 +25,7 @@ title: 便宜好用的翻墙机场推荐
 |---|---|---|--|---|---|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
-|[xxyun](#xxyun)|[https://www.xxvip.shop](https://www.xxvip.shop/#/register?code=XQiZqbSr)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[xxyun](#xxyun)|[https://www.xxyun.xyz](https://www.xxyun.xyz/123.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
 |[大讯云](#大讯云)|[https://cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)| 72小时 10G | 15元 100G/月|✔支持|[点击加入](https://t.me/+LjwQckcuaQ84N2Y5)|
 |[猫弦云](#猫弦云)|[https://svip.maoxian88.buzz](https://svip.maoxian88.buzz/#/register?code=sCCkw2uB)| 3天 10G | 13元 120G/月|✔支持|[点击加入](https://t.me/mao_xuan)|
@@ -76,7 +76,7 @@ title: 便宜好用的翻墙机场推荐
 
 ### xxyun
 
-注册链接：[https://www.xxvip.shop](https://www.xxvip.shop/#/register?code=XQiZqbSr)
+注册链接：[https://www.xxyun.xyz](https://www.xxyun.xyz/123.html)
 
 邀请码：XQiZqbSr
 
