@@ -14,7 +14,7 @@ tags:
 
 TNT机场现推出20元起享110G/月的超值套餐。作为新晋机场，TNT致力于提供优质的IPLC专线服务，确保用户畅享高速网络体验。
 
-注册地址：[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)
+官网地址：[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)
 
 <!-- more -->
 

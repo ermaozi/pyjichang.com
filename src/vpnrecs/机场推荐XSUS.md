@@ -12,7 +12,7 @@ tags:
   - XSUS
 ---
 
-## XSUS 注册地址
+## XSUS 官网地址
 
 [https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)
 

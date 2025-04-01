@@ -12,7 +12,7 @@ tags:
   - flybit
 ---
 
-## flybit机场注册地址
+## flybit机场官网地址
 
 [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
 

@@ -15,7 +15,7 @@ tags:
 
 xx云加速是一款面向轻量用户的机场产品。虽然采用中转线路，但整体网速依然令人满意，同时具备低价实惠、全流媒体解锁以及无限设备接入等优点。
 
-注册地址：[https://www.xxyun.xyz](https://www.xxyun.xyz/123.html)
+官网地址：[https://www.xxyun.xyz](https://www.xxyun.xyz/123.html)
 
 <!-- more -->
 
