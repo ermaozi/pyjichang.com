@@ -25,6 +25,8 @@ title: 便宜好用的翻墙机场推荐
 |---|---|---|--|---|---|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
+|[老头vpn](#老头vpn)|[https://letusgolang.com](https://letusgolang.com/register?code=3OWtZ9Bi)| 1月1G | 10元 100G/月|❌不支持|[telegram](https://t.me/OldManVPN)|
+|[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
 |[xxyun](#xxyun)|[https://www.xxyun.xyz](https://www.xxyun.xyz/123.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
 |[大讯云](#大讯云)|[https://cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)| 72小时 10G | 15元 100G/月|✔支持|[点击加入](https://t.me/+LjwQckcuaQ84N2Y5)|
@@ -85,6 +87,36 @@ title: 便宜好用的翻墙机场推荐
 最优惠订阅方案：仅需8.89元/月，即可获得100G流量
 
 xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用中转线路，但整体速度仍较稳定，再加上价格亲民、支持全流媒体解锁，并且不限制在线设备数量，十分适合偶尔需要在外网观看视频或查阅资料的用户。
+
+---
+
+### 老头vpn
+
+官网链接：[https://letusgolang.com](https://letusgolang.com/register?code=3OWtZ9Bi)
+
+老头VPN是一家从 2016年就开始运营 的老牌加速服务商，口碑一直不错，服务也非常稳定。多年来积累了大量用户，是全球华人圈子里广受认可的“常青树”。
+
+- 试用福利：注册就送 1个月体验期 + 1G流量
+- 性价比高：套餐最低仅需 15.5元/月，包含 150G流量
+- 网络速度快：单线最高可达 2Gbps，看视频、刷推特都不卡
+- 支付方便：支持 微信 & 支付宝
+
+不论是日常科学上网，还是需要稳定线路做正事，老头VPN都值得一试。
+
+---
+
+### 灯塔cloud
+
+官网地址：[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)
+
+如果你在找一个性价比高、客服靠谱、节点稳定的机场，那 灯塔 Cloud 绝对可以考虑！
+
+- 套餐价格亲民：最低只要 10元/月（需半年付），就能享受 100G/月 的流量
+- 服务态度在线：客服回复速度快，沟通体验非常好
+- 节点更新频繁：团队会定期维护和优化节点，保证每条线路都尽可能顺畅稳定
+- 智能调度：系统会根据实时网络状况，自动选择最优节点，保证你连接体验拉满
+
+无论你是轻量日常使用，还是需要高质量的访问体验，灯塔 Cloud 都是一个不错的选择。
 
 ---
 
