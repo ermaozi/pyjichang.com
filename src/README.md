@@ -25,7 +25,7 @@ title: 便宜好用的翻墙机场推荐
 |---|---|---|--|---|---|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
-|[老头vpn](#老头vpn)|[https://letusgolang.com](https://letusgolang.com/register?code=3OWtZ9Bi)| 1月1G | 10元 100G/月|❌不支持|[telegram](https://t.me/OldManVPN)|
+|[老头vpn](#老头vpn)|[https://www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)| 1月1G | 10元 100G/月|❌不支持|[telegram](https://t.me/OldManVPN)|
 |[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
 |[xxyun](#xxyun)|[https://www.xxyun.xyz](https://www.xxyun.xyz/123.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
@@ -92,7 +92,7 @@ xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用�
 
 ### 老头vpn
 
-官网链接：[https://letusgolang.com](https://letusgolang.com/register?code=3OWtZ9Bi)
+官网链接：[https://www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)
 
 老头VPN是一家从 2016年就开始运营 的老牌加速服务商，口碑一直不错，服务也非常稳定。多年来积累了大量用户，是全球华人圈子里广受认可的“常青树”。
 

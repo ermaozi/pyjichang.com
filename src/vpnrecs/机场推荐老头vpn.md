@@ -19,7 +19,7 @@ tags:
 老头VPN机场从 **2016年开始运营**，是圈内公认的老牌服务商，质量稳定、体验优秀。**基础套餐只要 15.5 元/月，包含 150G 流量**，非常适合日常使用。
 
 🌐 **老头VPN官网地址**：
-👉 [https://letusgolang.com](https://letusgolang.com/register?code=3OWtZ9Bi)
+👉 [https://www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ tags:
 - 🌍 **接入速度快**：单线带宽高达 2Gbps，访问国外网站几乎无压力
 
 📌 注册直达链接：
-👉 [https://letusgolang.com/register?code=3OWtZ9Bi](https://letusgolang.com/register?code=3OWtZ9Bi)
+👉 [https://www.chattous.net/register?code=3OWtZ9Bi](https://www.chattous.net/register?code=3OWtZ9Bi)
 
 ## 💰 老头VPN套餐价格图
 
@@ -60,4 +60,4 @@ tags:
 
 👀 想体验下？
 📌 快速注册通道：
-👉 [https://letusgolang.com/register?code=3OWtZ9Bi](https://letusgolang.com/register?code=3OWtZ9Bi)
+👉 [https://www.chattous.net/register?code=3OWtZ9Bi](https://www.chattous.net/register?code=3OWtZ9Bi)
