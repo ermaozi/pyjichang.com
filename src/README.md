@@ -43,7 +43,7 @@ title: 便宜好用的翻墙机场推荐
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|[点击加入](https://t.me/xxai_official)|
 |[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |8元 60g/月(年付)|❌不支持|[点击加入](https://t.me/qingyunticc)|
 |[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |10元 150G/30天|✔支持|[点击加入](https://t.me/vpnpn123)|
-|[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://xn--sjqaa.xn--9pr628ffxd.xn--fiqs8s/#/register?code=ZXzjv7oD)| 无限 3G |6.8元 10G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
+|[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 无限 3G |6.8元 10G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
 |[EF](#ef)|~~www.efcloud1.com~~|无|已跑路|❌不支持|已跑路|
 
 ## 简介
@@ -359,7 +359,7 @@ xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用�
 
 ### 九霄云
 
-注册链接：[九九九.吉祥结.中国](https://xn--sjqaa.xn--9pr628ffxd.xn--fiqs8s/#/register?code=ZXzjv7oD)
+注册链接：[九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)
 
 邀请码：ZXzjv7oD
 
