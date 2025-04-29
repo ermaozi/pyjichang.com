@@ -32,6 +32,7 @@ title: 便宜好用的翻墙机场推荐
 |[大讯云](#大讯云)|[https://cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)| 72小时 10G | 15元 100G/月|✔支持|[点击加入](https://t.me/+LjwQckcuaQ84N2Y5)|
 |[猫弦云](#猫弦云)|[https://svip.maoxian88.buzz](https://svip.maoxian88.buzz/#/register?code=sCCkw2uB)| 3天 10G | 13元 120G/月|✔支持|[点击加入](https://t.me/mao_xuan)|
 |[小飞象](#小飞象)|[https://cn3.xiaofeixiang.xyz](https://cn3.xiaofeixiang.xyz/#/register?code=Y3YCU0VC)| 3天 10G | 25元 200G/月|✔支持|[点击加入](https://t.me/+olkrnpt-gYcwZmFl)|
+|[悠兔](#悠兔)|[https://youtu7.shop](https://youtu7.shop/register?aff=kcXosGca)|无| 29元 150G/月 |❌不支持|暂无|
 |[TNT](#tnt)|[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)|无|20元 110G/月|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)| 无 |20元 120G/月|❌不支持|[点击加入](https://t.me/flashfoxcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
@@ -188,6 +189,19 @@ xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用�
 
 ---
 
+
+### 悠兔
+
+注册链接：[https://youtu7.shop](https://youtu7.shop/register?aff=kcXosGca)
+
+试用：无
+
+最低 29元 150G/月
+
+悠兔机场已经稳定运营两年以上，有专线和高速隧道两条线路，都是大带宽，日常带宽足够，双线路双保证，从未出现同时离线情况。速度和稳定性不需要担心，
+
+---
+
 ### TNT
 
 注册链接：[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)
@@ -262,18 +276,6 @@ xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用�
 - 流媒体完美解锁（包括Netflix , Disney+, HBO等）
 - 完美解锁ChatGPT、Gemini、Copilot
 - 支持Tiktok本土短视频运营和直播
-
----
-
-### XSUS
-
-注册链接：[xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)
-
-邀请码：xJFcT1Dw
-
-试用：无
-
-最便宜的订阅有8元 168G/30天。稳定运行2年+，节点质量高，支持按流量购买，支持支付宝。
 
 ---
 
