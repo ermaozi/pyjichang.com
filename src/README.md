@@ -35,7 +35,6 @@ title: 便宜好用的翻墙机场推荐
 |[TNT](#tnt)|[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)|无|20元 110G/月|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)| 无 |20元 120G/月|❌不支持|[点击加入](https://t.me/flashfoxcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
-|[XSUS](#xsus)|[https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)| 无 |8元 168G/30天|✔支持|[点击加入](https://t.me/xsusvpn)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|[点击加入](https://t.me/dageyun)|
 |[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)| 无 |12元 100G/月|❌不支持|[点击加入](https://t.me/niceduck_group)|
 |[加速啦](#加速啦)|[https://jiasu.la/?r=39116](https://jiasu.la/?r=39116)| 1G 不限时 |10元 80G/月|✔支持|[点击加入](https://t.me/jiasu_la)|
@@ -44,7 +43,8 @@ title: 便宜好用的翻墙机场推荐
 |[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |8元 60g/月(年付)|❌不支持|[点击加入](https://t.me/qingyunticc)|
 |[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |10元 150G/30天|✔支持|[点击加入](https://t.me/vpnpn123)|
 |[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 无限 3G |6.8元 10G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
-|[EF](#ef)|~~www.efcloud1.com~~|无|已跑路|❌不支持|已跑路|
+|[EF](#ef)|~~efcloud1.com~~|无|已跑路|❌不支持|已跑路|
+|[XSUS](#xsus)|~~xs-us.xyz~~| 无 |[跑路预警](https://www.pyjichang.com/scamvpn/mwk3l9oq/)|✔支持|[跑路预警](https://www.pyjichang.com/scamvpn/mwk3l9oq/)|
 
 ## 简介
 
@@ -376,3 +376,13 @@ xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用�
 ### EF
 
 2025年1月份，EF 机场确认跑路，官网可以访问，订阅无法使用。
+
+---
+
+### XSUS
+
+XSUS机场[跑路预警](https://www.pyjichang.com/scamvpn/mwk3l9oq/)！
+
+XSUS官网经常无法访问，客服长时间不回复消息，telegram公告频道长时间无消息。
+
+已是高危表现！**请立即停止续费！**
