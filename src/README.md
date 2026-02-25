@@ -54,6 +54,19 @@ title: 便宜好用的翻墙机场推荐
 |[Aladdin](#aladdin)|[www.avatargpt.xyz](https://short.thisgourl.xyz/#/register?code=tvLw0oMj)|无|30元 390G/半年|❌|暂无|
 |[小牛云](#小牛云)|[xiaoniuyun.cc](https://www.xiaoniuyun.cc/register/cn?code=n31onhiT)|无|预警(可能跑路)|❌|[TG](https://t.me/aoxcloud)|
 |[EF](#ef)|~~www.efcloud1.com~~|无|已跑路|❌|已跑路|
+|[CyberGuard](#cyberguard)|[cyberguard.best](https://www.cyberguard.best/#/register?code=yoyUW3R9)|无|18元 100G/月|✔|暂无|
+|[悠兔](#悠兔)|[youtu7.shop](https://youtu7.shop/register?aff=kcXosGca)|无|29元 150G/月|❌|暂无|
+|[大讯云](#大讯云)|[cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)|72小时 10G|15元 100G/月|❌|暂无|
+|[猫弦云](#猫弦云)|[svip.maoxian88.buzz](https://svip.maoxian88.buzz/#/register?code=sCCkw2uB)|3天 10G|13元 120G/月|❌|暂无|
+|[小飞象](#小飞象)|[cn3.xiaofeixiang.xyz](https://cn3.xiaofeixiang.xyz/#/register?code=Y3YCU0VC)|3天 10G|25元 200G/月|❌|暂无|
+|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)|无|16.9元 100G/月|✔|暂无|
+|[光年梯](#光年梯)|[ermaozi01.gntvipaff.cc](https://ermaozi01.gntvipaff.cc/#/?code=FSEQIfPr)|无|18元 110G/月|❌|暂无|
+|[全球云](#全球云)|[ermaozi01.gcvipaff.cc](https://ermaozi01.gcvipaff.cc/#/?code=PGcNh6bA)|无|20元 120G/月|❌|暂无|
+|[随便云](#随便云)|[suibian.cloud](https://suibian.cloud/register?code=YZxHwCws)|无|10元 68G/月|✔|暂无|
+|[uuone](#uuone)|[uuone.de](https://uuone.de/ermao.html)|无|12元 150G/月|✔|暂无|
+|[天喵](#天喵)|[tianmiaovpn.com](https://tianmiaovpn.com/register?code=6itxcjsx)|免费线路|免费/VIP 25元/月|❌|暂无|
+|[掌中世界](#掌中世界)|[qq.zjs2025.com](https://qq.zjs2025.com/user/register?code=S74QiRGN)|7天免费|咨询官网|❌|暂无|
+|[白羊星](#白羊星)|[baiyangxing.com](https://baiyangxing.com/#/register?code=gelkjfjz)|无|12元 100G/月|✔|暂无|
 
 ## 简介
 
@@ -636,3 +649,132 @@ XSUS机场[跑路预警](https://www.pyjichang.com/scamvpn/mwk3l9oq/)！
 XSUS官网经常无法访问，客服长时间不回复消息，telegram公告频道长时间无消息。
 
 已是高危表现！**请立即停止续费！**
+
+---
+
+### 光年梯
+
+官网地址：[ermaozi01.gntvipaff.cc](https://ermaozi01.gntvipaff.cc/#/?code=FSEQIfPr)
+
+最便宜的订阅有18元 110G/月。
+
+光年梯成立于2026年9月，由新加坡海外团队运营，主打IEPL Trojan专线与稳定SS协议。全节点1倍率，晚高峰不限速，提供24小时在线客服，承诺支持退款。
+
+**特性如下**
+
+- IEPL Trojan专线 + SS协议
+- 晚高峰不限速，全节点1倍率
+- 支持Netflix、Disney+、YouTube 4K、ChatGPT解锁
+- 覆盖香港、台湾、新加坡、日本、美国等地
+- 提供独享私人专线可选
+
+---
+
+### 全球云
+
+官网地址：[ermaozi01.gcvipaff.cc](https://ermaozi01.gcvipaff.cc/#/?code=PGcNh6bA)
+
+最便宜的订阅有20元 120G/月。
+
+全球云采用企业级IPLC/IEPL专线，60+全球节点，支持Trojan/Shadowsocks协议，晚高峰稳定高速。
+
+**特性如下**
+
+- 企业级IPLC/IEPL专线中转
+- 60+全球节点，覆盖港、日、新、美等地区
+- 支持Netflix、Disney+、TikTok、ChatGPT解锁
+- 支持支付宝、USDT、微信支付
+- 多设备同时使用
+
+---
+
+### 随便云
+
+官网地址：[suibian.cloud](https://suibian.cloud/register?code=YZxHwCws)
+
+最便宜的订阅有10元 68G/月。
+
+随便云采用多线BGP回源架构，配合全球专线节点(IEPL)，长期保持低拥堵、不跳延迟。全平台可用，所有套餐提供流量独享。
+
+**特性如下**
+
+- 多线BGP回源 + IEPL专线
+- 入门套餐仅10元/月，500Mbps高速
+- 支持Netflix、Disney+等流媒体解锁
+- 提供不限时流量包（100G/28元起）
+- 面板透明，实时查看节点状态
+
+---
+
+### uuone
+
+官网地址：[uuone.de](https://uuone.de/ermao.html)
+
+优惠码：`uuone` 享9折优惠
+
+最便宜的订阅有12元 150G/月。
+
+uuone专注于提供高性价比的BGP三网优化中转线路，晚高峰不限速，流媒体解锁能力出色。
+
+**特性如下**
+
+- BGP三网优化中转线路
+- 晚高峰不限速，4K视频秒开
+- 支持Netflix、Disney+、HBO、ChatGPT解锁
+- 提供永久套餐（450G/80元）
+- 全天候在线客服
+
+---
+
+### 天喵
+
+官网地址：[tianmiaovpn.com](https://tianmiaovpn.com/register?code=6itxcjsx)
+
+免费：提供美国、德国、香港、新加坡4条免费线路，永久无限流量。
+
+VIP套餐25元/月起，SVIP 30元/月起。
+
+天喵加速器是一款永久免费的科学上网工具，特别针对游戏与视频加速优化。使用即可累积TOKEN，兑换续费折扣。
+
+**特性如下**
+
+- 4条免费线路，永久无限流量
+- 针对游戏、流媒体场景优化
+- 支持Clash、Shadowrocket等主流客户端
+- TOKEN激励机制，用越久越划算
+- VIP/SVIP提供专线保障
+
+---
+
+### 掌中世界
+
+官网地址：[qq.zjs2025.com](https://qq.zjs2025.com/user/register?code=S74QiRGN)
+
+试用：7天免费试用
+
+掌中世界机场提供7天免费试用、24小时客服在线、一键加速，支持三网5G。
+
+**特性如下**
+
+- 7天免费试用，零门槛体验
+- 24小时客服在线，一键加速
+- 三网5G加持，YouTube 8K秒开
+- Netflix热门剧集解锁
+- 全家设备通用
+
+---
+
+### 白羊星
+
+官网地址：[baiyangxing.com](https://baiyangxing.com/#/register?code=gelkjfjz)
+
+最便宜的订阅有12元 100G/月。支持按流量购买。
+
+白羊星是一个轻量级机场，价格超低，全流媒体解锁。
+
+**特性如下**
+
+- 12元 100G/月，价格亲民
+- 支持按流量购买
+- 流媒体完美解锁
+- 轻量级机场，适合入门用户
