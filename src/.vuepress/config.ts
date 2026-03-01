@@ -9,6 +9,15 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "便宜机场",
   description: "便宜、稳定、高性价比机场推荐",
+  head: [
+    [
+      "meta",
+      {
+        name: "msvalidate.01",
+        content: "AA6A94C11C3165EA5B4259E999ED105F",
+      },
+    ],
+  ],
 
   theme,
 
