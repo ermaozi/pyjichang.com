@@ -67,7 +67,7 @@ title: 便宜好用的翻墙机场推荐
 |[uuone](#uuone)|[uuone.de](https://uuone.de/ermao.html)|无|12元 150G/月|✔|暂无|
 |[天喵](#天喵)|[tianmiaovpn.com](https://tianmiaovpn.com/register?code=6itxcjsx)|免费线路|免费/VIP 25元/月|❌|暂无|
 |[掌中世界](#掌中世界)|[qq.zjs2025.com](https://qq.zjs2025.com/user/register?code=S74QiRGN)|7天免费|咨询官网|❌|暂无|
-|[白羊星](#白羊星)|[baiyangxing.com](https://baiyangxing.com/#/register?code=gelkjfjz)|无|12元 100G/月|✔|暂无|
+|[白羊星](#白羊星)|[baiyangxi.com](https://baiyangxi.com/#/register?code=gelkjfjz)|无|12元 100G/月|✔|暂无|
 
 ## 简介
 
@@ -785,7 +785,7 @@ VIP套餐25元/月起，SVIP 30元/月起。
 
 ### 白羊星
 
-官网地址：[baiyangxing.com](https://baiyangxing.com/#/register?code=gelkjfjz)
+官网地址：[baiyangxi.com](https://baiyangxi.com/#/register?code=gelkjfjz)
 
 最便宜的订阅有12元 100G/月。支持按流量购买。
 
