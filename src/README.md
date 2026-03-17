@@ -29,7 +29,7 @@ title: 便宜好用的翻墙机场推荐
 |[ccyz](#ccyz)|[ccyz.org](https://ccyz.org/QkQotDCu.html)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
 |[唯兔云](#唯兔云)|[vip01.onlyrabbit.cc](https://a01.v2cvipaff.cc/#/?code=iaD6AgSx)|无|6元 45G/月|✔|[TG](https://t.me/v2yun_v2)|
 |[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
-|[光速云](#光速云)|[a01.gsyvipaff.cc](https://a01.gsyvipaff.cc/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
+|[光速云](#光速云)|[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
 |[极连云](#极连云)|[jly01.jiliancloud.net](https://a01.jlyvipaff.cc/#/register?code=GHDiZb1m)|无|8元 60G/月|✔|[TG](https://t.me/JLYCloud)|
 |[superbiu](#superbiu)|[biubiux.online](https://biubiux.online/#/register?code=BasmsULb)|无|11元 50G/月|✔|[TG](https://t.me/superbiu888)|
 |[cocoduck](#cocoduck)|[cocoduck.live](https://cocoduck.live/auth/register?code=25c8b515df)|1天2G|15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|
@@ -529,7 +529,7 @@ okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术
 
 ### 光速云
 
-官网地址：[a01.gsyvipaff.cc](https://a01.gsyvipaff.cc/#/?code=d1eMb3ku)
+官网地址：[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)
 
 最便宜的订阅有8.25元 59G/月。IEPL专线，适合需要稳定低延迟的用户。
 
