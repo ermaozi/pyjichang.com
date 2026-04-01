@@ -42,7 +42,7 @@ SFCloud与FCCloud最初由EFCloud引流，但EFCloud已经在2025年1月25日跑
 
 ## 机场跑路（预警）投稿
 
-[点击投稿](https://pyjichang.com/scamvpn/)
+[点击投稿](/scamvpn/jichang-paolu-huizong/)
 
 ## 其他推荐机场
 
