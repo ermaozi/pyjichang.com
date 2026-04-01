@@ -16,7 +16,7 @@ tags:
 如果你在找一个 **稳定可靠、客服给力、价格实惠** 的科学上网服务，那就别错过灯塔 Cloud。作为一家老牌机场，它不仅服务态度好，节点质量也非常优秀。
 
 🌐 **灯塔Cloud官网地址**：
-👉 [https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)
+👉 [https://dengta.com](https://www.dengta.cloud/#/register?code=n4jB4z5R)
 
 🎟️ **优惠码**：`XF777`，全场套餐可享 **95 折优惠**
 
@@ -32,7 +32,7 @@ tags:
 - 🔄 **智能切换线路**，系统会自动根据网络状况选择最优节点，体验非常顺畅
 
 📌 灯塔Cloud登录注册地址：
-👉 [https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)
+👉 [https://www.dengta.cloud/#/register?code=n4jB4z5R](https://www.dengta.cloud/#/register?code=n4jB4z5R)
 
 ## 💰 灯塔Cloud套餐价格图
 
@@ -60,5 +60,5 @@ tags:
 灯塔 Cloud 是那种你用过一次就会留下的机场，稳定、良心、靠谱。如果你正在选机场，或者对现在用的服务不太满意，不妨试试看。
 
 注册就用这个链接：
-👉 [点击直达](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)
+👉 [点击直达](https://www.dengta.cloud/#/register?code=n4jB4z5R)
 别忘了使用优惠码 `XF777`，省点就是赚到！

@@ -45,7 +45,7 @@ title: 便宜好用的翻墙机场推荐
 |[okanc](#okanc)|[okanc.com](https://www.okanc.com/index.php#/register?code=3YK7Np6R)|无|46元 328G/月|❌|[TG](https://t.me/okancup)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)|无|20元 120G/月|❌|[TG](https://t.me/flashfoxcloud)|
-|[灯塔cloud](#灯塔cloud)|[dengtacloud.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)|无|10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|
+|[灯塔cloud](#灯塔cloud)|[www.dengta.cloud](https://www.dengta.cloud/#/register?code=n4jB4z5R)|无|10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|
 |[百变小樱](#百变小樱)|[bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)|无|15元 100G/30天|❌|[TG](https://t.me/+IugiUXlyYqgyNjE0)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)|无|19.9元 100G/月|❌|[TG](https://t.me/dageyun)|
 |[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)|无|12元 100G/月|❌|[TG](https://t.me/niceduck_group)|
@@ -214,7 +214,7 @@ okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术
 
 ### 灯塔cloud
 
-官网地址：[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)
+官网地址：[https://dengta.com](https://www.dengta.cloud/#/register?code=n4jB4z5R)
 
 如果你在找一个性价比高、客服靠谱、节点稳定的机场，那 灯塔 Cloud 绝对可以考虑！
 
@@ -633,7 +633,7 @@ okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术
 
 ### 灯塔cloud
 
-官网地址：[dengtacloud.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=n4jB4z5R)
+官网地址：[www.dengta.cloud](https://www.dengta.cloud/#/register?code=n4jB4z5R)
 
 最便宜有10元 100G/月。客服好、节点稳定，适合追求稳定体验的用户。
 
