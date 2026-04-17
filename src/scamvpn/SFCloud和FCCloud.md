@@ -16,7 +16,7 @@ tags:
 
 **立即停止续费，避免更大损失！**
 
-目前 [XSUS](https://xs-us.xyz/register?code=xJFcT1Dw) 表示可以接手SFCloud和FCCloud用户（按原订阅 30% 接收），详情可在[XSUS 官网](https://xs-us.xyz/register?code=xJFcT1Dw)注册后提交工单咨询。
+目前 [XSUS](https://xs-us.com/register?code=xJFcT1Dw) 表示可以接手SFCloud和FCCloud用户（按原订阅 30% 接收），详情可在[XSUS 官网](https://xs-us.com/register?code=xJFcT1Dw)注册后提交工单咨询。
 
 选择机场时选择一些老牌机场（例如[大哥云](https://ermao.dgywzc.com/#/register?code=peAVAa8D)），可以减少跑路风险。
 

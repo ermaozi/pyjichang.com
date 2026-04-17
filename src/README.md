@@ -51,7 +51,7 @@ title: 便宜好用的翻墙机场推荐
 |[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)|无|12元 100G/月|❌|[TG](https://t.me/niceduck_group)|
 |[加速啦](#加速啦)|[jiasu.la](https://jiasu.la/?r=39116)|1G 不限时|10元 80G/月|✔|[TG](https://t.me/jiasu_la)|
 |[九霄云](#九霄云)|[shop.starpro.one](https://shop.starpro.one/#/register?code=ZXzjv7oD)|2天 6G|15元 200G/月|✔|[QQ](https://qm.qq.com/q/EzY3dgKhIA)|
-|[XSUS](#xsus)|[xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)|无|8元 168G/30天|✔|[TG](https://t.me/xsusvpn)|
+|[XSUS](#xsus)|[xs-us.com](https://xs-us.com/register?code=xJFcT1Dw)|无|8元 168G/30天|✔|[TG](https://t.me/xsusvpn)|
 |[Aladdin](#aladdin)|[www.avatargpt.xyz](https://short.thisgourl.xyz/#/register?code=tvLw0oMj)|无|30元 390G/半年|❌|暂无|
 |[小牛云](#小牛云)|[xiaoniuyun.cc](https://www.xiaoniuyun.cc/register/cn?code=n31onhiT)|无|预警(可能跑路)|❌|[TG](https://t.me/aoxcloud)|
 |[EF](#ef)|~~www.efcloud1.com~~|无|已跑路|❌|已跑路|
