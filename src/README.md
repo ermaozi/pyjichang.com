@@ -26,7 +26,7 @@ title: 便宜好用的翻墙机场推荐
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)|1天 1G|10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)|1天 2G|12元 100G/月|✔|[TG](https://t.me/flybitvip)|
 |[xxyun](#xxyun)|[xxyun.de](https://xxyun.at/?code=HOWnn58c)|无/试用页|8.89元 100G/月|✔|[TG](https://t.me/+eYsE6P_xvjk2NGY5)|
-|[ccyz](#ccyz)|[ccyz.org](https://ccyz.org/QkQotDCu.html)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
+|[ccyz](#ccyz)|[ccyz.org](https://ccyz.org/?code=QkQotDCu)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
 |[唯兔云](#唯兔云)|[vip01.onlyrabbit.cc](https://a01.v2cvipaff.cc/#/?code=iaD6AgSx)|无|6元 45G/月|✔|[TG](https://t.me/v2yun_v2)|
 |[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
 |[光速云](#光速云)|[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
@@ -505,7 +505,7 @@ okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术
 
 ### ccyz
 
-注册链接：[ccyz.org](https://ccyz.org/QkQotDCu.html)
+注册链接：[ccyz.org](https://ccyz.org/?code=QkQotDCu)
 
 最便宜的订阅有15元 150G/月。主打高性价比与专线稳定，适合长期使用或需要稳定带宽的用户。
 
