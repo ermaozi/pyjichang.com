@@ -56,7 +56,7 @@ title: 便宜好用的翻墙机场推荐
 |[小牛云](#小牛云)|[xiaoniuyun.cc](https://www.xiaoniuyun.cc/register/cn?code=n31onhiT)|无|预警(可能跑路)|❌|[TG](https://t.me/aoxcloud)|
 |[EF](#ef)|~~www.efcloud1.com~~|无|已跑路|❌|已跑路|
 |[CyberGuard](#cyberguard)|[cyberguard.best](https://www.cyberguard.best/#/register?code=yoyUW3R9)|无|18元 100G/月|✔|暂无|
-|[悠兔](#悠兔)|[youtu7.shop](https://youtu7.shop/register?aff=kcXosGca)|无|29元 150G/月|❌|暂无|
+|[悠兔](#悠兔)|[youtu7.shop](https://youtu7.shop/register?aff=kcXosGca)|无|39元 150G/月|❌|暂无|
 |[大讯云](#大讯云)|[cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)|72小时 10G|15元 100G/月|❌|暂无|
 |[猫弦云](#猫弦云)|[svip.maoxian88.buzz](https://svip.maoxian88.buzz/#/register?code=sCCkw2uB)|3天 10G|13元 120G/月|❌|暂无|
 |[小飞象](#小飞象)|[cn3.xiaofeixiang.xyz](https://cn3.xiaofeixiang.xyz/#/register?code=Y3YCU0VC)|3天 10G|25元 200G/月|❌|暂无|
@@ -324,7 +324,17 @@ okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术
 
 试用：无
 
-最低 29元 150G/月
+最低 39元 150G/月
+
+| 套餐 | 价格 |
+| --- | --- |
+| 每月150G | ¥39/月；¥110/季；¥210/半年；¥400/年 |
+| 每月300G | ¥59/月；¥160/季；¥310/半年；¥500/年 |
+| 每月500G | ¥79/月；¥220/季；¥420/半年；¥800/年 |
+| 每月1000G | ¥119/月；¥350/季；¥650/半年 |
+| 每月1500G团体套餐 | ¥366/月；¥880/季 |
+| 每月50G | ¥79/季；¥155/半年；¥300/年 |
+| 轻量一年共200G | ¥199/年 |
 
 悠兔机场已经稳定运营两年以上，有专线和高速隧道两条线路，都是大带宽，日常带宽足够，双线路双保证，从未出现同时离线情况。速度和稳定性不需要担心，
 
