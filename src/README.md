@@ -23,53 +23,327 @@ title: 便宜好用的翻墙机场推荐
 
 |名称|官网地址|试用|最便宜订阅|按流量|TG/群|
 |---|---|---|---|---|---|
-|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)|1天 1G|10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)|1天 2G|12元 100G/月|✔|[TG](https://t.me/flybitvip)|
-|[xxyun](#xxyun)|[xxyun.de](https://xxyun.at/?code=HOWnn58c)|无/试用页|8.89元 100G/月|✔|[TG](https://t.me/+eYsE6P_xvjk2NGY5)|
-|[ccyz](#ccyz)|[ccyz.org](https://ccyz.org/?code=QkQotDCu)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
-|[唯兔云](#唯兔云)|[vip01.onlyrabbit.cc](https://a01.v2cvipaff.cc/#/?code=iaD6AgSx)|无|6元 45G/月|✔|[TG](https://t.me/v2yun_v2)|
-|[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
-|[光速云](#光速云)|[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
-|[极连云](#极连云)|[jly01.jiliancloud.net](https://a01.jlyvipaff.cc/#/register?code=GHDiZb1m)|无|8元 60G/月|✔|[TG](https://t.me/JLYCloud)|
-|[superbiu](#superbiu)|[biubiux.online](https://biubiux.online/#/register?code=BasmsULb)|无|11元 50G/月|✔|[TG](https://t.me/superbiu888)|
-|[cocoduck](#cocoduck)|[www.cocoduck.live](https://www.cocoduck.live/auth/register?code=25c8b515df)|1天2G|15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|
-|[koodog](#koodog)|[koodog.com](https://zero.thisgourl.xyz/#/register?code=BSkBAzZz)|无|5元 35G/月|❌|[TG](https://t.me/KooDogGroup)|
-|[99吧](#_99bar)|[99vpn.bar](https://99vpn.bar/#/register?code=qzpkbzHF)|1天 1G|9.9元 99G/月|✔|[TG](https://t.me/jiujiuchat)|
-|[TNT](#tnt)|[ermaozi01.tntvipaff.cc](https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3)|无|10元 60G/月(季付)|❌|[TG](https://t.me/TNTCloud2)|
-|[CAC](#cac)|[www.cac.mom](https://www.cac.mom/#/register?code=kYL5chvN)|无|7.9元 168G/月|❌|[TG](https://t.me/CAC_Apex)|
-|[纵云梯](#纵云梯)|[zongyunti.com](https://zongyunti.com/?r=60147)|1G 不限时|10元 60G/30天|✔|暂无|
-|[老头vpn](#老头vpn)|[www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)|1月 1G|10元 100G/月|❌|[TG](https://t.me/OldManVPN)|
-|[阿达西](#阿达西)|[adaxi.net](https://adaxi.net/?r=68917)|无|3元 20G/月|✔|暂无|
-|[奈云](#奈云)|[www.v2ny.me](https://www.v2ny.me?path=register&code=FNAu1FWB)|无|10.6元 168G/月(年付)|✔|[TG](https://t.me/v2naiun)|
-|[迅达](#迅达)|[sulianproxy.com](https://sulianproxy.com/register?code=bXIAotbG)|免费试用|15元 120G/月|❌|[TG](https://t.me/xundaroot)|
-|[okanc](#okanc)|[okanc.com](https://www.okanc.com/index.php#/register?code=3YK7Np6R)|无|46元 328G/月|❌|[TG](https://t.me/okancup)|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
-|[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)|无|20元 120G/月|❌|[TG](https://t.me/flashfoxcloud)|
-|[灯塔cloud](#灯塔cloud)|[www.dengta.cloud](https://www.dengta.cloud/#/register?code=n4jB4z5R)|无|10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|
-|[百变小樱](#百变小樱)|[bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)|无|15元 100G/30天|❌|[TG](https://t.me/+IugiUXlyYqgyNjE0)|
-|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)|无|19.9元 100G/月|❌|[TG](https://t.me/dageyun)|
-|[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)|无|12元 100G/月|❌|[TG](https://t.me/niceduck_group)|
-|[加速啦](#加速啦)|[jiasu.la](https://jiasu.la/?r=39116)|1G 不限时|10元 80G/月|✔|[TG](https://t.me/jiasu_la)|
-|[九霄云](#九霄云)|[shop.starpro.one](https://shop.starpro.one/#/register?code=ZXzjv7oD)|2天 6G|15元 200G/月|✔|[QQ](https://qm.qq.com/q/EzY3dgKhIA)|
 |[XSUS](#xsus)|[xsus.cloud](https://xsus.cloud/register?code=xJFcT1Dw)|无|8元 168G/30天|✔|[TG](https://t.me/xsusvpn)|
+|[xxyun](#xxyun)|[xxyun.de](https://xxyun.at/?code=HOWnn58c)|无/试用页|8.89元 100G/月|✔|[TG](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[奈云](#奈云)|[www.v2ny.me](https://www.v2ny.me?path=register&code=FNAu1FWB)|无|10.6元 168G/月(年付)|✔|[TG](https://t.me/v2naiun)|
+|[cocoduck](#cocoduck)|[www.cocoduck.live](https://www.cocoduck.live/auth/register?code=25c8b515df)|1天2G|15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|
+|[网际快车](#网际快车)|[wjkc.click](https://wjkc.click?c=USNCXQ)|无|6.8元 20GB(不限时)|✔|暂无|
+|[阿达西](#阿达西)|[adaxi.net](https://adaxi.net/?r=68917)|无|3元 20G/月|✔|暂无|
+|[老头vpn](#老头vpn)|[www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)|1月 1G|10元 100G/月|❌|[TG](https://t.me/OldManVPN)|
+|[uuone](#uuone)|[uuone.de](https://uuone.at/?code=AjqYdZlJ)|无|12元 150G/月|✔|暂无|
+|[隐云](#隐云)|[wkacc.xyz](https://wkacc.xyz/?code=db949e40)|无|25元 150G/月|❌|暂无|
+|[Runway](#runway)|[runwayhz.com](https://www.runwayhz.com/#/register?code=RiIDywqb)|无|9.9元 100G/月|✔|[TG](https://t.me/runwayhzop)|
+|[唯兔云](#唯兔云)|[vip01.onlyrabbit.cc](https://a01.v2cvipaff.cc/#/?code=iaD6AgSx)|无|6元 45G/月|✔|[TG](https://t.me/v2yun_v2)|
+|[Edge-X](#edge-x)|[edge-x.net](https://edge-invite.com/#/register?code=LCH9laOs)|无|22.8元/月起|❌|[TG](https://t.me/EdgeX_Notice)|
+|[u1s1](#u1s1)|[secha7689.malaixiya1.cyou](https://secha7689.malaixiya1.cyou/#/?code=FC32x5Vs)|无|20元 120G/月|✔|暂无|
+|[一翻云](#一翻云)|[01.1flyunaff.cc](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv)|无|30元 150GB/月|✔|[TG](https://t.me/yifanyun1)|
+|[sogo云](#sogo云)|[01.sogoyunaff.cc](https://01.sogoyunaff.cc/#/login?code=yxneZJKR)|无|20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|
+|[二猫云](#二猫云)|[velmora.2maoyuntt.club](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)|无|20元 100GB/月|❌|暂无|
+|[寰宇云](#寰宇云)|[huanyuyunbest.com](https://huanyuyunbest.com/#/register?code=W82s7u2a)|无|18元 150GB/月(折后约14元)|✔|[TG](https://t.me/+zXIUmCa1aLBmOGQx)|
+|[冲上云霄](#冲上云霄)|[cpdd.one](https://cpdd.one/?r=32083)|1天 1G|5元 80G/30天|✔|[TG](https://t.me/vpnpn123)|
+|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)|无|19.9元 100G/月|❌|[TG](https://t.me/dageyun)|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
+|[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
+|[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)|无|3元 88GB/月|✔|[TG](https://t.me/dankewed1)|
+|[ccyz](#ccyz)|[ccyz.org](https://ccyz.org/?code=QkQotDCu)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
+|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)|1天 1G|10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|
+|[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)|无|8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|
+|[极连云](#极连云)|[jly01.jiliancloud.net](https://a01.jlyvipaff.cc/#/register?code=GHDiZb1m)|无|8元 60G/月|✔|[TG](https://t.me/JLYCloud)|
+|[CAC](#cac)|[www.cac.mom](https://www.cac.mom/#/register?code=kYL5chvN)|无|7.9元 168G/月|❌|[TG](https://t.me/CAC_Apex)|
+|[光年梯](#光年梯)|[ermaozi01.gntvipaff.cc](https://ermaozi01.gntvipaff.cc/#/?code=FSEQIfPr)|无|18元 110G/月|❌|暂无|
+|[灯塔cloud](#灯塔cloud)|[www.dengta.cloud](https://www.dengta.cloud/#/register?code=n4jB4z5R)|无|10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|
+|[CyberGuard](#cyberguard)|[cyberguard.best](https://www.cyberguard.best/#/register?code=yoyUW3R9)|无|18元 100G/月|✔|暂无|
+|[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)|无|20元 120G/月|❌|[TG](https://t.me/flashfoxcloud)|
+|[梦想云](#梦想云)|[gx.dreamcl.sbs](https://gx.dreamcl.sbs/#/register?code=GFUAEweX)|无|8.8元 300GB/月|❌|暂无|
+|[白羊星](#白羊星)|[baiyangxi.com](https://baiyangxi.com/#/register?code=gelkjfjz)|无|12元 100G/月|✔|暂无|
+|[百变小樱](#百变小樱)|[bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)|无|15元 100G/30天|❌|[TG](https://t.me/+IugiUXlyYqgyNjE0)|
+|[okanc](#okanc)|[okanc.com](https://www.okanc.com/index.php#/register?code=3YK7Np6R)|无|46元 328G/月|❌|[TG](https://t.me/okancup)|
+|[纵云梯](#纵云梯)|[zongyunti.com](https://zongyunti.com/?r=60147)|1G 不限时|10元 60G/30天|✔|暂无|
+|[光速云](#光速云)|[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
+|[随便云](#随便云)|[wcnm.one](https://wcnm.one/register?code=YZxHwCws)|无|10元 68G/月|✔|暂无|
+|[加速啦](#加速啦)|[jiasu.la](https://jiasu.la/?r=39116)|1G 不限时|10元 80G/月|✔|[TG](https://t.me/jiasu_la)|
+|[掌中世界](#掌中世界)|[qq.zjs2025.com](https://qq.zjs2025.com/user/register?code=S74QiRGN)|7天免费|咨询官网|❌|暂无|
+|[迅达](#迅达)|[sulianproxy.com](https://sulianproxy.com/register?code=bXIAotbG)|免费试用|15元 120G/月|❌|[TG](https://t.me/xundaroot)|
+|[全球云](#全球云)|[ermaozi01.gcvipaff.cc](https://ermaozi01.gcvipaff.cc/#/?code=PGcNh6bA)|无|20元 120G/月|❌|暂无|
+|[superbiu](#superbiu)|[biubiux.online](https://biubiux.online/#/register?code=BasmsULb)|无|11元 50G/月|✔|[TG](https://t.me/superbiu888)|
+|[TNT](#tnt)|[ermaozi01.tntvipaff.cc](https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3)|无|10元 60G/月(季付)|❌|[TG](https://t.me/TNTCloud2)|
+|[瞬云](#瞬云)|[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)|无|8.25元 59G/月|❌|暂无|
 |[Aladdin](#aladdin)|[www.avatargpt.xyz](https://short.thisgourl.xyz/#/register?code=tvLw0oMj)|无|30元 390G/半年|❌|暂无|
+|[koodog](#koodog)|[koodog.com](https://zero.thisgourl.xyz/#/register?code=BSkBAzZz)|无|5元 35G/月|❌|[TG](https://t.me/KooDogGroup)|
+|[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)|无|12元 100G/月|❌|[TG](https://t.me/niceduck_group)|
+|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)|无|16.9元 100G/月|✔|暂无|
+|[99吧](#_99bar)|[99vpn.bar](https://99vpn.bar/#/register?code=qzpkbzHF)|1天 1G|9.9元 99G/月|✔|[TG](https://t.me/jiujiuchat)|
+|[九霄云](#九霄云)|[shop.starpro.one](https://shop.starpro.one/#/register?code=ZXzjv7oD)|2天 6G|15元 200G/月|✔|[QQ](https://qm.qq.com/q/EzY3dgKhIA)|
 |[小牛云](#小牛云)|[xiaoniuyun.cc](https://www.xiaoniuyun.cc/register/cn?code=n31onhiT)|无|预警(可能跑路)|❌|[TG](https://t.me/aoxcloud)|
 |[EF](#ef)|~~www.efcloud1.com~~|无|已跑路|❌|已跑路|
-|[CyberGuard](#cyberguard)|[cyberguard.best](https://www.cyberguard.best/#/register?code=yoyUW3R9)|无|18元 100G/月|✔|暂无|
 |[悠兔](#悠兔)|[youtu7.shop](https://youtu7.shop/register?aff=kcXosGca)|无|39元 150G/月|❌|暂无|
 |[大讯云](#大讯云)|[cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)|72小时 10G|15元 100G/月|❌|暂无|
 |[猫弦云](#猫弦云)|[svip.maoxian88.buzz](https://svip.maoxian88.buzz/#/register?code=sCCkw2uB)|3天 10G|13元 120G/月|❌|暂无|
 |[小飞象](#小飞象)|[cn3.xiaofeixiang.xyz](https://cn3.xiaofeixiang.xyz/#/register?code=Y3YCU0VC)|3天 10G|25元 200G/月|❌|暂无|
-|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)|无|16.9元 100G/月|✔|暂无|
-|[光年梯](#光年梯)|[ermaozi01.gntvipaff.cc](https://ermaozi01.gntvipaff.cc/#/?code=FSEQIfPr)|无|18元 110G/月|❌|暂无|
-|[全球云](#全球云)|[ermaozi01.gcvipaff.cc](https://ermaozi01.gcvipaff.cc/#/?code=PGcNh6bA)|无|20元 120G/月|❌|暂无|
-|[随便云](#随便云)|[wcnm.one](https://wcnm.one/register?code=YZxHwCws)|无|10元 68G/月|✔|暂无|
-|[uuone](#uuone)|[uuone.de](https://uuone.at/?code=AjqYdZlJ)|无|12元 150G/月|✔|暂无|
 |[天喵](#天喵)|[tianmiaovpn.com](https://tianmiaovpn.com/register?code=6itxcjsx)|免费线路|免费/VIP 25元/月|❌|暂无|
-|[掌中世界](#掌中世界)|[qq.zjs2025.com](https://qq.zjs2025.com/user/register?code=S74QiRGN)|7天免费|咨询官网|❌|暂无|
-|[白羊星](#白羊星)|[baiyangxi.com](https://baiyangxi.com/#/register?code=gelkjfjz)|无|12元 100G/月|✔|暂无|
 
 ## 简介
+
+---
+
+### u1s1
+
+[u1s1](https://secha7689.malaixiya1.cyou/#/?code=FC32x5Vs) 机场是一家主打 IPLC 专线并且不限制设备连接数的翻墙机场。他们拥有最高 2000Mbps 的带宽，并承诺晚高峰不降速。解锁 Netflix、TikTok 等流媒体以及 ChatGPT，最低起步价 20元/120G 每月，也有 580元 1000G 的无限制流量包，适合多设备重度流媒体及AI玩家。
+
+官网：[secha7689.malaixiya1.cyou](https://secha7689.malaixiya1.cyou/#/?code=FC32x5Vs)
+起步价：20元 120G/月
+不限时套餐：有（580元/1000G）
+解锁：Netflix, TikTok, ChatGPT
+定制：支持定制方案与提供小火箭账号
+详情评测：[查看 U1S1 详细评测](./vpnrecs/机场推荐u1s1.md)
+
+---
+
+
+### Edge-X
+
+Edge-X 官网地址：[edge-x.net](https://edge-invite.com/#/register?code=LCH9laOs)
+
+最便宜的订阅为 22.8元/月起。
+无 一次性订阅。
+
+Edge-X 的定位是 IEPL 专线为主、直连节点为补充，并通过倍率策略降低错峰成本。已知信息里 IEPL 日常 1 倍率，02:00-10:00 为 0.5 倍率，直连节点全天 0.2 倍率，更适合先低档验证再升级。
+
+| 套餐名称 | 价格 | 流量 | 适用人群 | 购买链接 |
+| --- | --- | --- | --- | --- |
+| 基础档 | 22.8元/月 | 100GB 或 200GB（以官网支付页为准） | 轻度和中度用户 | [立即购买](https://edge-invite.com/#/register?code=LCH9laOs) |
+| 进阶档 | 34.8元/月 | 300GB/月 | 日常视频与 AI 工具用户 | [立即购买](https://edge-invite.com/#/register?code=LCH9laOs) |
+| 高流量档 | 64.8元/月 | 600GB/月 | 多设备中重度用户 | [立即购买](https://edge-invite.com/#/register?code=LCH9laOs) |
+
+详情评测：[查看 Edge-X 详细评测](./vpnrecs/机场推荐edge-x.md)
+
+---
+
+
+### 网际快车
+
+官网地址：[wjkc.click](https://wjkc.click?c=USNCXQ)
+
+最便宜的套餐：6.8元 20GB（不限时）。
+
+网际快车主打住宅IP、万能订阅与四端专用VPN，支持不限设备数量，适合多设备家庭和长期备用线路场景。
+
+| 套餐名称 | 价格 | 流量/时长 | 特性 | 购买 |
+|----------|------|-----------|------|------|
+| 入门流量包 | ¥6.8 | 20GB（不限时） | 永不过期，不限设备 | [立即购买](https://wjkc.click?c=USNCXQ) |
+| 标准套餐 | ¥16 | 100GB（不限时） | 永不过期 | [立即购买](https://wjkc.click?c=USNCXQ) |
+| 优选套餐 | ¥29 | 200GB（不限时） | 主力推荐 | [立即购买](https://wjkc.click?c=USNCXQ) |
+| 高级套餐 | ¥49 | 380GB（不限时） | 中重度用户 | [立即购买](https://wjkc.click?c=USNCXQ) |
+| 大神套餐 | ¥118 | 1000GB（不限时） | 大流量囤货 | [立即购买](https://wjkc.click?c=USNCXQ) |
+| 至尊套餐 | ¥198 | 1980GB（不限时） | 超大容量 | [立即购买](https://wjkc.click?c=USNCXQ) |
+| 包月套餐 | ¥24 | 30天，每日60GB | 高频使用 | [立即购买](https://wjkc.click?c=USNCXQ) |
+| 包季套餐 | ¥58 | 90天，每日60GB | 连续使用 | [立即购买](https://wjkc.click?c=USNCXQ) |
+| 包年套餐 | ¥186 | 365天，每日60GB | 年度重度用户 | [立即购买](https://wjkc.click?c=USNCXQ) |
+
+---
+
+
+### 隐云
+
+隐云机场官网地址：[wkacc.xyz](https://wkacc.xyz/?code=db949e40)
+
+最便宜的订阅有25元 150G/月。
+
+隐云是业内独家提供 **VPN 专属客户端与通用订阅兼容双模式** 的机场服务商。采用企业级 IPLC / IEPL / BGP 多线路专线架构，覆盖全球 30+ 国家和地区超 100 个节点，99.9% 高可用保障。独家"魔法节点"技术实现服务端智能分流，无需客户端配置即可自动将 Netflix、Disney+、ChatGPT 等服务路由至最优解锁线路。
+
+**付费周期折扣**：月付无折扣 / 季付 95 折 / 年付 8 折
+
+| 套餐 | 模式 | 价格 | 流量 | 设备限制 | 购买链接 |
+|:-----|:-----|-----:|:----:|:--------:|:---------|
+| 轻量版 | 专属客户端 | ¥29/月 | 不限 | 2 台同时在线 | [立即购买](https://wkacc.xyz/?code=db949e40) |
+| 轻量版 | 通用订阅 | ¥25/月 | 150GB/月 | 不限 | [立即购买](https://wkacc.xyz/?code=db949e40) |
+| 标准版 | 专属客户端 | ¥49/月 | 不限 | 5 台同时在线 | [立即购买](https://wkacc.xyz/?code=db949e40) |
+| 标准版 | 通用订阅 | ¥49/月 | 400GB/月 | 不限 | [立即购买](https://wkacc.xyz/?code=db949e40) |
+| 高级版 | 专属客户端 | ¥99/月 | 不限 | 10 台同时在线 | [立即购买](https://wkacc.xyz/?code=db949e40) |
+| 高级版 | 通用订阅 | ¥99/月 | 1024GB/月 | 不限 | [立即购买](https://wkacc.xyz/?code=db949e40) |
+
+---
+
+
+### runway
+
+Runway官网地址：[www.runwayhz.com](https://www.runwayhz.com/#/register?code=RiIDywqb)
+
+最便宜的订阅有9.9元 100G/月。
+
+Runway 主打「打造极致的互联网连接跑道」，采用 Shadowsocks 协议，提供从入门到高流量的分层套餐，支持 Netflix、YouTube 等流媒体解锁。
+
+| 套餐名称 | 月费 | 流量 | 国家接入 | 带宽/速率 | 购买链接 |
+|----------|------|------|----------|-----------|----------|
+| 经济舱 (Economy) | ¥9.90/月 | 100GB/月 | 5+国家 | 限速 200Mbps | [点击购买](https://www.runwayhz.com/#/register?code=RiIDywqb) |
+| 商务舱 (Business) | ¥19.90/月 | 200GB/月 | 10+国家 | 限速 400Mbps | [点击购买](https://www.runwayhz.com/#/register?code=RiIDywqb) |
+| 头等舱 (First Class) | ¥50.00/月 | 600GB/月 | 10+国家 | 不限速 | [点击购买](https://www.runwayhz.com/#/register?code=RiIDywqb) |
+| 空中流量包 | ¥45.00/次 | 150GB/不限时 | 10+国家 | 不限速 | [点击购买](https://www.runwayhz.com/#/register?code=RiIDywqb) |
+
+官方频道：[t.me/runwayhzop](https://t.me/runwayhzop)  
+官方群组：[t.me/Runway_Chat](https://t.me/Runway_Chat)
+
+---
+
+
+### Danke
+
+Danke官网地址：[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)
+
+最便宜套餐：3元 88GB/月。
+
+| 套餐名称 | 价格 | 流量 | 适合人群 | 购买链接 |
+| --- | --- | --- | --- | --- |
+| 年费6T特惠 | ¥68/年 | 每月 500GB（全年 6TB） | 长期稳定使用、预算优先 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+| Mini | ¥9.90/月 | 每月 500GB | 日常刷视频、AI工具中度使用 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+| Pro | ¥18.00/月 | 每月 1000GB | 多设备与重度流量用户 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+| 体验套餐 | ¥3.00/月 | 88GB/30天 | 先测试线路和稳定性 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+| 不限时500GB | ¥49.90/一次性 | 总计 500GB（用完即止） | 低频备用、按量使用 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+| 不限时1000GB | ¥89.90/一次性 | 总计 1000GB（用完即止） | 需要大容量备用流量 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+
+这是一个主打高性价比的中转机场，官方定位是“稳定三年，低至3元/月”。提供 500GB 月付与不限时流量包，支持 AnyTLS 协议，适合想先低成本试用、再按需求升级套餐的用户。
+
+Telegram频道：[https://t.me/dankewed1](https://t.me/dankewed1)
+
+---
+
+
+### 梦想云
+
+梦想云官网地址：[https://gx.dreamcl.sbs/#/register?code=GFUAEweX](https://gx.dreamcl.sbs/#/register?code=GFUAEweX)
+
+试用：无
+
+最便宜的订阅有8.8元 300GB/月。
+
+梦想云开设于 2023 年 2 月，主打三网直连混搭与 BGP 跨境专线，节点以常用五大地区为主。流媒体与 ChatGPT 可用性表现较稳，适合作为日常主力线路。
+
+| 套餐 | 价格 | 流量 | 购买链接 |
+| --- | --- | --- | --- |
+| 轻度-进阶套餐 | ¥8.80/月 | 300GB/月 | [立即购买](https://gx.dreamcl.sbs/#/register?code=GFUAEweX) |
+| 豪华-进阶套餐 | ¥11.90/月 | 500GB/月 | [立即购买](https://gx.dreamcl.sbs/#/register?code=GFUAEweX) |
+| TK专线贵宾V2（联系客服） | ¥250.00/月 | 无限流量 | [注册后联系客服](https://gx.dreamcl.sbs/#/register?code=GFUAEweX) |
+| TK专线贵宾V3（联系客服） | ¥300.00/月 | 500GB/月 | [注册后联系客服](https://gx.dreamcl.sbs/#/register?code=GFUAEweX) |
+
+---
+
+
+### 瞬云
+
+官网地址：[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)
+
+最便宜订阅：99元/年（约 8.25 元/月），59G/月。
+
+瞬云主打 30+ 多地区节点与 ANYCAST 高速线路，官方标示支持 Netflix、Disney+、TikTok、ChatGPT 等场景，支持支付宝、微信、USDT 支付，并提供工单和在线客服。
+
+| 套餐 | 价格 | 流量 | 线路 | 购买地址 |
+| --- | --- | --- | --- | --- |
+| 限时年付小包 | 99元/年 | 59G/月 | ANYCAST高速节点 | [点击购买](https://aaa.jichang.best/#/register?code=QEiJcAPp) |
+| 行者 | 20元/月 | 150G/月 | ANYCAST高速节点 | [点击购买](https://aaa.jichang.best/#/register?code=QEiJcAPp) |
+| 纵横 | 36元/月 | 300G/月 | ANYCAST高速节点 | [点击购买](https://aaa.jichang.best/#/register?code=QEiJcAPp) |
+| 凌霄 | 68元/月 | 600G/月 | ANYCAST高速节点 | [点击购买](https://aaa.jichang.best/#/register?code=QEiJcAPp) |
+
+---
+
+
+### 一翻云
+
+官网地址：[01.1flyunaff.cc](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv)
+
+优惠码：`YFY168`（限时 8 折）
+
+最便宜订阅：30元 150GB/月。
+
+一翻云适合预算敏感、希望先从小档位验证可用性的用户。套餐梯度从 150GB 到 1200GB，覆盖轻度到中重度需求，同时提供一次性流量包；通用订阅暂不支持，更建议按月付路径逐步升级。
+
+| 套餐 | 月付 | 流量 | 购买地址 |
+| --- | --- | --- | --- |
+| VIP1 | 30元/月 | 150GB/月 | [点击购买](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv) |
+| VIP2 | 60元/月 | 300GB/月 | [点击购买](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv) |
+| VIP3 | 120元/月 | 600GB/月 | [点击购买](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv) |
+| VIP4 | 240元/月 | 1200GB/月 | [点击购买](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv) |
+
+---
+
+
+### Sogo云
+
+Sogo云官网地址：[01.sogoyunaff.cc](https://01.sogoyunaff.cc/#/login?code=yxneZJKR)
+
+最便宜的订阅为 20元 120GB/月(活动档)，常规月付从 25元 120GB/月起。
+有 一次性订阅。
+
+Sogo云定位偏新手友好，提供自研客户端一键使用，同时支持通用订阅导入。作为新开业服务，更建议先用低档套餐连续验证高峰稳定性，再决定是否长期使用。
+
+| 套餐名称 | 价格 | 流量 | 适用人群 | 购买链接 |
+|----------|------|------|----------|----------|
+| 基础版 | 25元/月 | 120GB/月 | 轻度用户 | [立即购买](https://01.sogoyunaff.cc/#/login?code=yxneZJKR) |
+| 优选版 | 50元/月 | 250GB/月 | 日常主力 | [立即购买](https://01.sogoyunaff.cc/#/login?code=yxneZJKR) |
+| 强化版 | 100元/月 | 500GB/月 | 中重度用户 | [立即购买](https://01.sogoyunaff.cc/#/login?code=yxneZJKR) |
+| 顶配版 | 200元/月 | 1000GB/月 | 高频用户 | [立即购买](https://01.sogoyunaff.cc/#/login?code=yxneZJKR) |
+| 一次性基础 | 100元 | 100GB | 短期备用 | [立即购买](https://01.sogoyunaff.cc/#/login?code=yxneZJKR) |
+
+---
+
+
+### 二猫云
+
+二猫云官网地址：[二猫云官网](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)
+
+最便宜的订阅为 20元 100GB/月。
+无 一次性订阅。
+
+二猫云定位是新开业的专线型月付机场，套餐阶梯从 100GB 到 800GB，适合先用低档验证晚高峰稳定性后再升级。
+
+| 套餐名称 | 价格 | 流量 | 适用人群 | 购买链接 |
+|----------|------|------|----------|----------|
+| 白猫套餐 | 20元/月 | 100GB/月 | 轻度用户、备用线用户 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+| 橘猫畅玩版 | 40元/月 | 200GB/月 | 日常主力用户 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+| 牛奶猫尊享版 | 80元/月 | 400GB/月 | 中重度使用者 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+| 黑猫无限版 | 160元/月 | 800GB/月 | 高频多设备用户 | [立即购买](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A) |
+
+---
+
+### 寰宇云
+
+寰宇云官网地址：[huanyuyunbest.com](https://huanyuyunbest.com/#/register?code=W82s7u2a)
+
+最便宜的订阅为 18元 150GB/月，活动后约 14元。
+有 一次性订阅。
+
+寰宇云是新开业的 IPLC 中转定位机场，月付、年付小包和不限时流量包并行，适合先低成本验证本地可用性，再决定是否升级长期使用。
+
+| 套餐名称 | 价格 | 流量 | 适用人群 | 购买链接 |
+|----------|------|------|----------|----------|
+| 限定年付小包 | 89元/年 | 60GB/月 | 轻度小流量用户、备用线用户 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 卫星 | 18元/月（折后约14元） | 150GB/月 | 轻度到中度日常用户 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 行星 | 34元/月 | 300GB/月 | 中度流媒体与 AI 工具用户 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 恒星 | 60元/月 | 600GB/月 | 重度多设备用户 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 巨量不限时 | 168元/一次性 | 1000GB 总量 | 低频备用需求 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+| 海量不限时 | 398元/一次性 | 3000GB 总量 | 中长期非连续高频用户 | [立即购买](https://huanyuyunbest.com/#/register?code=W82s7u2a) |
+
+---
+
+
+### 传送门
+
+官网地址：[https://aa.csmfby.com](https://aa.csmfby.com/?code=b9eUUu00)
+
+传送门的定位很明确：降低客户端与订阅维护门槛，强调“打开即用”。如果你经常遇到订阅失效、客户端配置复杂、晚高峰卡顿，这类把运维能力封装进自研 App 的机场，会比传统只给订阅链接的服务更省心。
+
+| 套餐 | 价格 | 周期 | 流量 | 设备数 | 限速 | 备注 |
+|------|------|------|------|--------|------|------|
+| 包月无限流量 | ¥68.00 | 月付 | 不限量 | 1 台 | 500 Mbps | 官方提示流量异常可能封禁 |
+| 包月 200G | ¥29.80 | 月付 | 200G/月 | 3 台 | 5000 Mbps | 含全部节点 |
+| 包月 400G | ¥39.90 | 月付 | 400G/月 | 3 台 | 5000 Mbps | 含全部节点 |
+| 包年 1000G | ¥99.00 | 年付 | 1000G/年 | 3 台 | 1000 Mbps | 月均约 8 元 |
+| 永久 2000G | ¥168.00 | 一次性 | 2000G 总量 | 3 台 | 2000 Mbps | 官方标注“绝版” |
+| 永久 3800G | ¥268.00 | 一次性 | 3800G 总量 | 3 台 | 2000 Mbps | 官方标注“绝版” |
+| 家宽原生 IP 独享专线 | ¥488.00 | 月付 | 定制 | 定制 | 定制 | 面向虾皮/TikTok/直播/跨境场景 |
+
+---
+
 
 ### ssone
 
