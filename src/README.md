@@ -32,7 +32,7 @@ title: 便宜好用的翻墙机场推荐
 |[光速云](#光速云)|[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
 |[极连云](#极连云)|[jly01.jiliancloud.net](https://a01.jlyvipaff.cc/#/register?code=GHDiZb1m)|无|8元 60G/月|✔|[TG](https://t.me/JLYCloud)|
 |[superbiu](#superbiu)|[biubiux.online](https://biubiux.online/#/register?code=BasmsULb)|无|11元 50G/月|✔|[TG](https://t.me/superbiu888)|
-|[cocoduck](#cocoduck)|[cocoduck.live](https://cocoduck.live/auth/register?code=25c8b515df)|1天2G|15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|
+|[cocoduck](#cocoduck)|[www.cocoduck.live](https://www.cocoduck.live/auth/register?code=25c8b515df)|1天2G|15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|
 |[koodog](#koodog)|[koodog.com](https://zero.thisgourl.xyz/#/register?code=BSkBAzZz)|无|5元 35G/月|❌|[TG](https://t.me/KooDogGroup)|
 |[99吧](#_99bar)|[99vpn.bar](https://99vpn.bar/#/register?code=qzpkbzHF)|1天 1G|9.9元 99G/月|✔|[TG](https://t.me/jiujiuchat)|
 |[TNT](#tnt)|[ermaozi01.tntvipaff.cc](https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3)|无|10元 60G/月(季付)|❌|[TG](https://t.me/TNTCloud2)|
@@ -563,7 +563,7 @@ okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术
 
 ### cocoduck
 
-官网地址：[cocoduck.live](https://cocoduck.live/auth/register?code=25c8b515df)
+官网地址：[www.cocoduck.live](https://www.cocoduck.live/auth/register?code=25c8b515df)
 
 试用：1天2G，最便宜有15元 150G/月。海外团队运营，自有多个机房，适合需要稳定解锁与流媒体支持的用户。
 
