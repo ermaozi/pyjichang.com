@@ -46,8 +46,8 @@ title: 便宜好用的翻墙机场推荐
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
 |[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
 |[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)|无|3元 88GB/月|✔|[TG](https://t.me/dankewed1)|
-|[ccyz](#ccyz)|[ccyz.org](https://ccyz.org/?code=QkQotDCu)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
-|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)|1天 1G|10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|
+|[ccyz](#ccyz)|[ccyz.org](https://xxyun.at/?code=HOWnn58c)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
+|[ssone](#ssone)|[hello-ssone.com](https://www.flybit6202.com/#/register?code=MmE2PsQJ)|1天 1G|10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[青云梯](#青云梯)|[ermaozi02.qytvipaff.cc](https://ermaozi02.qytvipaff.cc/register?aff=W5ICDu2y)|无|8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|
 |[极连云](#极连云)|[jly01.jiliancloud.net](https://a01.jlyvipaff.cc/#/register?code=GHDiZb1m)|无|8元 60G/月|✔|[TG](https://t.me/JLYCloud)|
 |[CAC](#cac)|[www.cac.mom](https://www.cac.mom/#/register?code=kYL5chvN)|无|7.9元 168G/月|❌|[TG](https://t.me/CAC_Apex)|
@@ -347,7 +347,7 @@ Sogo云定位偏新手友好，提供自研客户端一键使用，同时支持�
 
 ### ssone
 
-注册链接：[m.ssone.io](https://hello-ssone.com/register?aff=aBHsE1pF)
+注册链接：[m.ssone.io](https://www.flybit6202.com/#/register?code=MmE2PsQJ)
 
 邀请码：aBHsE1pF
 
@@ -789,7 +789,7 @@ okanc机场是一个新机场，但是与奈云同宗同源，有奈云的技术
 
 ### ccyz
 
-注册链接：[ccyz.org](https://ccyz.org/?code=QkQotDCu)
+注册链接：[ccyz.org](https://xxyun.at/?code=HOWnn58c)
 
 最便宜的订阅有15元 150G/月。主打高性价比与专线稳定，适合长期使用或需要稳定带宽的用户。
 
