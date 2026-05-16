@@ -16,7 +16,7 @@ tags:
 
 Sogo云属于新开业机场，主打自研客户端一键使用，并保留通用订阅导入能力。整体定位不是极致低价，而是用更低配置门槛换取更快上手。
 
-官网地址：[01.sogoyunaff.cc](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR)
+官网地址：[01.sogoyunaff.cc](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR)
 
 <!-- more -->
 

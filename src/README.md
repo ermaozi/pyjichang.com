@@ -38,7 +38,7 @@ title: 便宜好用的翻墙机场推荐
 |[Edge-X](#edge-x)|[edge-x.net](https://edge-invite.com/#/register?code=LCH9laOs)|无|22.8元/月起|❌|[TG](https://t.me/EdgeX_Notice)|
 |[u1s1](#u1s1)|[ermaozi01.vipaff.cc](https://ermaozi01.vipaff.cc/#/?code=FC32x5Vs)|无|20元 120G/月|✔|暂无|
 |[一翻云](#一翻云)|[01.1flyunaff.cc](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv)|无|30元 150GB/月|✔|[TG](https://t.me/yifanyun1)|
-|[sogo云](#sogo云)|[01.sogoyunaff.cc](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR)|无|20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|
+|[sogo云](#sogo云)|[01.sogoyunaff.cc](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR)|无|20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|
 |[二猫云](#二猫云)|[velmora.2maoyuntt.club](https://velmora.2maoyuntt.club/#/register?code=6n2UaV1A)|无|20元 100GB/月|❌|暂无|
 |[寰宇云](#寰宇云)|[huanyuyunbest.com](https://huanyuyunbest.com/#/register?code=W82s7u2a)|无|18元 150GB/月(折后约14元)|✔|[TG](https://t.me/+zXIUmCa1aLBmOGQx)|
 |[冲上云霄](#冲上云霄)|[cpdd.one](https://cpdd.one/?r=32083)|1天 1G|5元 80G/30天|✔|[TG](https://t.me/vpnpn123)|
@@ -269,7 +269,7 @@ Telegram频道：[https://t.me/dankewed1](https://t.me/dankewed1)
 
 ### Sogo云
 
-Sogo云官网地址：[01.sogoyunaff.cc](https://vip4.huanyuyunbest.com/#/register?code=yxneZJKR)
+Sogo云官网地址：[01.sogoyunaff.cc](https://trevona.sogocloudz.cc/#/login?code=yxneZJKR)
 
 最便宜的订阅为 20元 120GB/月(活动档)，常规月付从 25元 120GB/月起。
 有 一次性订阅。
