@@ -45,7 +45,7 @@ title: 便宜好用的翻墙机场推荐
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)|无|19.9元 100G/月|❌|[TG](https://t.me/dageyun)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
 |[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
-|[Danke](#danke)|[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)|无|3元 88GB/月|✔|[TG](https://t.me/dankewed1)|
+|[Danke](#danke)|[www.dankewed.com](https://www.dankewed.com/#/register?code=a0zksG3J)|无|3元 88GB/月|✔|[TG](https://t.me/dankewed1)|
 |[ccyz](#ccyz)|[ccyz.org](https://xxyun.at/?code=HOWnn58c)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
 |[ssone](#ssone)|[hello-ssone.com](https://www.flybit6202.com/#/register?code=MmE2PsQJ)|1天 1G|10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[青云梯](#青云梯)|[ermaozi02.qytvipaff.cc](https://ermaozi02.qytvipaff.cc/register?aff=W5ICDu2y)|无|8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|
@@ -189,18 +189,18 @@ Runway 主打「打造极致的互联网连接跑道」，采用 Shadowsocks 协
 
 ### Danke
 
-Danke官网地址：[2iipd.dklineo.top](https://2iipd.dklineo.top/#/register?code=a0zksG3J)
+Danke官网地址：[www.dankewed.com](https://www.dankewed.com/#/register?code=a0zksG3J)
 
 最便宜套餐：3元 88GB/月。
 
 | 套餐名称 | 价格 | 流量 | 适合人群 | 购买链接 |
 | --- | --- | --- | --- | --- |
-| 年费6T特惠 | ¥68/年 | 每月 500GB（全年 6TB） | 长期稳定使用、预算优先 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| Mini | ¥9.90/月 | 每月 500GB | 日常刷视频、AI工具中度使用 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| Pro | ¥18.00/月 | 每月 1000GB | 多设备与重度流量用户 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 体验套餐 | ¥3.00/月 | 88GB/30天 | 先测试线路和稳定性 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 不限时500GB | ¥49.90/一次性 | 总计 500GB（用完即止） | 低频备用、按量使用 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 不限时1000GB | ¥89.90/一次性 | 总计 1000GB（用完即止） | 需要大容量备用流量 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+| 年费6T特惠 | ¥68/年 | 每月 500GB（全年 6TB） | 长期稳定使用、预算优先 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| Mini | ¥9.90/月 | 每月 500GB | 日常刷视频、AI工具中度使用 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| Pro | ¥18.00/月 | 每月 1000GB | 多设备与重度流量用户 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 体验套餐 | ¥3.00/月 | 88GB/30天 | 先测试线路和稳定性 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 不限时500GB | ¥49.90/一次性 | 总计 500GB（用完即止） | 低频备用、按量使用 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 不限时1000GB | ¥89.90/一次性 | 总计 1000GB（用完即止） | 需要大容量备用流量 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
 
 这是一个主打高性价比的中转机场，官方定位是“稳定三年，低至3元/月”。提供 500GB 月付与不限时流量包，支持 AnyTLS 协议，适合想先低成本试用、再按需求升级套餐的用户。
 

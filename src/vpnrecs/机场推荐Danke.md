@@ -17,7 +17,7 @@ tags:
 
 Danke是一类“先低成本试用，再逐步升级”的机场方案。它的核心卖点不是单一高配，而是提供了多种成本结构：体验月付、常规月付和一次性不限时流量包。
 
-官网地址：[https://2iipd.dklineo.top/#/register?code=a0zksG3J](https://2iipd.dklineo.top/#/register?code=a0zksG3J)
+官网地址：[https://www.dankewed.com/#/register?code=a0zksG3J](https://www.dankewed.com/#/register?code=a0zksG3J)
 
 <!-- more -->
 
@@ -40,12 +40,12 @@ Danke是一类“先低成本试用，再逐步升级”的机场方案。它的
 
 | 套餐名称 | 价格 | 流量 | 适用人群 | 购买链接 |
 | --- | --- | --- | --- | --- |
-| 年费6T特惠 | ¥68/年 | 每月500GB（全年6TB） | 长期稳定使用、预算优先 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| Mini | ¥9.90/月 | 每月500GB | 日常刷视频、AI工具中度使用 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| Pro | ¥18.00/月 | 每月1000GB | 多设备与重度流量用户 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 体验套餐 | ¥3.00/月 | 88GB/30天 | 首次测试线路与稳定性 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 不限时500GB | ¥49.90/一次性 | 500GB总量 | 低频备用用户 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
-| 不限时1000GB | ¥89.90/一次性 | 1000GB总量 | 需要大容量备用流量 | [立即购买](https://2iipd.dklineo.top/#/register?code=a0zksG3J) |
+| 年费6T特惠 | ¥68/年 | 每月500GB（全年6TB） | 长期稳定使用、预算优先 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| Mini | ¥9.90/月 | 每月500GB | 日常刷视频、AI工具中度使用 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| Pro | ¥18.00/月 | 每月1000GB | 多设备与重度流量用户 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 体验套餐 | ¥3.00/月 | 88GB/30天 | 首次测试线路与稳定性 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 不限时500GB | ¥49.90/一次性 | 500GB总量 | 低频备用用户 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
+| 不限时1000GB | ¥89.90/一次性 | 1000GB总量 | 需要大容量备用流量 | [立即购买](https://www.dankewed.com/#/register?code=a0zksG3J) |
 
 ## 推荐购买顺序
 
