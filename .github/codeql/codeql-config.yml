@@ -1,0 +1,10 @@
+name: pyjichang-codeql-config
+
+# 仓库中的 JS/TS 源文件集中在 VuePress 配置目录，显式包含以避免 no source code seen。
+paths:
+  - src/.vuepress
+
+paths-ignore:
+  - node_modules
+  - src/.vuepress/dist
+  - src/.vuepress/.cache
