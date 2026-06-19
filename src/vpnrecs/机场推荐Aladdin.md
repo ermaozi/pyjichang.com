@@ -1,5 +1,5 @@
 ---
-title: Aladdin机场评测2026：30元390G半年付，适不适合当备用线
+title: ✈️机场推荐【Aladdin】- 30元390G半年付，适不适合当备用线
 description: Aladdin最低30元可买390GB半年付，主打高质量节点、主流流媒体解锁和 OpenAI 可访问。本文按参数卡、适合人群和风险边界整理已确认信息，避免过度推断。
 createTime: 2026/04/03 19:15:00
 permalink: /vpnrecs/aladdin/

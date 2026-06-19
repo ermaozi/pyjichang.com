@@ -1,5 +1,5 @@
 ---
-title: 2026 SuperBiu机场评测：三网IPLC专线全球流媒体秒开｜11元50G便宜机场推荐
+title: ✈️机场推荐【superbiu】- 三网IPLC专线全球流媒体秒开、11元50G便宜
 createTime: 2025/10/14 02:45:20
 permalink: /vpnrecs/superbiu/
 tags:

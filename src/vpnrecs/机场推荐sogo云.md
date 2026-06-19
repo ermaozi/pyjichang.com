@@ -1,5 +1,5 @@
 ---
-title: Sogo云机场评测2026：20元120GB起，自研客户端是否省心
+title: ✈️机场推荐【sogo云】- 20元120GB起，自研客户端是否省心
 description: Sogo云提供自研客户端一键使用与通用订阅并行方案，活动档20元120GB/月。本文按参数卡、套餐选择、适合人群和风险边界给出客观选购建议。
 createTime: 2026/04/14 15:20:00
 permalink: /vpnrecs/sogoyun/

@@ -1,5 +1,5 @@
 ---
-title: 2026 CocoDuck机场评测：海外团队自有机房｜两年稳定运营老牌机场推荐
+title: ✈️机场推荐【cocoduck】- 海外团队自有机房、两年稳定运营老牌
 createTime: 2025/09/16 04:48:48
 permalink: /vpnrecs/cocoduck/
 tags:

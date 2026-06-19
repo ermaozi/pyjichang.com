@@ -1,5 +1,5 @@
 ---
-title: xxai机场评测2026：16.9元100G，适不适合AI工具和低延迟场景
+title: ✈️机场推荐【xxai】- 16.9元100G
 description: xxai最低16.9元100GB/月，主打全IEPL专线、低延迟游戏与直播专线，以及AI工具和流媒体解锁。本文按参数卡、适合人群和风险边界整理可确认信息。
 createTime: 2026/04/03 19:25:00
 permalink: /vpnrecs/xxai/

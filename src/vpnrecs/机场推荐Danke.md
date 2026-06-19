@@ -1,5 +1,5 @@
 ---
-title: Danke机场评测2026：3元体验档与不限时流量包怎么选
+title: ✈️机场推荐【Danke】- 3元体验档与不限时流量包怎么选
 description: Danke主打低门槛入场，3元体验档、月付500GB和不限时流量包并存。本文从“成本模型、场景匹配、选购顺序”三方面，给出更实用的购买策略。
 createTime: 2026/04/03 18:55:00
 permalink: /vpnrecs/danke/

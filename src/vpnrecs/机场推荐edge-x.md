@@ -1,5 +1,5 @@
 ---
-title: Edge-X机场评测2026：22.8元档怎么选，IEPL倍率策略是否划算
+title: ✈️机场推荐【edge-x】- 22.8元档怎么选
 description: Edge-X主打IEPL专线+低倍率策略，支持流媒体与AI工具。本文按参数卡、套餐选择、适合人群和风险边界给你一套实用购买判断。
 createTime: 2026/05/09 12:30:00
 permalink: /vpnrecs/edge-x/
