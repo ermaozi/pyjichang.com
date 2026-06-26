@@ -40,7 +40,7 @@ title: 便宜好用的翻墙机场推荐
 |[边缘节点](#边缘节点)|[ermaozi.edgenovaaff.cc](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy)|无|108元/年付45G|❌|暂无|
 |[u1s1](#u1s1)|[ermaozi01.vipaff.cc](https://ermaozi01.vipaff.cc/#/?code=FC32x5Vs)|无|20元 120G/月|✔|暂无|
 |[快狸](#快狸)|[ermaozi.kuailicloud.cc](https://ermaozi.kuailicloud.cc/#/register?code=nwj3Tk14)|无|10元 30G/月|❌|暂无|
-|[一翻云](#一翻云)|[01.1flyunaff.cc](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv)|无|30元 150GB/月|✔|[TG](https://t.me/yifanyun1)|
+|[一翻云](#一翻云)|[01.1flyunaff.cc](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv)|无|30元 150GB/月|✔|[TG](https://t.me/yifanyun1)|
 |[sogo云](#sogo云)|[01.sogoyunaff.cc](https://01.sogoyunaff.cc/#/login?code=yxneZJKR)|无|20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|
 |[二猫云](#二猫云)|[v01.2maoyunaff.cc](https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A)|无|20元 100GB/月|❌|暂无|
 |[寰宇云](#寰宇云)|[vip4.huanyuyunbest.com](https://vip4.huanyuyunbest.com/#/register?code=W82s7u2a)|无|18元 150GB/月(折后约14元)|✔|[TG](https://t.me/+zXIUmCa1aLBmOGQx)|
@@ -316,7 +316,7 @@ Telegram频道：[https://t.me/dankewed1](https://t.me/dankewed1)
 
 ### 一翻云
 
-官网地址：[01.1flyunaff.cc](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv)
+官网地址：[01.1flyunaff.cc](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv)
 
 优惠码：`YFY168`（限时 8 折）
 
@@ -326,10 +326,10 @@ Telegram频道：[https://t.me/dankewed1](https://t.me/dankewed1)
 
 | 套餐 | 月付 | 流量 | 购买地址 |
 | --- | --- | --- | --- |
-| VIP1 | 30元/月 | 150GB/月 | [点击购买](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv) |
-| VIP2 | 60元/月 | 300GB/月 | [点击购买](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv) |
-| VIP3 | 120元/月 | 600GB/月 | [点击购买](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv) |
-| VIP4 | 240元/月 | 1200GB/月 | [点击购买](https://falmera.1flyuntt.cc/#/register?code=wQxPnuZv) |
+| VIP1 | 30元/月 | 150GB/月 | [点击购买](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv) |
+| VIP2 | 60元/月 | 300GB/月 | [点击购买](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv) |
+| VIP3 | 120元/月 | 600GB/月 | [点击购买](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv) |
+| VIP4 | 240元/月 | 1200GB/月 | [点击购买](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv) |
 
 ---
 
