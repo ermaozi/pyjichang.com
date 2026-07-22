@@ -21,7 +21,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "© 2026 便宜机场评测 · <a href='/about.html'>关于与评测方法</a> · <a href='/disclosure.html'>推广披露</a>",
 
   // 加密配置
   encrypt: {
@@ -133,6 +133,13 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
     search: true,
+    seo: {
+      fallBackImage: "https://www.pyjichang.com/logo.png",
+      twitterID: "@ermaozi4",
+    },
+    sitemap: {
+      changefreq: "weekly",
+    },
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
