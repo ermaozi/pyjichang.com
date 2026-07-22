@@ -6,6 +6,17 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
+  extendsPage: (page) => {
+    const canonicalUrl = new URL(page.path, "https://www.pyjichang.com").href;
+    const head = Array.isArray(page.frontmatter.head) ? page.frontmatter.head : [];
+
+    if (!head.some((item) => Array.isArray(item) && item[0] === "link" && item[1]?.rel === "canonical")) {
+      head.push(["link", { rel: "canonical", href: canonicalUrl }]);
+    }
+
+    page.frontmatter.head = head;
+  },
+
   lang: "zh-CN",
   title: "便宜机场评测",
   description: "专注低价机场套餐的价格核验、试用条件、风险记录与选购方法，帮助预算有限的用户先试后买。",
