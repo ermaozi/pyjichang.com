@@ -1,4 +1,8 @@
-User-agent:*
-Disallow:
+User-agent: *
+Allow: /
 
 Sitemap: https://www.pyjichang.com/sitemap.xml
+
+
+User-agent:*
+Disallow:
