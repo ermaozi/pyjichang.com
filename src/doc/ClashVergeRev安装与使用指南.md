@@ -1,11 +1,24 @@
 ---
 title: macOS ClashVergeRev 安装与使用指南
-createTime: 2025/01/22 22:50:41
+description: >-
+  Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼容 M 芯片和 Intel 芯片。本文将为您详细介绍如何在 macOS
+  上安装和配置 Clash Verge Rev，帮助您顺利开始使用。
+lastUpdated: true
 permalink: /doc/6vxkmmuh/
+tags:
+  - 翻墙
+  - 科学上网
+  - Clash
+  - macOS
+  - Mac
 ---
+> **内容基准与时效说明**：本教程内容、适用版本与安全提醒以二毛主站为基准。软件界面可能随版本变化，下载时应优先核验官方项目地址和文件签名。
+>
+> 主站原文：[https://www.ermao.net/article/6vxkmmuh/](https://www.ermao.net/article/6vxkmmuh/)
+
 Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼容 M 芯片和 Intel 芯片。本文将为您详细介绍如何在 macOS 上安装和配置 Clash Verge Rev，帮助您顺利开始使用。
 
-<!-- more -->
+
 
 ## 1. 下载与安装
 
@@ -13,8 +26,8 @@ Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼
 前往 Clash Verge Rev 的官方网站，根据您的设备架构下载相应的版本：
 
 - **GitHub (推荐)**: [Clash Verge Rev Releases](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)
-- M 芯片版本: [Clash.Verge-aarch64.dmg](https://down.shudongapi.monster/client-download/Clash.Verge-aarch64.dmg)
-- Intel 芯片版本: [Clash.Verge.dmg](https://down.shudongapi.monster/client-download/Clash.Verge.dmg)
+- [Clash Verge macOS x64 Intel 芯片下载](https://file.ermao.net/files/clash-verge-rev/Clash.Verge.Mac.x64.dmg)
+- [Clash Verge macOS Apple Silicon (M 系列)](https://file.ermao.net/files/clash-verge-rev/Clash.Verge.Mac.aarch64.dmg)
 
 ### 安装过程：
 1. 下载完成后，双击打开 `.dmg` 文件，系统可能会提示您允许打开来自未知开发者的文件。
@@ -33,7 +46,7 @@ Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼
 ## 2. 基本设置
 
 ### 添加订阅链接：
-如果没有订阅链接，可以参考这篇文章：[https://www.pyjichang.com](https://www.pyjichang.com)。
+如果没有订阅链接，可以参考这篇文章：[https://www.ermao.net/posts/vpn](https://www.ermao.net/posts/vpn)。
 
 1. 打开 **Clash Verge Rev** 软件，点击顶部菜单栏中的“订阅”选项。
 2. 在订阅页面，将复制好的订阅地址粘贴到“订阅文件链接”框内，并点击“导入”。
@@ -88,3 +101,10 @@ Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼
 ---
 
 以上就是在 macOS 上安装和配置 **Clash Verge Rev** 的完整步骤，按照这些简单的指导，您可以快速开始使用这一高效的代理工具。如果有任何问题，请随时查阅官方教程或联系我们获取更多帮助！
+
+## 信息来源、风险与更新说明
+
+- 本页事实基准来自[二毛主站原文](https://www.ermao.net/article/6vxkmmuh/)，同步时保留主站的更新时间与风险结论。
+- 服务商宣传不等于独立验证；“专线、解锁、不限速”等信息如无测试环境说明，应理解为官方标称或有限样本。
+- 价格、流量、节点和可用性可能随时变化。首次购买建议选择短周期或小流量档，并保留订单与客服记录。
+- 本页可能含推广参数，站点可能获得佣金，但这不构成稳定性或存续保证。

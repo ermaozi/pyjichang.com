@@ -1,44 +1,56 @@
 ---
-title: 🚀 Shadowrocket(iOS小火箭) 新手使用教程
-createTime: 2025/01/03 18:18:11
+title: Shadowrocket(小火箭)新手使用教程2026：下载安装、节点订阅与配置指南(含免费美区ID)
+description: >-
+  2026最新Shadowrocket（小火箭）新手使用教程。详细介绍如何在iOS/iPhone/iPad及Mac上下载安装Shadowrocket，如何获取免费美区Apple
+  ID，以及如何配置节点订阅链接进行科学上网。
+lastUpdated: true
 permalink: /doc/z747kgjd/
 tags:
-    - Shadowrocket
-    - 科学上网
-    - iOS
-    - Mac
-    - 苹果
-    - 教程
-    - VPN
+  - Shadowrocket
+  - 小火箭
+  - 科学上网
+  - iOS翻墙
+  - Mac
+  - 苹果VPN
+  - 教程
+  - 节点订阅
 ---
+> **内容基准与时效说明**：本教程内容、适用版本与安全提醒以二毛主站为基准。软件界面可能随版本变化，下载时应优先核验官方项目地址和文件签名。
+>
+> 主站原文：[https://www.ermao.net/article/z747kgjd/](https://www.ermao.net/article/z747kgjd/)
 
-苹果手机、苹果电脑、iOS设备、Mac设备都可以使用Shadowrocket进行科学上网。教新手朋友们如何安装并使用Shadowrocket。
+> **温馨提示**
+>
+> 由于 Shadowrocket（小火箭）在 App Store 中属于付费软件，如果您没有已购买的账号或者不想花钱，强烈推荐使用全免费的替代客户端：[iOS Clash Mi 使用教程](https://www.ermao.net/blog/clashmi/)。
+本文为2026年最新Shadowrocket（小火箭）使用教程，适用于iPhone、iPad等iOS设备及Mac电脑。我们将手把手教新手朋友如何下载安装Shadowrocket，如何添加节点订阅链接，以及如何开启代理进行科学上网。文章内还提供免费的非国区Apple ID供大家下载Shadowrocket。
 
-文章内有免费的非国区Apple ID供大家下载Shadowrocket，如果有需要的朋友可以使用。
 
-<!-- more -->
 
 ## 0. Shadowrocket介绍
 
-正版的shadowrkcket在商店里是这个样子的
+正版 Shadowrocket 在商店里是这个样子的。
 
-![alt text](<images/Shadowrocket 新手使用教程/image.png>)
+![Shadowrocket新手使用教程 示例图片](https://image.ermao.net/images/article/z747kgjd/image.png)
 
 ## 1. 下载与安装
 
-shadowrocket把并没有上线国区应用商店，首先需要先切换到我们提供的ID。
+Shadowrocket 并没有上线国区应用商店，首先需要切换到我们提供的 Apple ID。
 
-<iframe src="https://s.jiesuo.one/s/ef714f6a92bd4b2ead41b19af6fec920" width="80%" height="750px" style="border: 2px solid #ccc; border-radius: 10px; overflow: auto;" scrolling="yes"></iframe>
+[🍎最新免费美区Apple ID共享账号 | Shadowrocket/小火箭下载 | iOS美区账号每日更新](https://www.ermao.net/blog/freeappleid/) — 最新免费共享美区Apple ID账号，每日更新可用。提供美国、日本、韩国、香港、台湾等地区iOS账号，支持下载Shadowrocket（小火箭）、TikTok、ChatGPT等海外应用。
 
-请注意一定要按步骤在App Store登录，切勿在手机“设置”中登录。
 
-1. 打开手机桌面appstore应用点击头像滑到底部退出自己的账号，复制我们的账号点登录后一定要在弹出的APPLE ID安全页面选择“其它选项”-不升级。
+> **警告！**
+>
+> 使用共享账号时请注意一定要按步骤在App Store登录，切勿在手机“设置”中登录。
+> 
+> 在“设置”中登录 Apple ID 会==导致锁机==！
+1. 打开手机桌面的 App Store，点击头像并滑到底部退出自己的账号；登录共享账号后，在弹出的 Apple ID 安全页面选择“其它选项 - 不升级”。
 
-2. 完成后appstore将会自动切换成英文商店(也有可能是中文)，果登录上商店还是中文界面请重启一下AppStore或者手机试试
+2. 完成后 App Store 会自动切换到对应商店（也可能仍显示中文界面）；如果没有变化，请重启 App Store 或手机再试。
 
-3. 搜索“Shadowrocket”。看我们教程最上面的图标核对一下注意辨别不要下载到山寨应用了。
+3. 搜索“Shadowrocket”，按本文顶部图标核对，避免下载到山寨应用；也可直接点击 [Shadowrocket下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118) 跳转下载。
 
-4. 安装完成后，打开Shadowrocket。
+4. 安装完成后，打开 Shadowrocket。
 
 5. 为了你的手机安全，下载完成后及时退出我们的账号。
 
@@ -50,7 +62,7 @@ shadowrocket把并没有上线国区应用商店，首先需要先切换到我�
 
 1. 如果没有订阅链接，可以点击下方卡片直接去各大机场购买。
 
-<LinkCard title="✈️便宜好用的翻墙机场推荐评测" href="https://www.pyjichang.com/" description="最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。" />
+[✈️便宜好用的翻墙机场推荐评测](https://www.ermao.net/posts/vpn/) — 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。
 
 2. 然后打开Shadowrocket应用。
 
@@ -66,18 +78,21 @@ shadowrocket把并没有上线国区应用商店，首先需要先切换到我�
 
 ## 4. 启动代理
 
-1. 将右上角的开关拨到“开启”位置，代理开始工作。
+1. 将右上角的开关拨到“开启”位置，代理开始工作。首次连接需输入锁屏密码或 Face ID 授权 配置。
+
+![20260112 111749 15697a](https://image.ermao.net/images/article/z747kgjd/20260112_111749-15697a.png)
 
 2. 你可以在状态栏看到一个VPN图标，表示Shadowrocket正在运行。
 
 ## 5. 测试连接
+
 1. 打开浏览器，访问一个被墙的网站（例如Google.com）。
 
 2. 如果网站可以正常访问，说明Shadowrocket配置成功。
 
 ## 6. 高级设置（可选）
 
-1. 规则设置：默认在全局路由里设置，建议保持”配置“，如果有个别网站没有代理上，请在”全局路由“选择”代理“试试
+1. 规则设置：默认在“全局路由”里设置，建议保持“配置”；如果个别网站没有走代理，可在“全局路由”选择“代理”测试。
 
 2. 测速：在主页点击"连通性测试"，以选择连通性正常的节点。
 
@@ -90,3 +105,16 @@ shadowrocket把并没有上线国区应用商店，首先需要先切换到我�
 ## 8. 其他
 
 更新订阅：点击主页订阅旁边的更新“圆圈”按钮，会自动更新。
+
+## 9. 延伸阅读
+
+- [小火箭规则配置教程（分流与去广告）](https://www.ermao.net/blog/shadowrocket-rules-config/)
+- [iOS Clash Mi 使用教程](https://www.ermao.net/blog/clashmi/)
+- [手机如何翻墙（Android + iOS）](https://www.ermao.net/blog/how-to-vpn-on-mobile/)
+
+## 信息来源、风险与更新说明
+
+- 本页事实基准来自[二毛主站原文](https://www.ermao.net/article/z747kgjd/)，同步时保留主站的更新时间与风险结论。
+- 服务商宣传不等于独立验证；“专线、解锁、不限速”等信息如无测试环境说明，应理解为官方标称或有限样本。
+- 价格、流量、节点和可用性可能随时变化。首次购买建议选择短周期或小流量档，并保留订单与客服记录。
+- 本页可能含推广参数，站点可能获得佣金，但这不构成稳定性或存续保证。

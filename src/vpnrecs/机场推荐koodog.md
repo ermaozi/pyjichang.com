@@ -1,6 +1,9 @@
 ---
 title: ✈️机场推荐【koodog】- 新机场，便宜实惠，体验流畅
-createTime: 2025/08/23 13:36:29
+description: >-
+  KooDog 使用 Trojan 协议，相对安全稳定。网络入口提供了三网专线支持，实测 单线程峰值可跑到
+  2Gbps，无论是刷流媒体还是下载大文件，表现都非常流畅。 KooDog 机场官网地址：koodog.com
+lastUpdated: true
 permalink: /vpnrecs/rq55p9dn/
 tags:
   - 科学上网
@@ -11,10 +14,14 @@ tags:
   - 便宜机场
   - koodog
 ---
+> **内容基准与时效说明**：本站从低预算和试错成本角度整理以下资料。套餐事实与风险状态以二毛主站为基准，购买前仍需复核服务商结算页。
+>
+> 主站原文：[https://www.ermao.net/article/rq55p9dn/](https://www.ermao.net/article/rq55p9dn/)
 
 [KooDog](https://zero.thisgourl.xyz/#/register?code=BSkBAzZz) 使用 Trojan 协议，相对安全稳定。网络入口提供了三网专线支持，实测 单线程峰值可跑到 2Gbps，无论是刷流媒体还是下载大文件，表现都非常流畅。
 
 KooDog 机场官网地址：[koodog.com](https://zero.thisgourl.xyz/#/register?code=BSkBAzZz)
+
 
 
 ## KooDog 机场官网地址
@@ -79,10 +86,17 @@ KooDog 机场官网地址：[koodog.com](https://zero.thisgourl.xyz/#/register?c
 
 ## 机场汇总
 
-[https://www.pyjichang.com)
+[https://www.ermao.net/posts/vpn](https://www.ermao.net/posts/vpn)
 
 ## 客户端使用方法
 
-- 📱 [clash for Android](https://www.pyjichang.com/doc/eh8f4n86/)
-- 🖥 [clash for Windows](https://www.pyjichang.com/doc/0gematwc/)
-- 🍎 [clash for iOS](https://www.pyjichang.com/doc/z747kgjd/)
+- 📱 [clash for Android](https://www.ermao.net/article/eh8f4n86/)
+- 🖥 [clash for Windows](https://www.ermao.net/article/0gematwc/)
+- 🍎 [clash for iOS](https://www.ermao.net/article/z747kgjd/)
+
+## 信息来源、风险与更新说明
+
+- 本页事实基准来自[二毛主站原文](https://www.ermao.net/article/rq55p9dn/)，同步时保留主站的更新时间与风险结论。
+- 服务商宣传不等于独立验证；“专线、解锁、不限速”等信息如无测试环境说明，应理解为官方标称或有限样本。
+- 价格、流量、节点和可用性可能随时变化。首次购买建议选择短周期或小流量档，并保留订单与客服记录。
+- 本页可能含推广参数，站点可能获得佣金，但这不构成稳定性或存续保证。

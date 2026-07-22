@@ -53,6 +53,8 @@ title: 便宜好用的翻墙机场推荐
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
 |[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
 |[Danke](#danke)|[www.dankewed.com](https://www.dankewed.com/#/register?code=a0zksG3J)|无|3元 88GB/月|✔|[TG](https://t.me/dankewed1)|
+|[影子云](#影子云)|[www.yingzi01.com](https://www.yingzi01.com/register?code=TYHpo13G)|无|18.80元 150GB/月|✔|暂无|
+|[山水云](#山水云)|[ss2.byvvcsx.com](https://ss2.byvvcsx.com/#/register?code=zQA4TyPT)|无|14.99元 100G/月|✔|[TG](https://t.me/ssyun999)|
 |[ccyz](#ccyz)|[ccyz.org](https://xxyun.at/?code=HOWnn58c)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
 |[ssone](#ssone)|[hello-ssone.com](https://www.flybit6202.com/#/register?code=MmE2PsQJ)|1天 1G|10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[青云梯](#青云梯)|[ermaozi02.qytvipaff.cc](https://ermaozi02.qytvipaff.cc/register?aff=W5ICDu2y)|无|8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|
@@ -267,6 +269,36 @@ Danke官网地址：[www.dankewed.com](https://www.dankewed.com/#/register?code=
 这是一个主打高性价比的中转机场，官方定位是“稳定三年，低至3元/月”。提供 500GB 月付与不限时流量包，支持 AnyTLS 协议，适合想先低成本试用、再按需求升级套餐的用户。
 
 Telegram频道：[https://t.me/dankewed1](https://t.me/dankewed1)
+
+---
+
+
+### 影子云
+
+影子云官网地址：[www.yingzi01.com](https://www.yingzi01.com/register?code=TYHpo13G)
+
+最便宜的订阅为 18.80元 150GB/月。
+有 一次性订阅。
+
+影子云采用海外公有云中转，支持 AnyTLS、Hysteria2 等协议，同时提供通用订阅和不限时流量包，适合先用低档套餐测试本地线路。
+
+详情评测：[查看影子云详细评测](./vpnrecs/机场推荐影子云.md)
+
+---
+
+
+### 山水云
+
+山水云官网地址：[ss2.byvvcsx.com](https://ss2.byvvcsx.com/#/register?code=zQA4TyPT)
+
+最便宜的订阅为 14.99元 100G/月。
+有 一次性订阅。
+
+山水云提供中转和直连节点，并有月付与不限时流量包，适合先购买入门套餐测试晚高峰速度和稳定性。
+
+Telegram群组：[https://t.me/ssyun999](https://t.me/ssyun999)
+
+详情评测：[查看山水云详细评测](./vpnrecs/机场推荐山水云.md)
 
 ---
 

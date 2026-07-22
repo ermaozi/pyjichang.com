@@ -1,9 +1,11 @@
 ---
 title: 跑路机场
 index: false
-icon: mdi:airplane-landing
+icon: 'mdi:airplane-landing'
 category:
   - 跑路机场
+lastUpdated: true
+description: 跑路机场的历史信息、适用范围与风险说明；当前事实以二毛主站在维护页面为准。
 ---
 
 ## 如果有疑似跑路机场，请在评论区留言，我们会尽快核实。
