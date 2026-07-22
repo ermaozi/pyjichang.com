@@ -5,7 +5,7 @@ icon: 'mdi:airplane-landing'
 category:
   - 跑路机场
 lastUpdated: true
-description: 跑路机场的历史信息、适用范围与风险说明；当前事实以二毛主站在维护页面为准。
+description: 汇总机场失联、长时间不可用与疑似跑路的历史记录、核实标准和提交方式；当前事实以二毛主站在维护页面为准。
 ---
 
 ## 如果有疑似跑路机场，请在评论区留言，我们会尽快核实。
