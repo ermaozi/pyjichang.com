@@ -4,6 +4,7 @@ description: >-
   OKAC/OKANC近期出现线路持续异常、官网不可访问、客服与管理响应中断等问题；OKAC与奈云、隐云、CAC同属一个运营主体，且奈云已确认跑路，当前按跑路预警处理。
 lastUpdated: true
 permalink: /vpnrecs/giwzl7sq/
+redirectFrom: /vpnrecs/okanc/
 tags:
   - 科学上网
   - VPN

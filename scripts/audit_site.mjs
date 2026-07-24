@@ -50,7 +50,15 @@ for (const { route, html } of pages) {
   if (indexable && !description) add("error", "missing-description", route, "缺少 description");
   else if (indexable && (description.length < 45 || description.length > 180)) add("warning", "description-length", route, `${description.length} 字符`);
   if (indexable && !canonical) add("error", "missing-canonical", route, "缺少 canonical");
-  else if (canonical && canonical !== site && !canonical.startsWith(`${site}/`)) add("error", "canonical-host", route, canonical);
+  else if (canonical) {
+    try {
+      const canonicalUrl = new URL(canonical, `${site}${route}`);
+      const canonicalRoute = decodeURI(canonicalUrl.pathname).replace(/\/index\.html$/, "/") || "/";
+      if (canonicalUrl.origin !== site) add("error", "canonical-host", route, canonical);
+      else if (!routes.has(canonicalRoute)) add("error", "canonical-target", route, canonical);
+    }
+    catch { add("error", "invalid-canonical", route, canonical); }
+  }
   if (indexable && h1Count !== 1) add("warning", "h1-count", route, `${h1Count} 个 H1`);
 
   for (const script of html.match(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>[\s\S]*?<\/script>/gi) ?? []) {
