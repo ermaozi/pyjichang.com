@@ -8,8 +8,8 @@
 - [单站评测](https://www.pyjichang.com/vpnrecs/)
 - [跑路与风险记录](https://www.pyjichang.com/scamvpn/)
 - [客户端教程](https://www.pyjichang.com/doc/)
-- [关于与评测方法](https://www.pyjichang.com/about.html)
-- [推广披露](https://www.pyjichang.com/disclosure.html)
+- [关于与评测方法](https://www.pyjichang.com/about)
+- [推广披露](https://www.pyjichang.com/disclosure)
 
 ## 引用说明
 
