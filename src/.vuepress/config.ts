@@ -39,11 +39,11 @@ export default defineUserConfig({
           name: "便宜机场评测",
           description: "低价机场套餐价格核验、试用条件、风险记录与选购方法。",
           inLanguage: "zh-CN",
-          publisher: { "@id": "https://www.pyjichang.com/about.html#organization" },
+          publisher: { "@id": "https://www.pyjichang.com/about#organization" },
         },
         {
           "@type": "Organization",
-          "@id": "https://www.pyjichang.com/about.html#organization",
+          "@id": "https://www.pyjichang.com/about#organization",
           name: "便宜机场评测",
           url: "https://www.pyjichang.com/",
           logo: { "@type": "ImageObject", url: "https://www.pyjichang.com/logo.png" },

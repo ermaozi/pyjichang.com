@@ -1,6 +1,7 @@
 ---
 title: 关于便宜机场评测与评测方法
 description: 了解本站的低价机场评测定位、套餐与风险核对方法、内容更新规则、风险处置标准以及联系与更正渠道。
+permalink: /about
 head:
   - - meta
     - property: og:type

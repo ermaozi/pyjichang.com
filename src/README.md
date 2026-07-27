@@ -359,6 +359,8 @@ Telegram群组：[https://t.me/ssyun999](https://t.me/ssyun999)
 | VIP3 | 120元/月 | 600GB/月 | [点击购买](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv) |
 | VIP4 | 240元/月 | 1200GB/月 | [点击购买](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv) |
 
+[查看一翻云详细评测](/vpnrecs/yifanyun/)
+
 ---
 
 

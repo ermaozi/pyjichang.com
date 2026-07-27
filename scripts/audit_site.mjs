@@ -28,12 +28,18 @@ const routeOf = (file) => {
   const relative = path.relative(dist, file).split(path.sep).join("/");
   return relative === "index.html" ? "/" : `/${relative.replace(/index\.html$/, "")}`;
 };
+const aliasesOf = (route) => {
+  const aliases = [route];
+  if (route.endsWith("/")) aliases.push(route.slice(0, -1) || "/");
+  if (route.endsWith(".html")) aliases.push(route.slice(0, -5));
+  return aliases;
+};
 
 const files = await listHtml(dist);
 if (!files.length) throw new Error("未找到构建产物，请先运行 pnpm build");
 
 const pages = await Promise.all(files.map(async (file) => ({ file, route: routeOf(file), html: await fs.readFile(file, "utf8") })));
-const routes = new Set(pages.flatMap(({ route }) => [route, route.endsWith("/") ? route.slice(0, -1) || "/" : route]));
+const routes = new Set(pages.flatMap(({ route }) => aliasesOf(route)));
 const issues = [];
 const add = (level, type, route, detail) => issues.push({ level, type, route, detail });
 

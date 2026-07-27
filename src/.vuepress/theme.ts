@@ -21,7 +21,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "© 2026 便宜机场评测 · <a href='/about.html'>关于与评测方法</a> · <a href='/disclosure.html'>推广披露</a>",
+  footer: "© 2026 便宜机场评测 · <a href='/about'>关于与评测方法</a> · <a href='/disclosure'>推广披露</a>",
 
   // 加密配置
   encrypt: {

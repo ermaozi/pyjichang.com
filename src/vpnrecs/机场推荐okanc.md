@@ -1,7 +1,7 @@
 ---
-title: ⚠️【风险预警】OKAC/OKANC机场跑路预警，停止续费购买
+title: OKANC 机场怎么样？官网现状与跑路预警（已停止推荐）
 description: >-
-  OKAC/OKANC近期出现线路持续异常、官网不可访问、客服与管理响应中断等问题；OKAC与奈云、隐云、CAC同属一个运营主体，且奈云已确认跑路，当前按跑路预警处理。
+  OKANC机场怎么样？本页保留OKAC/OKANC官网、历史套餐与测试资料，并记录线路异常、官网不可访问及客服响应中断等问题；当前按跑路预警处理，已停止推荐。
 lastUpdated: true
 permalink: /vpnrecs/giwzl7sq/
 redirectFrom: /vpnrecs/okanc/
@@ -27,6 +27,8 @@ tags:
 > OKAC 与奈云、隐云、CAC 属于同一运营主体。奈云已确认跑路，同主体下多个项目近期已经出现官网、节点、客服和管理响应异常。
 > 
 > 请立即停止续费与新增购买，并保存套餐、支付、订阅和客服沟通记录。详情见：[OKAC机场跑路预警](https://www.ermao.net/scamvpn/okac/)
+>
+> 站内核实记录：[OKAC/OKANC 机场跑路预警与风险说明](/scamvpn/okac/)
 okanc机场官网地址：~~okanc.com~~
 
 
