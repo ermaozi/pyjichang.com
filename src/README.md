@@ -32,7 +32,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 |[XSUS](#xsus)|[xsus.cloud](https://xsus.cloud/register?code=xJFcT1Dw)|无|8元 168G/30天|✔|[TG](https://t.me/xsusvpn)|
 |[xxyun](#xxyun)|[xxyun.de](https://xxyun.at/?code=HOWnn58c)|无/试用页|8.89元 100G/月|✔|[TG](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[奈云](#奈云)|~~www.v2ny.me~~|无|❌ 已确认跑路|❌|[风险详情](/scamvpn/naiyun/)|
-|[cocoduck](#cocoduck)|[www.cocoduck.live](https://www.cocoduck.live/auth/register?code=25c8b515df)|1天2G|15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|
+|[cocoduck](#cocoduck)|[www.cocoduck.site](https://www.cocoduck.site/auth/register?code=25c8b515df)|1天2G|15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|
 |[网际快车](#网际快车)|[ermao.快车.com](https://ermao.快车.com?c=USNCXQ)|无|6.8元 20GB(不限时)|✔|暂无|
 |[阿达西](#阿达西)|[adaxi.net](https://adaxi.net/?r=68917)|无|3元 20G/月|✔|暂无|
 |[老头vpn](#老头vpn)|[www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)|1月 1G|10元 100G/月|❌|[TG](https://t.me/OldManVPN)|
@@ -915,7 +915,7 @@ OKAC/OKANC 已出现线路持续异常、官网不可访问、客服与管理响
 
 ### cocoduck
 
-官网地址：[www.cocoduck.live](https://www.cocoduck.live/auth/register?code=25c8b515df)
+官网地址：[www.cocoduck.site](https://www.cocoduck.site/auth/register?code=25c8b515df)
 
 试用：1天2G，最便宜有15元 150G/月。海外团队运营，自有多个机房，适合需要稳定解锁与流媒体支持的用户。
 
