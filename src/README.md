@@ -67,7 +67,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)|无|20元 120G/月|❌|[TG](https://t.me/flashfoxcloud)|
 |[梦想云](#梦想云)|[gx.dreamcl.sbs](https://gx.dreamcl.sbs/#/register?code=GFUAEweX)|无|8.8元 300GB/月|❌|暂无|
 |[白羊星](#白羊星)|[baiyangxi.com](https://baiyangxi.com/#/register?code=gelkjfjz)|无|12元 100G/月|✔|暂无|
-|[百变小樱](#百变小樱)|[bbxy88.com](https://cn2.cardsakura.buzz/v2/register?code=WuuD)|无|15元 100G/30天|❌|[TG](https://t.me/+IugiUXlyYqgyNjE0)|
+|[百变小樱](#百变小樱)|[www.bbxy88.xyz](https://www.bbxy88.xyz/v2/register?code=WuuD)|无|15元 100G/30天|❌|[TG](https://t.me/+IugiUXlyYqgyNjE0)|
 |[okanc](#okanc)|~~okanc.com~~|无|⚠️ 跑路预警|❌|[风险详情](/scamvpn/okac/)|
 |[纵云梯](#纵云梯)|[zongyunti.com](https://zongyunti.com/?r=60147)|1G 不限时|10元 60G/30天|✔|暂无|
 |[光速云](#光速云)|[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
@@ -603,7 +603,7 @@ OKAC/OKANC 已出现线路持续异常、官网不可访问、客服与管理响
 
 ### 百变小樱
 
-注册链接：[https://bbxy88.com](https://cn2.cardsakura.buzz/v2/register?code=WuuD)
+注册链接：[https://www.bbxy88.xyz](https://www.bbxy88.xyz/v2/register?code=WuuD)
 
 试用：无
 
@@ -1005,7 +1005,7 @@ OKAC/OKANC 当前按跑路预警处理，详情见：[OKAC/OKANC机场跑路预�
 
 ### 百变小樱
 
-官网地址：[bbxy88.com](https://cn2.cardsakura.buzz/v2/register?code=WuuD)
+官网地址：[www.bbxy88.xyz](https://www.bbxy88.xyz/v2/register?code=WuuD)
 
 最便宜有15元 100G/30天。低调小众机场，稳定且支持SSR系列客户端。
 
