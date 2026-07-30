@@ -70,7 +70,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 |[百变小樱](#百变小樱)|[www.bbxy88.xyz](https://www.bbxy88.xyz/v2/register?code=WuuD)|无|15元 100G/30天|❌|[TG](https://t.me/+IugiUXlyYqgyNjE0)|
 |[okanc](#okanc)|~~okanc.com~~|无|⚠️ 跑路预警|❌|[风险详情](/scamvpn/okac/)|
 |[纵云梯](#纵云梯)|[zongyunti.com](https://zongyunti.com/?r=60147)|1G 不限时|10元 60G/30天|✔|暂无|
-|[光速云](#光速云)|[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
+|[光速云](#光速云)|[ermaozi01.gsyvipaff.com](https://ermaozi01.gsyvipaff.com/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
 |[随便云](#随便云)|[wcnm.one](https://wcnm.one/register?code=YZxHwCws)|无|10元 68G/月|✔|暂无|
 |[加速啦](#加速啦)|[jiasu.la](https://jiasu.la/?r=39116)|1G 不限时|10元 80G/月|✔|[TG](https://t.me/jiasu_la)|
 |[掌中世界](#掌中世界)|[qq.zjs2025.com](https://qq.zjs2025.com/user/register?code=S74QiRGN)|7天免费|咨询官网|❌|暂无|
@@ -891,7 +891,7 @@ OKAC/OKANC 已出现线路持续异常、官网不可访问、客服与管理响
 
 ### 光速云
 
-官网地址：[zimaoer01.gsyvipaff.cc](https://zimaoer01.gsyvipaff.cc/#/?code=d1eMb3ku)
+官网地址：[ermaozi01.gsyvipaff.com](https://ermaozi01.gsyvipaff.com/#/?code=d1eMb3ku)
 
 最便宜的订阅有8.25元 59G/月。IEPL专线，适合需要稳定低延迟的用户。
 
