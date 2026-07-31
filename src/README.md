@@ -51,7 +51,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 |[寰宇云](#寰宇云)|[vip4.huanyuyunbest.com](https://vip4.huanyuyunbest.com/#/register?code=W82s7u2a)|无|18元 150GB/月(折后约14元)|✔|[TG](https://t.me/+zXIUmCa1aLBmOGQx)|
 |[冲上云霄](#冲上云霄)|[cpdd.one](https://cpdd.one/?r=32083)|1天 1G|5元 80G/30天|✔|[TG](https://t.me/vpnpn123)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)|无|19.9元 100G/月|❌|[TG](https://t.me/dageyun)|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
+|[龙猫云](#龙猫云)|[ermaozi01.lmvipaff.com](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
 |[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
 |[Danke](#danke)|[www.dankewed.com](https://www.dankewed.com/#/register?code=a0zksG3J)|无|3元 88GB/月|✔|[TG](https://t.me/dankewed1)|
 |[影子云](#影子云)|[www.yingzi01.com](https://www.yingzi01.com/register?code=TYHpo13G)|无|18.80元 150GB/月|✔|暂无|
@@ -751,7 +751,7 @@ OKAC/OKANC 已出现线路持续异常、官网不可访问、客服与管理响
 
 ### 龙猫云
 
-注册链接：[lmspeed.co](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)
+注册链接：[ermaozi01.lmvipaff.com](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)
 
 邀请码：aOkm2wPW
 
