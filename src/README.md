@@ -61,7 +61,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 |[青云梯](#青云梯)|[ermaozi02.qytvipaff.cc](https://ermaozi02.qytvipaff.cc/register?aff=W5ICDu2y)|无|8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|
 |[极连云](#极连云)|[jly01.jiliancloud.net](https://a01.jlyvipaff.cc/#/register?code=GHDiZb1m)|无|8元 60G/月|✔|[TG](https://t.me/JLYCloud)|
 |[CAC](#cac)|~~www.cac.mom~~|无|⚠️ 跑路预警|❌|[风险详情](/scamvpn/cac/)|
-|[光年梯](#光年梯)|[ermaozi01.gntvipaff.cc](https://ermaozi01.gntvipaff.cc/#/?code=FSEQIfPr)|无|18元 110G/月|❌|暂无|
+|[光年梯](#光年梯)|[ermaozi02.gntvipaff.cc](https://ermaozi02.gntvipaff.cc/#/?code=FSEQIfPr)|无|18元 110G/月|❌|暂无|
 |[灯塔cloud](#灯塔cloud)|[www.dengta.cloud](https://www.dengta.cloud/#/register?code=n4jB4z5R)|无|10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|
 |[CyberGuard](#cyberguard)|[cyberguard.best](https://www.cyberguard.best/#/register?code=yoyUW3R9)|无|18元 100G/月|✔|暂无|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)|无|20元 120G/月|❌|[TG](https://t.me/flashfoxcloud)|
@@ -75,7 +75,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 |[加速啦](#加速啦)|[jiasu.la](https://jiasu.la/?r=39116)|1G 不限时|10元 80G/月|✔|[TG](https://t.me/jiasu_la)|
 |[掌中世界](#掌中世界)|[qq.zjs2025.com](https://qq.zjs2025.com/user/register?code=S74QiRGN)|7天免费|咨询官网|❌|暂无|
 |[迅达](#迅达)|[sulianproxy.com](https://sulianproxy.com/register?code=bXIAotbG)|免费试用|15元 120G/月|❌|[TG](https://t.me/xundaroot)|
-|[全球云](#全球云)|[ermaozi01.gcvipaff.cc](https://ermaozi01.gcvipaff.cc/#/?code=PGcNh6bA)|无|20元 120G/月|❌|暂无|
+|[全球云](#全球云)|[hueue09.gcvipaff.com](https://hueue09.gcvipaff.com/#/?code=PGcNh6bA)|无|20元 120G/月|❌|暂无|
 |[superbiu](#superbiu)|[biubiux.online](https://biubiux.online/#/register?code=BasmsULb)|无|11元 50G/月|✔|[TG](https://t.me/superbiu888)|
 |[TNT](#tnt)|[ermaozi01.tntvipaff.cc](https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3)|无|10元 60G/月(季付)|❌|[TG](https://t.me/TNTCloud2)|
 |[瞬云](#瞬云)|[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)|无|8.25元 59G/月|❌|暂无|
@@ -1037,7 +1037,7 @@ XSUS官网经常无法访问，客服长时间不回复消息，telegram公告�
 
 ### 光年梯
 
-官网地址：[ermaozi01.gntvipaff.cc](https://ermaozi01.gntvipaff.cc/#/?code=FSEQIfPr)
+官网地址：[ermaozi02.gntvipaff.cc](https://ermaozi02.gntvipaff.cc/#/?code=FSEQIfPr)
 
 最便宜的订阅有18元 110G/月。
 
@@ -1055,7 +1055,7 @@ XSUS官网经常无法访问，客服长时间不回复消息，telegram公告�
 
 ### 全球云
 
-官网地址：[ermaozi01.gcvipaff.cc](https://ermaozi01.gcvipaff.cc/#/?code=PGcNh6bA)
+官网地址：[hueue09.gcvipaff.com](https://hueue09.gcvipaff.com/#/?code=PGcNh6bA)
 
 最便宜的订阅有20元 120G/月。
 
