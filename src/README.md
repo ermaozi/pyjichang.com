@@ -23,77 +23,80 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 点击名称可以看到详情
 
 ::: warning 最新风险提醒
-奈云已确认跑路；隐云、CAC、OKAC/OKANC 与奈云同属一个运营主体，当前均不建议继续购买或续费。相关详情见：[奈云已确认跑路](/scamvpn/naiyun/)、[隐云预警](/scamvpn/yinyun/)、[CAC预警](/scamvpn/cac/)、[OKAC预警](/scamvpn/okac/)。
+奈云已确认跑路；CAC与OKAC/OKANC保留各自风险记录。隐云已按主站2026年10月1日复核移出名单，详见[隐云当前资料](/vpnrecs/yinyun/)。
 :::
 
-|名称|官网地址|试用|最便宜订阅|按流量|TG/群|
-|---|---|---|---|---|---|
-|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)|1天 2G|12元 100G/月|✔|[TG](https://t.me/flybitvip)|
-|[XSUS](#xsus)|[xsus.cloud](https://xsus.cloud/register?code=xJFcT1Dw)|无|8元 168G/30天|✔|[TG](https://t.me/xsusvpn)|
-|[xxyun](#xxyun)|[xxyun.de](https://xxyun.at/?code=HOWnn58c)|无/试用页|8.89元 100G/月|✔|[TG](https://t.me/+eYsE6P_xvjk2NGY5)|
-|[奈云](#奈云)|~~www.v2ny.me~~|无|❌ 已确认跑路|❌|[风险详情](/scamvpn/naiyun/)|
-|[cocoduck](#cocoduck)|[www.cocoduck.site](https://www.cocoduck.site/auth/register?code=25c8b515df)|1天2G|15元 150G/月|❌|[TG](https://t.me/cocoduck_pub)|
-|[网际快车](#网际快车)|[ermao.快车.com](https://ermao.快车.com?c=USNCXQ)|无|6.8元 20GB(不限时)|✔|暂无|
-|[阿达西](#阿达西)|[adaxi.net](https://adaxi.net/?r=68917)|无|3元 20G/月|✔|暂无|
-|[老头vpn](#老头vpn)|[www.chattous.net](https://www.chattous.net/register?code=3OWtZ9Bi)|1月 1G|10元 100G/月|❌|[TG](https://t.me/OldManVPN)|
-|[uuone](#uuone)|[uuone.de](https://uuone.at/?code=AjqYdZlJ)|无|12元 150G/月|✔|暂无|
-|[隐云](#隐云)|~~wkacc.xyz~~|无|⚠️ 跑路预警|❌|[风险详情](/scamvpn/yinyun/)|
-|[Runway](#runway)|[runwayhz.com](https://www.runwayhz.com/#/register?code=RiIDywqb)|无|9.9元 100G/月|✔|[TG](https://t.me/runwayhzop)|
-|[速界](#速界)|[speedworld.cc](https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx)|无|25元/月起|❌|暂无|
-|[唯兔云](#唯兔云)|[vip01.onlyrabbit.cc](https://a01.v2cvipaff.cc/#/?code=iaD6AgSx)|无|6元 45G/月|✔|[TG](https://t.me/v2yun_v2)|
-|[Edge-X](#edge-x)|[edge-x.net](https://edge-invite.com/#/register?code=LCH9laOs)|无|22.8元/月起|❌|[TG](https://t.me/EdgeX_Notice)|
-|[边缘节点](#边缘节点)|[ermaozi.edgenovaaff.cc](https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy)|无|108元/年付45G|❌|暂无|
-|[u1s1](#u1s1)|[ermaozi01.vipaff.cc](https://ermaozi01.vipaff.cc/#/?code=FC32x5Vs)|无|20元 120G/月|✔|暂无|
-|[快狸](#快狸)|[ermaozi.kuailicloud.cc](https://ermaozi.kuailicloud.cc/#/register?code=nwj3Tk14)|无|10元 30G/月|❌|暂无|
-|[一翻云](#一翻云)|[01.1flyunaff.cc](https://ermaozi.yifanaff.com/#/register?code=wQxPnuZv)|无|30元 150GB/月|✔|[TG](https://t.me/yifanyun1)|
-|[sogo云](#sogo云)|[ermaozi.sogoaff.com](https://ermaozi.sogoaff.com/#/login?code=yxneZJKR)|无|20元 120GB/月(活动档)|✔|[TG](https://t.me/sogoyun1)|
-|[二猫云](#二猫云)|[v01.2maoyunaff.cc](https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A)|无|20元 100GB/月|❌|暂无|
-|[寰宇云](#寰宇云)|[vip4.huanyuyunbest.com](https://vip4.huanyuyunbest.com/#/register?code=W82s7u2a)|无|18元 150GB/月(折后约14元)|✔|[TG](https://t.me/+zXIUmCa1aLBmOGQx)|
-|[冲上云霄](#冲上云霄)|[cpdd.one](https://cpdd.one/?r=32083)|1天 1G|5元 80G/30天|✔|[TG](https://t.me/vpnpn123)|
-|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)|无|19.9元 100G/月|❌|[TG](https://t.me/dageyun)|
-|[龙猫云](#龙猫云)|[ermaozi01.lmvipaff.com](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)|无|15元 100G/月|❌|[TG](https://t.me/totoro_clouds)|
-|[星岛梦](#星岛梦)|[a01.sdmvipaff.cc](https://a01.sdmvipaff.cc/#/?code=O9Q9H6VY)|无|16元 100G/月|✔|[TG](https://t.me/thundermousecc)|
-|[Danke](#danke)|[www.dankewed.com](https://www.dankewed.com/#/register?code=a0zksG3J)|无|3元 88GB/月|✔|[TG](https://t.me/dankewed1)|
-|[影子云](#影子云)|[www.yingzi01.com](https://www.yingzi01.com/register?code=TYHpo13G)|无|18.80元 150GB/月|✔|暂无|
-|[山水云](#山水云)|[ss2.byvvcsx.com](https://ss2.byvvcsx.com/#/register?code=zQA4TyPT)|无|14.99元 100G/月|✔|[TG](https://t.me/ssyun999)|
-|[ccyz](#ccyz)|[ccyz.org](https://xxyun.at/?code=HOWnn58c)|1G 试用|15元 150G/月|✔|[TG](https://t.me/+jiosLuqA9Mk0Yjkx)|
-|[ssone](#ssone)|[hello-ssone.com](https://www.flybit6202.com/#/register?code=MmE2PsQJ)|1天 1G|10元 60G/月|❌|[TG](https://t.me/+rYzRmCbJfIw3ZTM1)|
-|[青云梯](#青云梯)|[ermaozi02.qytvipaff.cc](https://ermaozi02.qytvipaff.cc/register?aff=W5ICDu2y)|无|8 元60g/月(年付)|❌|[TG](https://t.me/qingyunticc)|
-|[极连云](#极连云)|[jly01.jiliancloud.net](https://a01.jlyvipaff.cc/#/register?code=GHDiZb1m)|无|8元 60G/月|✔|[TG](https://t.me/JLYCloud)|
-|[CAC](#cac)|~~www.cac.mom~~|无|⚠️ 跑路预警|❌|[风险详情](/scamvpn/cac/)|
-|[光年梯](#光年梯)|[ermaozi02.gntvipaff.cc](https://ermaozi02.gntvipaff.cc/#/?code=FSEQIfPr)|无|18元 110G/月|❌|暂无|
-|[灯塔cloud](#灯塔cloud)|[www.dengta.cloud](https://www.dengta.cloud/#/register?code=n4jB4z5R)|无|10元 100G/月|❌|[TG](https://t.me/+xBRgJGSBcNdlNWJl)|
-|[CyberGuard](#cyberguard)|[cyberguard.best](https://www.cyberguard.best/#/register?code=yoyUW3R9)|无|18元 100G/月|✔|暂无|
-|[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)|无|20元 120G/月|❌|[TG](https://t.me/flashfoxcloud)|
-|[梦想云](#梦想云)|[gx.dreamcl.sbs](https://gx.dreamcl.sbs/#/register?code=GFUAEweX)|无|8.8元 300GB/月|❌|暂无|
-|[白羊星](#白羊星)|[baiyangxi.com](https://baiyangxi.com/#/register?code=gelkjfjz)|无|12元 100G/月|✔|暂无|
-|[百变小樱](#百变小樱)|[www.bbxy88.xyz](https://www.bbxy88.xyz/v2/register?code=WuuD)|无|15元 100G/30天|❌|[TG](https://t.me/+IugiUXlyYqgyNjE0)|
-|[okanc](#okanc)|~~okanc.com~~|无|⚠️ 跑路预警|❌|[风险详情](/scamvpn/okac/)|
-|[纵云梯](#纵云梯)|[zongyunti.com](https://zongyunti.com/?r=60147)|1G 不限时|10元 60G/30天|✔|暂无|
-|[光速云](#光速云)|[ermaozi01.gsyvipaff.com](https://ermaozi01.gsyvipaff.com/#/?code=d1eMb3ku)|无|8.25元 59G/月|✔|[TG](https://t.me/LightspeedCloud)|
-|[随便云](#随便云)|[wcnm.one](https://wcnm.one/register?code=YZxHwCws)|无|10元 68G/月|✔|暂无|
-|[加速啦](#加速啦)|[jiasu.la](https://jiasu.la/?r=39116)|1G 不限时|10元 80G/月|✔|[TG](https://t.me/jiasu_la)|
-|[掌中世界](#掌中世界)|[qq.zjs2025.com](https://qq.zjs2025.com/user/register?code=S74QiRGN)|7天免费|咨询官网|❌|暂无|
-|[迅达](#迅达)|[sulianproxy.com](https://sulianproxy.com/register?code=bXIAotbG)|免费试用|15元 120G/月|❌|[TG](https://t.me/xundaroot)|
-|[全球云](#全球云)|[hueue09.gcvipaff.com](https://hueue09.gcvipaff.com/#/?code=PGcNh6bA)|无|20元 120G/月|❌|暂无|
-|[superbiu](#superbiu)|[biubiux.online](https://biubiux.online/#/register?code=BasmsULb)|无|11元 50G/月|✔|[TG](https://t.me/superbiu888)|
-|[TNT](#tnt)|[ermaozi01.tntvipaff.cc](https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3)|无|10元 60G/月(季付)|❌|[TG](https://t.me/TNTCloud2)|
-|[瞬云](#瞬云)|[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)|无|8.25元 59G/月|❌|暂无|
-|[Aladdin](#aladdin)|[www.avatargpt.xyz](https://short.thisgourl.xyz/#/register?code=tvLw0oMj)|无|30元 390G/半年|❌|暂无|
-|[koodog](#koodog)|[koodog.com](https://zero.thisgourl.xyz/#/register?code=BSkBAzZz)|无|5元 35G/月|❌|[TG](https://t.me/KooDogGroup)|
-|[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)|无|12元 100G/月|❌|[TG](https://t.me/niceduck_group)|
-|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)|无|16.9元 100G/月|✔|暂无|
-|[99吧](#_99bar)|[99vpn.bar](https://99vpn.bar/#/register?code=qzpkbzHF)|1天 1G|9.9元 99G/月|✔|[TG](https://t.me/jiujiuchat)|
-|[九霄云](#九霄云)|[shop.starpro.one](https://shop.starpro.one/#/register?code=ZXzjv7oD)|2天 6G|15元 200G/月|✔|[QQ](https://qm.qq.com/q/EzY3dgKhIA)|
-|[小牛云](#小牛云)|[xiaoniuyun.cc](https://www.xiaoniuyun.cc/register/cn?code=n31onhiT)|无|预警(可能跑路)|❌|[TG](https://t.me/aoxcloud)|
-|[EF](#ef)|~~www.efcloud1.com~~|无|已跑路|❌|已跑路|
-|[悠兔](#悠兔)|[youtu7.shop](https://youtu7.shop/register?aff=kcXosGca)|无|39元 150G/月|❌|暂无|
-|[大讯云](#大讯云)|[cn1.daxun.me](https://cn1.daxun.me/#/register?code=CYBd5IxN)|72小时 10G|15元 100G/月|❌|暂无|
-|[猫弦云](#猫弦云)|[svip.maoxian88.buzz](https://svip.maoxian88.buzz/#/register?code=sCCkw2uB)|3天 10G|13元 120G/月|❌|暂无|
-|[小飞象](#小飞象)|[cn3.xiaofeixiang.xyz](https://cn3.xiaofeixiang.xyz/#/register?code=Y3YCU0VC)|3天 10G|25元 200G/月|❌|暂无|
-|[天喵](#天喵)|[tianmiaovpn.com](https://tianmiaovpn.com/register?code=6itxcjsx)|免费线路|免费/VIP 25元/月|❌|暂无|
+| 序号 | 名称与详情 | 最低套餐 | 通用订阅 | 不限时套餐 |
+| ---: | --- | --- | :---: | :---: |
+| 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | 是 | 有 |
+| 2 | [XSUS](/vpnrecs/bc6o8acd/) | 8元 168G/30天 | 是 | 有 |
+| 3 | [xxyun](/vpnrecs/xxyun/) | 9.99元 100G/月 | 是 | 有 |
+| 4 | [网际快车](/vpnrecs/wjkc/) | 6.8元 20GB(不限时) | 是 | 有 |
+| 5 | [cocoduck](/vpnrecs/cocoduck/) | 15元 150G/月 | 是 | 无 |
+| 6 | [阿达西](/vpnrecs/zf12sje8/) | 3元 20G/月 | 否 | 有 |
+| 7 | [冲上云霄](/vpnrecs/dycrz2ch/) | 5元 80G/30天 | 是 | 有 |
+| 8 | [u1s1](/vpnrecs/机场推荐u1s1.html) | 20元 120G/月 | 是 | 无 |
+| 9 | [大哥云](/vpnrecs/994p0u8j/) | 19.9元 100G/月 | 是 | 无 |
+| 10 | [龙猫云](/vpnrecs/b6t9mwuv/) | 15元 100G/月 | 是 | 无 |
+| 11 | [迅达](/vpnrecs/xunda/) | 15元 120G/月 | 否 | 无 |
+| 12 | [星岛梦](/vpnrecs/xingdaomeng/) | 16元 100G/月 | 否 | 有 |
+| 13 | [uuone](/vpnrecs/uuone/) | 19元 150GB/月 | 否 | 有 |
+| 14 | [随便云](/vpnrecs/suibian/) | 10元 68G/月 | 是 | 有 |
+| 15 | [Edge-X](/vpnrecs/edge-x/) | 22.8元/月起 | 是 | 无 |
+| 16 | [闪电鼠](/vpnrecs/shandianshu/) 新上 | 96元/年，60GB/30天 | 否 | 无 |
+| 17 | [全球云](/vpnrecs/quanqiuyun/) | 20元 120GB/月 | 是 | 有 |
+| 18 | [智联网络](/vpnrecs/zlwl-airport/) | 5元 500GB/月 | 是 | 无 |
+| 19 | [灯塔cloud](/vpnrecs/osp1vx6y/) | 10元 100G/月 | 否 | 无 |
+| 20 | [闪狐云](/vpnrecs/bls8yo25/) | 20元 120G/月 | 是 | 无 |
+| 21 | [极连云](/vpnrecs/jilianyun/) | 96元 60GB/年 | 否 | 有 |
+| 22 | [唯兔云](/vpnrecs/weituyun/) | 79.9元 45GB/年 | 否 | 有 |
+| 23 | [Danke](/vpnrecs/danke/) | 3元 88GB/月 | 否 | 有 |
+| 24 | [CyberGuard](/vpnrecs/4m7fg8r9/) | 18元 100G/月 | 否 | 有 |
+| 25 | [TNT](/vpnrecs/4uxesz79/) | 30元 60GB/季 | 否 | 无 |
+| 26 | [锦云](/vpnrecs/jinyun-airport/) | 6元 50GB（月付） | 是 | 有 |
+| 27 | [superbiu](/vpnrecs/superbiu/) | 14元 50GB/月 | 否 | 无 |
+| 28 | [云图高速](/vpnrecs/yuntu-airport/) 新上 | 25元 150GB/月 | 是 | 有 |
+| 29 | [梦想云](/vpnrecs/dreamcl/) | 8.8元 100GB/月 | 否 | 无 |
+| 30 | [加速啦](/vpnrecs/kewe92tu/) | 10元 80G/月 | 是 | 有 |
+| 31 | [寰宇云](/vpnrecs/huanyuyun/) | 18元 150GB/月 | 是 | 有 |
+| 32 | [百变小樱](/vpnrecs/jd2i293q/) | 15元 100G/30天 | 是 | 无 |
+| 33 | [纵云梯](/vpnrecs/e5lzcgzg/) | 10元 60G/30天 | 是 | 无 |
+| 34 | [Runway](/vpnrecs/runway/) | 9.9元 100G/月 | 否 | 有 |
+| 35 | [二猫云](/vpnrecs/ermaoyun/) | 16元 100G/月 | 否 | 有 |
+| 36 | [白羊星](/vpnrecs/zuuzyvvh/) | 12元 100G/月 | 否 | 有 |
+| 37 | [光速云](/vpnrecs/guangsuyun/) | 99元 59GB/年 | 否 | 有 |
+| 38 | [掌中世界](/vpnrecs/7eogfldo/) | 27元 150GB/月 | 否 | 有 |
+| 39 | [山水云](/vpnrecs/2k7jn2n8/) | 14.99元 100G/月 | 是 | 有 |
+| 40 | [光年梯](/vpnrecs/guangnianti/) | 18元 110G/月 | 否 | 无 |
+| 41 | [瞬云](/vpnrecs/shunyun/) | 8.25元 59G/月 | 是 | 无 |
+| 42 | [秒秒云](/vpnrecs/miaomiaoyun-airport/) | 14元 128GB/月 | 是 | 有 |
+| 43 | [跨界云](/vpnrecs/kuajiecloud-airport/) | 20元 120GB/月 | 是 | 无 |
+| 44 | [Firefly](/vpnrecs/firefly-airport/) | 96元 60GB/月（年付） | 是 | 有 |
+| 45 | [浪网](/vpnrecs/wangwang-airport/) | 30元 150GB/月 | 否 | 有 |
+| 46 | [梯子云（LadderCloud）](/vpnrecs/laddercloud/) | 25元 125GB/月 | 是 | 有 |
+| 47 | [无忧链接](/vpnrecs/wuyoulink/) | 12.92元 100GB/月 | 是 | 有 |
+| 48 | [ssone](/vpnrecs/8jxmo76u/) | 15元 128GB/月 | 否 | 有 |
+| 49 | [青云梯](/vpnrecs/mcridsxx/) | 8 元60g/月(年付) | 否 | 无 |
+| 50 | [老头vpn](/vpnrecs/rklwp5go/) | 25元 150G/月 | 否 | 无 |
+| 51 | [99吧](/vpnrecs/99bar/) | 9.9元 70GB/月 | 否 | 有 |
+| 52 | [sogo云](/vpnrecs/sogoyun/) | 20元 150G/月 | 否 | 有 |
+| 53 | [Aladdin](/vpnrecs/aladdin/) | 30元 390G/半年 | 否 | 无 |
+| 54 | [一翻云](/vpnrecs/yifanyun/) | 30元 150G/月 | 否 | 有 |
+| 55 | [速界](/vpnrecs/sujie/) | 25元/月 | 否 | 无 |
+| 56 | [边缘节点](/vpnrecs/bianyuanjiedian/) | 9元/月(年付45G) | 否 | 有 |
+| 57 | [好鸭云](/vpnrecs/73dnyy9a/) | 12元 100G/月 | 否 | 无 |
+| 58 | [影子云](/vpnrecs/yingziyun/) | 18.80元 150G/月 | 是 | 有 |
+| 59 | [xxai](/vpnrecs/xxai/) | 16.9元 100G/月 | 否 | 有 |
+| 60 | [快狸](/vpnrecs/kuaili/) | 10元 30G/月 | 否 | 有 |
+| 61 | [可信云](/vpnrecs/kexinyun/) | 9元 45GB/月 | 否 | 有 |
+| 62 | [暮光加速](/vpnrecs/twilight-airport/) | 20元 120GB/月 | 是 | 有 |
+| 63 | [隐形人](/vpnrecs/invisible-airport/) | 24元 144GB/月 | 是 | 有 |
+| 64 | [灵猫网络](/vpnrecs/civetnet-airport/) | 85元 45GB/年 | 是 | 无 |
+| 65 | [GW云洞](/vpnrecs/gw-cloud-tunnel/) 新上 | 15元 100GB/月 | 是 | 有 |
 
-## 简介
+## 历史简介
+
+以下为早期资料节选，价格、入口及优惠可能已变化；当前候选与最低套餐以上表和对应详情页为准。
 
 ---
 
@@ -220,16 +223,7 @@ Edge-X 的定位是 IEPL 专线为主、直连节点为补充，并通过倍率�
 
 ### 隐云
 
-隐云机场官网地址：~~wkacc.xyz~~
-
-隐云与奈云、CAC、OKAC 属于同一运营主体。奈云已确认跑路，CAC、OKAC 也出现官网、节点、客服或管理响应异常，隐云当前按跑路预警处理。
-
-详情见：[隐云机场跑路预警](/scamvpn/yinyun/)
-
-当前建议：停止续费和新增购买，保存支付、订阅、套餐和客服沟通记录。
-
----
-
+隐云已按主站2026年10月1日复核移出风险名单。[查看当前资料与历史套餐](/vpnrecs/yinyun/)。官网可访问不等于线路或长期运营保证。
 
 ### runway
 

@@ -10,12 +10,12 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 
 ## 按预算快速筛选
 
-下表同步二毛主站当前 64 家机场资料，适合先按最低付款门槛、通用订阅和不限时套餐缩小范围。价格低只代表入门成本低，不代表所有网络环境都稳定；点进单篇后再核对付款周期和测试边界。
+下表同步二毛主站当前 65 家机场资料，适合先按最低付款门槛、通用订阅和不限时套餐缩小范围。价格低只代表入门成本低，不代表所有网络环境都稳定；点进单篇后再核对付款周期和测试边界。
 
 要看更完整的套餐、订阅兼容性和风险记录，可以对照[二毛主站机场推荐与 VPN 评测](https://www.ermao.net/posts/vpn/)。iPhone 用户先读其中的[小火箭 / Clash Mi 订阅选择说明](https://www.ermao.net/posts/vpn/#ios-subscription)，确认客户端需要的订阅格式后再购买。
 
 | 序号 | 名称与详情 | 最低套餐 | 通用订阅 | 不限时套餐 |
-|---:|---|---|:---:|:---:|
+| ---: | --- | --- | :---: | :---: |
 | 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | 是 | 有 |
 | 2 | [XSUS](/vpnrecs/bc6o8acd/) | 8元 168G/30天 | 是 | 有 |
 | 3 | [xxyun](/vpnrecs/xxyun/) | 9.99元 100G/月 | 是 | 有 |
@@ -31,55 +31,56 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 | 13 | [uuone](/vpnrecs/uuone/) | 19元 150GB/月 | 否 | 有 |
 | 14 | [随便云](/vpnrecs/suibian/) | 10元 68G/月 | 是 | 有 |
 | 15 | [Edge-X](/vpnrecs/edge-x/) | 22.8元/月起 | 是 | 无 |
-| 16 | [全球云](/vpnrecs/quanqiuyun/) | 20元 120GB/月 | 是 | 有 |
-| 17 | [智联网络](/vpnrecs/zlwl-airport/) | 5元 500GB/月 | 是 | 无 |
-| 18 | [灯塔cloud](/vpnrecs/osp1vx6y/) | 10元 100G/月 | 否 | 无 |
-| 19 | [闪狐云](/vpnrecs/bls8yo25/) | 20元 120G/月 | 是 | 无 |
-| 20 | [极连云](/vpnrecs/jilianyun/) | 96元 60GB/年 | 否 | 有 |
-| 21 | [唯兔云](/vpnrecs/weituyun/) | 79.9元 45GB/年 | 否 | 有 |
-| 22 | [Danke](/vpnrecs/danke/) | 3元 88GB/月 | 否 | 有 |
-| 23 | [CyberGuard](/vpnrecs/4m7fg8r9/) | 18元 100G/月 | 否 | 有 |
-| 24 | [TNT](/vpnrecs/4uxesz79/) | 30元 60GB/季 | 否 | 无 |
-| 25 | [锦云](/vpnrecs/jinyun-airport/) | 6元 50GB（月付） | 是 | 有 |
-| 26 | [superbiu](/vpnrecs/superbiu/) | 14元 50GB/月 | 否 | 无 |
-| 27 | [云图高速](/vpnrecs/yuntu-airport/) | 25元 150GB/月 | 是 | 有 |
-| 28 | [梦想云](/vpnrecs/dreamcl/) | 8.8元 100GB/月 | 否 | 无 |
-| 29 | [加速啦](/vpnrecs/kewe92tu/) | 10元 80G/月 | 是 | 有 |
-| 30 | [寰宇云](/vpnrecs/huanyuyun/) | 18元 150GB/月 | 否 | 有 |
-| 31 | [百变小樱](/vpnrecs/jd2i293q/) | 15元 100G/30天 | 是 | 无 |
-| 32 | [纵云梯](/vpnrecs/e5lzcgzg/) | 10元 60G/30天 | 是 | 无 |
-| 33 | [Runway](/vpnrecs/runway/) | 9.9元 100G/月 | 否 | 有 |
-| 34 | [二猫云](/vpnrecs/ermaoyun/) | 16元 100G/月 | 否 | 有 |
-| 35 | [白羊星](/vpnrecs/zuuzyvvh/) | 12元 100G/月 | 否 | 有 |
-| 36 | [光速云](/vpnrecs/guangsuyun/) | 99元 59GB/年 | 否 | 有 |
-| 37 | [掌中世界](/vpnrecs/7eogfldo/) | 27元 150GB/月 | 否 | 有 |
-| 38 | [山水云](/vpnrecs/2k7jn2n8/) | 14.99元 100G/月 | 是 | 有 |
-| 39 | [光年梯](/vpnrecs/guangnianti/) | 18元 110G/月 | 否 | 无 |
-| 40 | [瞬云](/vpnrecs/shunyun/) | 8.25元 59G/月 | 是 | 无 |
-| 41 | [秒秒云](/vpnrecs/miaomiaoyun-airport/) | 14元 128GB/月 | 是 | 有 |
-| 42 | [跨界云](/vpnrecs/kuajiecloud-airport/) | 20元 120GB/月 | 是 | 无 |
-| 43 | [Firefly](/vpnrecs/firefly-airport/) | 96元 60GB/月（年付） | 是 | 有 |
-| 44 | [浪网](/vpnrecs/wangwang-airport/) | 30元 150GB/月 | 否 | 有 |
-| 45 | [梯子云（LadderCloud）](/vpnrecs/laddercloud/) | 25元 125GB/月 | 是 | 有 |
-| 46 | [无忧链接](/vpnrecs/wuyoulink/) | 12.92元 100GB/月 | 是 | 有 |
-| 47 | [ssone](/vpnrecs/8jxmo76u/) | 15元 128GB/月 | 否 | 有 |
-| 48 | [青云梯](/vpnrecs/mcridsxx/) | 8 元60g/月(年付) | 否 | 无 |
-| 49 | [老头vpn](/vpnrecs/rklwp5go/) | 25元 150G/月 | 否 | 无 |
-| 50 | [99吧](/vpnrecs/99bar/) | 9.9元 70GB/月 | 否 | 有 |
-| 51 | [sogo云](/vpnrecs/sogoyun/) | 20元 150G/月 | 否 | 有 |
-| 52 | [Aladdin](/vpnrecs/aladdin/) | 30元 390G/半年 | 否 | 无 |
-| 53 | [一翻云](/vpnrecs/yifanyun/) | 30元 150G/月 | 否 | 有 |
-| 54 | [速界](/vpnrecs/sujie/) | 25元/月 | 否 | 无 |
-| 55 | [边缘节点](/vpnrecs/bianyuanjiedian/) | 9元/月(年付45G) | 否 | 有 |
-| 56 | [好鸭云](/vpnrecs/73dnyy9a/) | 12元 100G/月 | 否 | 无 |
-| 57 | [影子云](/vpnrecs/yingziyun/) | 18.80元 150G/月 | 是 | 有 |
-| 58 | [xxai](/vpnrecs/xxai/) | 16.9元 100G/月 | 否 | 有 |
-| 59 | [快狸](/vpnrecs/kuaili/) | 10元 30G/月 | 否 | 有 |
-| 60 | [可信云](/vpnrecs/kexinyun/) | 9元 45GB/月 | 否 | 有 |
-| 61 | [暮光加速](/vpnrecs/twilight-airport/) | 20元 120GB/月 | 是 | 有 |
-| 62 | [隐形人](/vpnrecs/invisible-airport/) | 24元 144GB/月 | 是 | 有 |
-| 63 | [灵猫网络](/vpnrecs/civetnet-airport/) | 85元 45GB/年 | 是 | 无 |
-| 64 | [GW云洞](/vpnrecs/gw-cloud-tunnel/) | 15元 100GB/月 | 是 | 有 |
+| 16 | [闪电鼠](/vpnrecs/shandianshu/) 新上 | 96元/年，60GB/30天 | 否 | 无 |
+| 17 | [全球云](/vpnrecs/quanqiuyun/) | 20元 120GB/月 | 是 | 有 |
+| 18 | [智联网络](/vpnrecs/zlwl-airport/) | 5元 500GB/月 | 是 | 无 |
+| 19 | [灯塔cloud](/vpnrecs/osp1vx6y/) | 10元 100G/月 | 否 | 无 |
+| 20 | [闪狐云](/vpnrecs/bls8yo25/) | 20元 120G/月 | 是 | 无 |
+| 21 | [极连云](/vpnrecs/jilianyun/) | 96元 60GB/年 | 否 | 有 |
+| 22 | [唯兔云](/vpnrecs/weituyun/) | 79.9元 45GB/年 | 否 | 有 |
+| 23 | [Danke](/vpnrecs/danke/) | 3元 88GB/月 | 否 | 有 |
+| 24 | [CyberGuard](/vpnrecs/4m7fg8r9/) | 18元 100G/月 | 否 | 有 |
+| 25 | [TNT](/vpnrecs/4uxesz79/) | 30元 60GB/季 | 否 | 无 |
+| 26 | [锦云](/vpnrecs/jinyun-airport/) | 6元 50GB（月付） | 是 | 有 |
+| 27 | [superbiu](/vpnrecs/superbiu/) | 14元 50GB/月 | 否 | 无 |
+| 28 | [云图高速](/vpnrecs/yuntu-airport/) 新上 | 25元 150GB/月 | 是 | 有 |
+| 29 | [梦想云](/vpnrecs/dreamcl/) | 8.8元 100GB/月 | 否 | 无 |
+| 30 | [加速啦](/vpnrecs/kewe92tu/) | 10元 80G/月 | 是 | 有 |
+| 31 | [寰宇云](/vpnrecs/huanyuyun/) | 18元 150GB/月 | 是 | 有 |
+| 32 | [百变小樱](/vpnrecs/jd2i293q/) | 15元 100G/30天 | 是 | 无 |
+| 33 | [纵云梯](/vpnrecs/e5lzcgzg/) | 10元 60G/30天 | 是 | 无 |
+| 34 | [Runway](/vpnrecs/runway/) | 9.9元 100G/月 | 否 | 有 |
+| 35 | [二猫云](/vpnrecs/ermaoyun/) | 16元 100G/月 | 否 | 有 |
+| 36 | [白羊星](/vpnrecs/zuuzyvvh/) | 12元 100G/月 | 否 | 有 |
+| 37 | [光速云](/vpnrecs/guangsuyun/) | 99元 59GB/年 | 否 | 有 |
+| 38 | [掌中世界](/vpnrecs/7eogfldo/) | 27元 150GB/月 | 否 | 有 |
+| 39 | [山水云](/vpnrecs/2k7jn2n8/) | 14.99元 100G/月 | 是 | 有 |
+| 40 | [光年梯](/vpnrecs/guangnianti/) | 18元 110G/月 | 否 | 无 |
+| 41 | [瞬云](/vpnrecs/shunyun/) | 8.25元 59G/月 | 是 | 无 |
+| 42 | [秒秒云](/vpnrecs/miaomiaoyun-airport/) | 14元 128GB/月 | 是 | 有 |
+| 43 | [跨界云](/vpnrecs/kuajiecloud-airport/) | 20元 120GB/月 | 是 | 无 |
+| 44 | [Firefly](/vpnrecs/firefly-airport/) | 96元 60GB/月（年付） | 是 | 有 |
+| 45 | [浪网](/vpnrecs/wangwang-airport/) | 30元 150GB/月 | 否 | 有 |
+| 46 | [梯子云（LadderCloud）](/vpnrecs/laddercloud/) | 25元 125GB/月 | 是 | 有 |
+| 47 | [无忧链接](/vpnrecs/wuyoulink/) | 12.92元 100GB/月 | 是 | 有 |
+| 48 | [ssone](/vpnrecs/8jxmo76u/) | 15元 128GB/月 | 否 | 有 |
+| 49 | [青云梯](/vpnrecs/mcridsxx/) | 8 元60g/月(年付) | 否 | 无 |
+| 50 | [老头vpn](/vpnrecs/rklwp5go/) | 25元 150G/月 | 否 | 无 |
+| 51 | [99吧](/vpnrecs/99bar/) | 9.9元 70GB/月 | 否 | 有 |
+| 52 | [sogo云](/vpnrecs/sogoyun/) | 20元 150G/月 | 否 | 有 |
+| 53 | [Aladdin](/vpnrecs/aladdin/) | 30元 390G/半年 | 否 | 无 |
+| 54 | [一翻云](/vpnrecs/yifanyun/) | 30元 150G/月 | 否 | 有 |
+| 55 | [速界](/vpnrecs/sujie/) | 25元/月 | 否 | 无 |
+| 56 | [边缘节点](/vpnrecs/bianyuanjiedian/) | 9元/月(年付45G) | 否 | 有 |
+| 57 | [好鸭云](/vpnrecs/73dnyy9a/) | 12元 100G/月 | 否 | 无 |
+| 58 | [影子云](/vpnrecs/yingziyun/) | 18.80元 150G/月 | 是 | 有 |
+| 59 | [xxai](/vpnrecs/xxai/) | 16.9元 100G/月 | 否 | 有 |
+| 60 | [快狸](/vpnrecs/kuaili/) | 10元 30G/月 | 否 | 有 |
+| 61 | [可信云](/vpnrecs/kexinyun/) | 9元 45GB/月 | 否 | 有 |
+| 62 | [暮光加速](/vpnrecs/twilight-airport/) | 20元 120GB/月 | 是 | 有 |
+| 63 | [隐形人](/vpnrecs/invisible-airport/) | 24元 144GB/月 | 是 | 有 |
+| 64 | [灵猫网络](/vpnrecs/civetnet-airport/) | 85元 45GB/年 | 是 | 无 |
+| 65 | [GW云洞](/vpnrecs/gw-cloud-tunnel/) 新上 | 15元 100GB/月 | 是 | 有 |
 
 > 排序同步主站当前维护数据，不代表所有地区、运营商和时段都能获得相同体验。首次购买优先月付、试用或小流量档。
 
