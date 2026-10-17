@@ -86,7 +86,7 @@ Shadowrocket 并没有上线国区应用商店，首先需要切换到我们提�
 
 ## 5. 测试连接
 
-1. 打开浏览器，访问一个被墙的网站（例如Google.com）。
+1. 打开浏览器，访问一个被墙的网站（例如 [Google](https://www.google.com/)）。
 
 2. 如果网站可以正常访问，说明Shadowrocket配置成功。
 
