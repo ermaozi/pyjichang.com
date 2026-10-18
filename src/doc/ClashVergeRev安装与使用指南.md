@@ -73,7 +73,7 @@ Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼
 
 ## 4. 系统代理设置
 
-为了确保 macOS 系统中的所有应用都通过 Clash Verge Rev 进行代理，您需要启用系统代理。
+系统代理适合浏览器等遵循系统代理设置的应用，并不能保证接管所有应用。需要处理不支持系统代理的程序时，可按[官方教程](https://www.clashverge.dev/guide/quickstart.html)了解并配置 TUN 模式。流量是否经代理节点转发，还取决于规则、全局或直连模式及具体配置，详见[官方术语说明](https://www.clashverge.dev/guide/term.html)。
 
 1. 在 **Clash Verge Rev** 的主界面，点击左侧的“设置”按钮，启用“TUN（虚拟网卡）模式”。此时，所有网络流量将通过 Clash Verge Rev 进行处理。
    
@@ -94,9 +94,10 @@ Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼
 
 如果您需要卸载 Clash Verge Rev，可以按以下步骤操作：
 
-1. 打开“应用程序”文件夹。
-2. 找到 **Clash Verge Rev** 应用图标，右键点击并选择“移到废纸篓”。
-3. 清空废纸篓，完成卸载。
+1. 先关闭系统代理和 TUN 模式，再退出 **Clash Verge Rev**。
+2. 如果安装过服务，请先按[官方 macOS 卸载说明](https://www.clashverge.dev/uninstall.html)停止并移除服务，再删除应用。
+3. 打开“应用程序”文件夹，找到 **Clash Verge Rev** 应用图标，右键点击并选择“移到废纸篓”。
+4. 配置和订阅数据是否保留，应单独决定；需要删除时，请先确认已备份所需数据，再按官方说明处理对应目录。
 
 ---
 
