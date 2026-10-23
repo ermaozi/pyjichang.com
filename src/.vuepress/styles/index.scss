@@ -1,1 +1,10 @@
 // place your custom styles here
+
+.plan-comparison {
+  max-width: 100%;
+  overflow-x: auto;
+  margin-block: 1rem;
+  &:focus-visible { outline: 2px solid var(--vp-c-accent); outline-offset: 2px; }
+  table { display: table; min-width: 42rem; margin: 0; }
+  th { white-space: nowrap; }
+}
