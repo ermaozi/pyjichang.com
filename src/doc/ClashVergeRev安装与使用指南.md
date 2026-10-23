@@ -23,19 +23,16 @@ Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼
 ## 1. 下载与安装
 
 ### 选择版本：
-前往 Clash Verge Rev 的官方网站，根据您的设备架构下载相应的版本：
+先在苹果菜单的“关于本机”中确认系统版本和芯片。[官方安装说明](https://www.clashverge.dev/install.html)当前要求 **macOS 12 及以上**；本教程不覆盖旧系统替换内核等兼容方案。
 
-- **GitHub (推荐)**: [Clash Verge Rev Releases](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)
-- [Clash Verge macOS x64 Intel 芯片下载](https://file.ermao.net/files/clash-verge-rev/Clash.Verge.Mac.x64.dmg)
-- [Clash Verge macOS Apple Silicon (M 系列)](https://file.ermao.net/files/clash-verge-rev/Clash.Verge.Mac.aarch64.dmg)
+- **官方发布（优先）**：[Clash Verge Rev GitHub Releases](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)。官方目前仅通过 GitHub Releases 发布。选择正式版的 `.dmg`：Intel 芯片选 `x64`，Apple 芯片（M 系列）选 `aarch64`，并核对发布说明。
+- **本站镜像，非官方发布渠道**：[Intel x64 镜像](https://file.ermao.net/files/clash-verge-rev/Clash.Verge.Mac.x64.dmg)、[Apple Silicon 镜像](https://file.ermao.net/files/clash-verge-rev/Clash.Verge.Mac.aarch64.dmg)。镜像可能晚于官方更新，不能仅凭文件名判断版本或真实性；需要确认来源时优先回到官方发布页。
 
 ### 安装过程：
-1. 下载完成后，双击打开 `.dmg` 文件，系统可能会提示您允许打开来自未知开发者的文件。
-2. 如果出现安全警告（“无法打开 Clash Verge，因为 Apple 无法检查是否包含恶意软件”），请按照以下步骤解决：
-   - 打开“系统偏好设置” > “安全性与隐私” > “通用”。
-   - 点击“仍然打开”以允许运行该应用。
-
-   *官方教程：[如何打开来自未知开发者的 Mac App](https://support.apple.com/zh-cn/guide/mac-help/mh40616/15.0/mac/15.0)*
+1. 核对下载来源、版本和架构后，双击打开 `.dmg` 文件。
+2. 若出现安全警告，先阅读完整提示，不要把所有警告都当作同一种安装障碍。对于“无法验证开发者”或“Apple 无法检查是否包含恶意软件”，先核对官方来源与发布说明；来源不明或无法确认时，停止安装并联系开发者。Apple 提醒，覆盖安全设置存在风险，不能据此认定应用安全。
+3. 只有在理解风险并自行决定信任该应用时，才参考 [Apple 官方说明](https://support.apple.com/zh-cn/guide/mac-help/mh40616/15.0/mac/15.0)处理单个应用的例外：新版 macOS 的入口是“系统设置” > “隐私与安全性” > “安全性”；macOS 12 等旧版使用“系统偏好设置” > “安全性与隐私” > “通用”。按钮名称和是否显示以系统版本及具体警告为准。
+4. 如果提示应用会损坏电脑、含恶意软件或已损坏，不要套用上述例外步骤强行打开；停止使用该文件，按 Apple 提示处理并向开发者核实。不要关闭整体安全保护或执行移除隔离属性的命令来绕过警告。
 
 ### 完成安装：
 1. 将 **Clash Verge Rev** 拖动到“应用程序”文件夹中。
