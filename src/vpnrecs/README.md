@@ -14,6 +14,10 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 
 要看更完整的套餐、订阅兼容性和风险记录，可以对照[二毛主站机场推荐与 VPN 评测](https://www.ermao.net/posts/vpn/)。iPhone 用户先读其中的[小火箭 / Clash Mi 订阅选择说明](https://www.ermao.net/posts/vpn/#ios-subscription)，确认客户端需要的订阅格式后再购买。
 
+表格较宽时可左右滑动查看全部列；使用键盘时可聚焦表格区域后按左右方向键。
+
+<div class="plan-comparison" role="region" aria-label="机场套餐对比表，可横向滚动" tabindex="0">
+
 | 序号 | 名称与详情 | 最低套餐 | 通用订阅 | 不限时套餐 |
 | ---: | --- | --- | :---: | :---: |
 | 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | 是 | 有 |
@@ -84,6 +88,8 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 | 66 | [隐形人](/vpnrecs/invisible-airport/) | 24元 144GB/月 | 是 | 有 |
 | 67 | [灵猫网络](/vpnrecs/civetnet-airport/) | 85元 45GB/年 | 是 | 无 |
 | 68 | [GW云洞](/vpnrecs/gw-cloud-tunnel/) 新上 | 15元 100GB/月 | 是 | 有 |
+
+</div>
 
 > 排序同步主站当前维护数据，不代表所有地区、运营商和时段都能获得相同体验。首次购买优先月付、试用或小流量档。
 
