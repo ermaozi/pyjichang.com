@@ -21,7 +21,7 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 | 序号 | 名称与详情 | 最低套餐 | 通用订阅 | 不限时套餐 |
 | ---: | --- | --- | :---: | :---: |
 | 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | 是 | 有 |
-| 2 | [XSUS](/vpnrecs/bc6o8acd/) | 8元 168G/30天 | 是 | 有 |
+| 2 | [XSUS](/vpnrecs/bc6o8acd/) | 现价待核实 | 是 | 有 |
 | 3 | [xxyun](/vpnrecs/xxyun/) | 9.99元 100G/月 | 是 | 有 |
 | 4 | [网际快车](/vpnrecs/wjkc/) | 6.8元 20GB(不限时) | 是 | 有 |
 | 5 | [cocoduck](/vpnrecs/cocoduck/) | 15元 150G/月 | 是 | 无 |
@@ -44,7 +44,7 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 | 22 | [灯塔cloud](/vpnrecs/osp1vx6y/) | 10元 100G/月 | 否 | 无 |
 | 23 | [闪狐云](/vpnrecs/bls8yo25/) | 20元 120G/月 | 是 | 无 |
 | 24 | [极连云](/vpnrecs/jilianyun/) | 96元 60GB/年 | 否 | 有 |
-| 25 | [唯兔云](/vpnrecs/weituyun/) | 79.9元 45GB/年 | 否 | 有 |
+| 25 | [唯兔云](/vpnrecs/weituyun/) | 现价待核实 | 否 | 有 |
 | 26 | [Danke](/vpnrecs/danke/) | 3元 88GB/月 | 否 | 有 |
 | 27 | [CyberGuard](/vpnrecs/4m7fg8r9/) | 18元 100G/月 | 否 | 有 |
 | 28 | [TNT](/vpnrecs/4uxesz79/) | 30元 60GB/季 | 否 | 无 |
@@ -92,6 +92,12 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 </div>
 
 > 排序同步主站当前维护数据，不代表所有地区、运营商和时段都能获得相同体验。首次购买优先月付、试用或小流量档。
+
+## 新收录线索：云界线
+
+主站新增了[云界线资料档案](https://www.ermao.net/blog/yunjiexian/)。本轮打开[云界线公开入口](https://ermaozi.yunjiexianaff.com/#/?code=hygdqyjF)仅取得线路检测页面，尚未核实当前套餐、优惠适用条件及退款条款，因此暂不填入价格排序表，也不将提供方测速截图视为本站实测。先阅读资料的采集日期与核验边界，再确认结算页。该入口含推广参数，详见[推广披露](/disclosure.html)。
+
+XSUS 存在 8 元与 10 元的历史资料差异；唯兔云的旧年付资料为每月流量，不能写成全年总流量。两者当前价格均需在结算页核实，表格暂不沿用旧报价。
 
 ## 全部评测文章
 

@@ -1,6 +1,6 @@
 ---
 title: ✈️机场推荐【XSUS】 - 高性价比、老牌机场
-description: 'xsus机场，最低 8元 168G/月。老牌机场、稳定可靠、高性价比。 xsus官网地址：https://xsus.cloud'
+description: '整理 XSUS 历史套餐与官网入口，说明8元和10元资料差异；当前价格、优惠条件及服务表现需购买前核实。'
 lastUpdated: true
 permalink: /vpnrecs/bc6o8acd/
 tags:
@@ -16,7 +16,9 @@ tags:
 >
 > 主站原文：[https://www.ermao.net/article/bc6o8acd/](https://www.ermao.net/article/bc6o8acd/)
 
-xsus机场，最低 8元 168G/月。老牌机场、稳定可靠、高性价比。
+XSUS 的旧版文章记录为 8 元 168GB/月；[主站 2026 详情资料](https://www.ermao.net/blog/xsus/)记录为 10 元 168GB/月。**当前价格待核实**，现有资料没有说明变价时间或 8 元的优惠条件。
+
+从首次付款成本看，8 元与 10 元不能混作同一笔可下单报价；先确认结算金额，再选择短周期套餐。
 
 xsus官网地址：[https://xsus.cloud](https://xsus.cloud/register?code=xJFcT1Dw)
 
@@ -28,11 +30,11 @@ xsus官网地址：[https://xsus.cloud](https://xsus.cloud/register?code=xJFcT1D
 
 ## XSUS 机场简介
 
-最便宜的订阅有8元 168G/月。
+下方价格截图为原有资料，不能作为当前结算价。2026 年 10 月 23 日本轮读取官网入口未能取得公开套餐内容；这是本次核价缺口，不代表网站停止运营。本文保留原有资料日期，不把此次读取日期当成套餐确认日期。
 
-XSUS 机场是一家老牌机场，价格实惠，节点较多，节点质量也非常高，速度快，支持 Netflix、ChatGPT。
+原有介绍涉及节点数量、速度和 Netflix、ChatGPT 访问能力；本轮未进行独立实测，具体表现需要在自己的网络和使用时段验证。
 
-客服响应及时，强烈推荐这个机场。
+购买前请确认客服入口、退款条件及所用客户端的订阅格式。
 
 ![XSUS 机场价格](https://image.ermao.net/images/article/bc6o8acd/image.png)
 
