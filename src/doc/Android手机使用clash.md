@@ -24,20 +24,20 @@ tags:
 ## 下载安装
 
 
-### Clash Meta For Android (推荐)
+### Clash Meta For Android（官方发布）
 
-[https://down.shudongapi.monster/client-download/cmfa.apk](https://down.shudongapi.monster/client-download/cmfa.apk)
+优先从 [MetaCubeX 官方 Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) 下载正式版，避免把标为 `Pre-release` 的测试版当作正式版。展开所选版本的 Assets，按设备支持的 CPU 架构选择 APK：`arm64-v8a`、`armeabi-v7a`、`x86` 或 `x86_64`。不确定架构时，可选择同一正式版提供的 `universal` 包；实际兼容性以发布说明和设备安装结果为准。
 
-### Clash For Android
+### 原文第三方镜像（备用）
 
-[https://down.shudongapi.monster/client-download/clash.apk](https://down.shudongapi.monster/client-download/clash.apk)
+- [Clash Meta For Android 镜像](https://down.shudongapi.monster/client-download/cmfa.apk)
+- [旧 Clash For Android 镜像](https://down.shudongapi.monster/client-download/clash.apk)
 
-### github下载
+以上链接属于第三方下载来源，不是 MetaCubeX 官方发布渠道。使用前应核对版本、来源与签名，不能仅凭文件名认定它与官方当前版本一致；本站本轮未下载或安装验证这些 APK。
 
-[https://github.com/cfwtf/clash_for_android/releases](https://github.com/cfwtf/clash_for_android/releases)
+### 旧 Clash For Android 备份
 
-
-上面 3 个版本任选其一，推荐下载 Clash Meta For Android。
+[cfwtf/clash_for_android Releases](https://github.com/cfwtf/clash_for_android/releases) 是旧 Clash For Android 的备份渠道，不是 Clash Meta For Android 官方仓库。旧 CFA 与 Clash Meta 是不同项目，不能视为三个可任意互换的下载版本；按需要的项目及其配置兼容性选择。
 
 ## 配置
 
