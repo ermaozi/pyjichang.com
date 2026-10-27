@@ -30,7 +30,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 | ---: | --- | --- | :---: | :---: |
 | 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | 是 | 有 |
 | 2 | [XSUS](/vpnrecs/bc6o8acd/) | 8元 168G/30天 | 是 | 有 |
-| 3 | [xxyun](/vpnrecs/xxyun/) | 9.99元 100G/月 | 是 | 有 |
+| 3 | [xxyun](/vpnrecs/xxyun/) | 历史9.99元100G/月，现价待核 | 待核 | 历史有，现售待核 |
 | 4 | [网际快车](/vpnrecs/wjkc/) | 6.8元 20GB(不限时) | 是 | 有 |
 | 5 | [cocoduck](/vpnrecs/cocoduck/) | 15元 150G/月 | 是 | 无 |
 | 6 | [阿达西](/vpnrecs/zf12sje8/) | 3元 20G/月 | 否 | 有 |
@@ -96,6 +96,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 | 66 | [隐形人](/vpnrecs/invisible-airport/) | 24元 144GB/月 | 是 | 有 |
 | 67 | [灵猫网络](/vpnrecs/civetnet-airport/) | 85元 45GB/年 | 是 | 无 |
 | 68 | [GW云洞](/vpnrecs/gw-cloud-tunnel/) 新上 | 15元 100GB/月 | 是 | 有 |
+| 69 | [Lumo](/vpnrecs/lumo/) | 119元/年365GiB/年；29元/月150GiB/月（资料价） | 需核客户端版本 | 未确认 |
 
 ## 历史简介
 
@@ -492,15 +493,11 @@ CyberGuard主要提供安全网络访问解决方案。由网络安全专家团�
 
 ### xxyun
 
-注册链接：[www.xxyun.ai](https://www.xxyun.ai/?code=HOWnn58c)
+<a href="https://www.xxyun.ai/?code=HOWnn58c" rel="sponsored nofollow noopener" target="_blank">查看 XXYun 当前套餐</a>
 
-邀请码：XQiZqbSr
+公开注册配置列出新用户9折码 `xxyun`，适用套餐和期限看结算页。历史记录为9.99元100G/月，当前价格、试用、设备限制与订阅兼容待核；旧文的8.89元与1天10G试用不作为当前承诺。
 
-试用方案：享受1天10G流量
-
-最优惠订阅方案：仅需8.89元/月，即可获得100G流量
-
-xxyun 云加速主打轻量级服务，特别适合轻度用户。虽然采用中转线路，但整体速度仍较稳定，再加上价格亲民、支持全流媒体解锁，并且不限制在线设备数量，十分适合偶尔需要在外网观看视频或查阅资料的用户。
+先按自己的设备与使用时段验证，再决定续费或升级。详见 [XXYun 小额购买与套餐核对](/vpnrecs/xxyun/)。
 
 ---
 

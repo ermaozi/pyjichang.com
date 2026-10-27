@@ -22,7 +22,7 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 | ---: | --- | --- | :---: | :---: |
 | 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | 是 | 有 |
 | 2 | [XSUS](/vpnrecs/bc6o8acd/) | 现价待核实 | 是 | 有 |
-| 3 | [xxyun](/vpnrecs/xxyun/) | 9.99元 100G/月 | 是 | 有 |
+| 3 | [xxyun](/vpnrecs/xxyun/) | 历史9.99元100G/月，现价待核 | 待核 | 历史有，现售待核 |
 | 4 | [网际快车](/vpnrecs/wjkc/) | 6.8元 20GB(不限时) | 是 | 有 |
 | 5 | [cocoduck](/vpnrecs/cocoduck/) | 15元 150G/月 | 是 | 无 |
 | 6 | [阿达西](/vpnrecs/zf12sje8/) | 3元 20G/月 | 否 | 有 |
@@ -88,6 +88,7 @@ description: 汇总低价机场的套餐、流量、线路、试用条件与已�
 | 66 | [隐形人](/vpnrecs/invisible-airport/) | 24元 144GB/月 | 是 | 有 |
 | 67 | [灵猫网络](/vpnrecs/civetnet-airport/) | 85元 45GB/年 | 是 | 无 |
 | 68 | [GW云洞](/vpnrecs/gw-cloud-tunnel/) 新上 | 15元 100GB/月 | 是 | 有 |
+| 69 | [Lumo](/vpnrecs/lumo/) | 119元/年365GiB/年；29元/月150GiB/月（资料价） | 需核客户端版本 | 未确认 |
 
 </div>
 
