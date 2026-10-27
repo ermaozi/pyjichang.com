@@ -323,7 +323,7 @@ Telegram群组：[https://t.me/ssyun999](https://t.me/ssyun999)
 
 ### 瞬云
 
-官网地址：[aaa.jichang.best](https://aaa.jichang.best/#/register?code=QEiJcAPp)
+官网地址：[ddd.jichang.best](https://ddd.jichang.best)
 
 最便宜订阅：99元/年（约 8.25 元/月），59G/月。
 
@@ -331,10 +331,10 @@ Telegram群组：[https://t.me/ssyun999](https://t.me/ssyun999)
 
 | 套餐 | 价格 | 流量 | 线路 | 购买地址 |
 | --- | --- | --- | --- | --- |
-| 限时年付小包 | 99元/年 | 59G/月 | ANYCAST高速节点 | [点击购买](https://aaa.jichang.best/#/register?code=QEiJcAPp) |
-| 行者 | 20元/月 | 150G/月 | ANYCAST高速节点 | [点击购买](https://aaa.jichang.best/#/register?code=QEiJcAPp) |
-| 纵横 | 36元/月 | 300G/月 | ANYCAST高速节点 | [点击购买](https://aaa.jichang.best/#/register?code=QEiJcAPp) |
-| 凌霄 | 68元/月 | 600G/月 | ANYCAST高速节点 | [点击购买](https://aaa.jichang.best/#/register?code=QEiJcAPp) |
+| 限时年付小包 | 99元/年 | 59G/月 | ANYCAST高速节点 | [点击购买](https://ddd.jichang.best) |
+| 行者 | 20元/月 | 150G/月 | ANYCAST高速节点 | [点击购买](https://ddd.jichang.best) |
+| 纵横 | 36元/月 | 300G/月 | ANYCAST高速节点 | [点击购买](https://ddd.jichang.best) |
+| 凌霄 | 68元/月 | 600G/月 | ANYCAST高速节点 | [点击购买](https://ddd.jichang.best) |
 
 ---
 
@@ -492,7 +492,7 @@ CyberGuard主要提供安全网络访问解决方案。由网络安全专家团�
 
 ### xxyun
 
-注册链接：[https://xxyun.de](https://xxyun.at/?code=HOWnn58c)
+注册链接：[www.xxyun.ai](https://www.xxyun.ai/?code=HOWnn58c)
 
 邀请码：XQiZqbSr
 
