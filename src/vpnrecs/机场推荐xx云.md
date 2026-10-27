@@ -2,7 +2,7 @@
 title: ✈️机场推荐【xx云加速】 - 新机场、价格实惠
 description: >-
   xx云加速超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备，对 Netflix、Disney+ 流媒体解锁服务也还不错，8k视频秒开。
-  xxyun加速95折优惠码，只能使用一次：`xxyun.xyz` xx云加速官网地址：https://xxyun.de
+  xxyun加速95折优惠码，只能使用一次：`xxyun.xyz` xx云加速官网地址：https://www.xxyun.ai/?code=HOWnn58c
 permalink: /vpnrecs/6e3quult/
 tags:
   - 科学上网
@@ -29,7 +29,7 @@ xx云加速超高性价比，节点质量高，客服实时在线，晚高峰不
 
 xxyun加速95折优惠码，只能使用一次：`xxyun.xyz`
 
-xx云加速官网地址：[https://xxyun.de](https://xxyun.at/?code=HOWnn58c)
+xx云加速官网地址：[www.xxyun.ai](https://www.xxyun.ai/?code=HOWnn58c)
 
 
 
@@ -37,13 +37,13 @@ xx云加速官网地址：[https://xxyun.de](https://xxyun.at/?code=HOWnn58c)
 
 最便宜的订阅有8.89元 100G/月。
 
-[xx云加速](https://xxyun.at/?code=HOWnn58c)95折优惠码，只能使用一次：`xxyun.xyz`
+[xx云加速](https://www.xxyun.ai/?code=HOWnn58c)95折优惠码，只能使用一次：`xxyun.xyz`
 
 最便宜的订阅有8.89元 100G/月。
 
 超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备，对 Netflix、Disney+ 流媒体解锁服务也还不错，8k视频秒开。
 
-[xxyun加速](https://xxyun.at/?code=HOWnn58c)特性如下：
+[xxyun加速](https://www.xxyun.ai/?code=HOWnn58c)特性如下：
 
 - SS协议中转机场，多隧道入口机场
 - 解锁全球流媒体、AI工具。
