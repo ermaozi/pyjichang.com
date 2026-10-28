@@ -21,6 +21,7 @@ export default defineUserConfig({
   title: "便宜机场评测",
   description: "专注低价机场套餐的价格核验、试用条件、风险记录与选购方法，帮助预算有限的用户先试后买。",
   head: [
+    ["script", { src: "/cf-rum.js", defer: true }],
     ["link", { rel: "icon", href: "/logo.svg", type: "image/svg+xml" }],
     ["meta", { name: "robots", content: "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" }],
     ["meta", { property: "og:site_name", content: "便宜机场评测" }],

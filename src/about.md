@@ -25,3 +25,9 @@ head:
 ## 联系与更正
 
 发现价格过期、链接失效或事实错误，可邮件联系 [admin@ermao.net](mailto:admin@ermao.net)。提交更正时请附页面地址、错误位置和可核验来源。
+
+## 浏览器访问统计
+
+本站在主域和 www 页面使用 Cloudflare Web Analytics 的浏览器脚本，向 Cloudflare 发送页面地址、来源页及页面加载性能等数据，以汇总浏览量和访问入口次数。它不同于服务器请求日志，Visits 也不等于去重访客 UV。该统计脚本不读取浏览器 cookie 或本地存储；广告拦截、网络失败等可能造成缺失，未记录不代表没有读者。
+
+详情见 [Cloudflare 数据收集说明](https://developers.cloudflare.com/speed/observatory/rum-beacon/)。统计不会要求登录或提交订阅、订单、付款信息。其他子域和预览域不加载此脚本。
