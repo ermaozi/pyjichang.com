@@ -38,7 +38,7 @@ tags:
 
 ### Linux
 
-- 推荐：Deb 包（多数发行版）
+- Debian、Ubuntu、Deepin 用户可选择下方 deb 包；Fedora、SUSE 等 RPM 系发行版，以及 Arch Linux、Manjaro、SteamOS 用户，请按[官方安装说明](https://www.clashverge.dev/install.html)选择对应的软件包或安装方式。
   - [Linux x64 deb](https://file.ermao.net/files/clash-verge-rev/Clash.Verge.Linux.x64.deb)
   - [Linux arm64 deb](https://file.ermao.net/files/clash-verge-rev/Clash.Verge.Linux.arm64.deb)
 
@@ -53,7 +53,7 @@ tags:
 ## 快速安装要点
 - Windows：安装后启用「服务模式」和「Tun 模式」，并开启系统代理。
 - macOS：拖到应用程序后，首次运行授予网络权限，开启系统代理与 Tun。
-- Linux：优先使用 deb 包，安装后按提示启动服务或参考发行版文档开启 TUN。
+- Linux：先确认发行版和 CPU 架构，再按[官方安装说明](https://www.clashverge.dev/install.html)选择 deb、rpm 或 AUR 安装方式，不要把 deb 包当作所有发行版的通用安装包；安装后再参考对应文档配置代理。
 - 订阅准备：提前准备好机场订阅链接，方便导入。
 
 ## 配置
