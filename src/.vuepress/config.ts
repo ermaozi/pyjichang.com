@@ -75,6 +75,7 @@ export default defineUserConfig({
     },
   }),
 
-  // 和 PWA 一起启用
-  // shouldPrefetch: false,
+  // Avoid prefetching every article chunk on each entry page.
+  // Required modules still preload; navigation loads destination chunks on demand.
+  shouldPrefetch: false,
 });
