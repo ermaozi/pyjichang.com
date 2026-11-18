@@ -61,7 +61,7 @@ tags:
 
 ![Android Clash设置自动更新时间](https://image.ermao.net/images/article/eh8f4n86/image-4.png)
 
-自动更新随便设置，设置完成点击确定
+设置自动更新周期后点击确定。按 [Clash Meta for Android v2.11.36 的官方实现](https://github.com/MetaCubeX/ClashMetaForAndroid/blob/v2.11.36/service/src/main/java/com/github/kr328/clash/service/ProfileProcessor.kt)，用户填写的非零周期至少为 15 分钟；这是固定版本的代码依据，不代表已核实当前最新版本。首次导入时，仅在尚无旧配置且当前周期为 0 的情况下，才可能采用订阅返回的更新周期，因此不能把填 0 理解为永远不会自动更新，也不能把用户输入的最小值当作订阅返回周期的校验结论。保存后核对实际周期；其他版本以对应界面和官方说明为准。
 
 ![Android Clash保存配置按钮](https://image.ermao.net/images/article/eh8f4n86/image-5.png)
 
