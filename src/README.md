@@ -765,7 +765,7 @@ OKAC/OKANC 已出现线路持续异常、官网不可访问、客服与管理响
 
 ### 大哥云
 
-注册链接：[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)
+注册链接：[ermao.666glc.com](https://ermao.666glc.com/#/register?code=peAVAa8D)
 
 邀请码：peAVAa8D
 
