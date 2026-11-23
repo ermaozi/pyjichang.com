@@ -111,3 +111,9 @@ html[data-theme="dark"] [vp-content] table a.home-summary-purchase:hover { backg
 @media (forced-colors: active) {
   [vp-content] table a.home-summary-purchase { border-color: LinkText; }
 }
+
+// Exact yes/no cells in the homepage summary only; keep their text labels.
+[vp-content] .home-summary-state-yes { color: #276547; }
+[vp-content] .home-summary-state-no { color: #9a3434; }
+html[data-theme="dark"] [vp-content] .home-summary-state-yes { color: #91c69b; }
+html[data-theme="dark"] [vp-content] .home-summary-state-no { color: #eda5a5; }
