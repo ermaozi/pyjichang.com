@@ -1,5 +1,5 @@
 ---
-title: Lumo 年付还是月付：首次投入、GiB流量周期与倍率怎么算
+title: ✈️机场推荐【Lumo】 - 月付与年付、分档倍率
 description: 比较 Lumo 119元年付365GiB与29元起月付套餐，说明 Basic/Premium 倍率对额度的影响，保留优惠、试用及客户端兼容的待核条件。
 date: 2026-10-27
 lastUpdated: true

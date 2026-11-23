@@ -1,5 +1,5 @@
 ---
-title: XXYun 加速怎么低成本试用：新用户9折与历史套餐核对
+title: ✈️机场推荐【XXYun】 - 历史月付与按量套餐
 description: 从首次投入和备用流量角度比较 XXYun 历史月付、一次性套餐，说明新用户9折码 xxyun 的已核范围、当前核价缺口和订阅接入步骤。
 lastUpdated: true
 permalink: /vpnrecs/xxyun/

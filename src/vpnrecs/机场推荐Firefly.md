@@ -1,5 +1,5 @@
 ---
-title: '2026 Firefly 便宜机场评测：年付折合8元/月，IPLC 与 VLESS'
+title: ✈️机场推荐【Firefly】 - VLESS协议、月付与年付
 description: 'Firefly值不值得买？从低预算、首次付款与试错成本出发，核对96元 60GB/月（年付）、通用订阅、一次性套餐和测速证据。'
 lastUpdated: true
 permalink: /vpnrecs/firefly-airport/

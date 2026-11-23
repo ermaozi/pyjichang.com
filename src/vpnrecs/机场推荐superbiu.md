@@ -1,5 +1,5 @@
 ---
-title: 2026 SuperBiu机场评测：三网IPLC专线全球流媒体秒开｜11元50G便宜机场推荐
+title: ✈️机场推荐【SuperBiu】 - 周期套餐、按量流量包
 description: >-
   SuperBiu机场怎么样？本文实测SuperBiu机场速度、稳定性与流媒体解锁能力。三网入口IPLC国际专线，数据全程不走公网，月付仅11元享50G流量，支持Netflix/Disney+/ChatGPT/GPT-4解锁，附购买教程与按量套餐指南。
 lastUpdated: true

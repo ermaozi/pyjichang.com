@@ -1,5 +1,5 @@
 ---
-title: 2026 CocoDuck机场评测：海外团队自有机房｜两年稳定运营老牌机场推荐
+title: ✈️机场推荐【CocoDuck】 - 月付套餐、年付小包
 description: >-
   CocoDuck机场怎么样？本文实测CocoDuck机场速度、稳定性与流媒体解锁能力。海外团队运营、自有四个机房、40+全球节点、两年稳定运营历史，支持Netflix/ChatGPT解锁，附购买教程与免费试用指南。
 lastUpdated: true

@@ -1,5 +1,5 @@
 ---
-title: 2026 CCYZ机场评测：15元150G高性价比IEPL专线机场推荐｜Netflix/ChatGPT解锁
+title: ✈️机场推荐【CCYZ】 - BGP中转、IEPL专线
 description: >-
   CCYZ机场怎么样？本文实测CCYZ机场速度、稳定性与流媒体解锁能力，月付仅15元享150G流量、IEPL专线+BGP中转节点，支持Netflix/Disney+/ChatGPT，附95折优惠券与套餐解析。
 lastUpdated: true

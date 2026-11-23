@@ -1,5 +1,5 @@
 ---
-title: 2026 Sogo云机场评测：20元120GB起，自研客户端与通用订阅怎么选
+title: ✈️机场推荐【Sogo云】 - 自研客户端、通用订阅
 description: Sogo云机场怎么样？本文整理20元120GB活动档、周期订阅、一次性流量包、自研客户端、通用订阅、TG频道和购买建议，适合想先短周期验证的新手参考。
 lastUpdated: true
 permalink: /vpnrecs/sogoyun/

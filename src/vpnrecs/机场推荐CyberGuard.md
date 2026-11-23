@@ -1,5 +1,5 @@
 ---
-title: ✈️机场推荐【CyberGuard】 - 质量高、稳定运营两年
+title: ✈️机场推荐【CyberGuard】 - 多平台支持、不限时流量包
 description: >-
   CyberGuard 是一家提供高速稳定 VPN 服务的机场，支持多种设备和平台，适合需要翻墙的用户。
   CyberGuard机场官网地址：cyberguard.best

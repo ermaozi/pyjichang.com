@@ -1,5 +1,5 @@
 ---
-title: ✈️【机场推荐】SSONE - 便宜实惠、高性价比、稳定可靠
+title: ✈️机场推荐【SSONE】 - 月付入门
 description: ssone机场，10元 100G/月，高性价比、稳定可靠、便宜机场。 ssone官网地址：hello-ssone.com
 lastUpdated: true
 permalink: /vpnrecs/8jxmo76u/

@@ -1,5 +1,5 @@
 ---
-title: ✈️【机场推荐】老头VPN - 公认老牌机场、稳定实惠
+title: ✈️机场推荐【老头VPN】 - 老牌机场、月付套餐
 description: '老头VPN，15.5元 150G/月，公认老牌机场、稳定实惠。 老头VPN官网地址：https://www.chattous.net'
 lastUpdated: true
 permalink: /vpnrecs/rklwp5go/

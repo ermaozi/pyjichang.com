@@ -1,5 +1,5 @@
 ---
-title: ✈️机场推荐【XSUS】 - 高性价比、老牌机场
+title: ✈️机场推荐【XSUS】 - 历史月付套餐、短周期选择
 description: '整理 XSUS 历史套餐与官网入口，说明8元和10元资料差异；当前价格、优惠条件及服务表现需购买前核实。'
 lastUpdated: true
 permalink: /vpnrecs/bc6o8acd/

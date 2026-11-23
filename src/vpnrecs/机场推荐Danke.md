@@ -1,5 +1,5 @@
 ---
-title: 2026 Danke机场评测：稳定三年，低至3元/月｜500GB与不限时套餐
+title: ✈️机场推荐【Danke】 - AnyTLS协议、不限时流量包
 description: >-
   Danke机场主打稳定三年与低门槛套餐，体验套餐3元/月，主力套餐9.9元起，提供500GB-1000GB月流量与不限时流量包，支持AnyTLS协议与Telegram频道公告。
 lastUpdated: true

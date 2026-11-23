@@ -1,5 +1,5 @@
 ---
-title: 2026 xxai机场资料：套餐、适用场景与购买前核验
+title: ✈️机场推荐【xxai】 - 按流量购买
 description: xxai当前最低套餐为16.9元 100G/月。本页依据二毛主站结构化数据整理套餐、通用订阅、不限时流量包和购买前核验事项。
 lastUpdated: true
 permalink: /vpnrecs/xxai/

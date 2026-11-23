@@ -1,5 +1,5 @@
 ---
-title: 闪电鼠便宜吗？96元年付和22元月付怎么选
+title: ✈️机场推荐【闪电鼠】 - 月付与年付、轻量套餐
 description: 整理闪电鼠96元年付每30天60GB、22元起月付和sd88优惠条件，说明通用订阅限制与服务商截图的核验边界。
 lastUpdated: true
 permalink: /vpnrecs/shandianshu/
