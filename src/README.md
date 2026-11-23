@@ -30,7 +30,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 | ---: | --- | --- | :---: | :---: | --- |
 | 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | <span class="home-summary-state-yes">是</span> | <span class="home-summary-state-yes">有</span> | <a class="home-summary-purchase no-external-link-icon" href="https://goflybit.com/#/register?code=7h1NCdM7" aria-label="点击购买 flybit" rel="sponsored nofollow">点击购买</a> |
 | 2 | [XSUS](/vpnrecs/bc6o8acd/) | 现价待核实 | <span class="home-summary-state-yes">是</span> | <span class="home-summary-state-yes">有</span> | <a class="home-summary-purchase no-external-link-icon" href="https://xsus.cloud/register?code=xJFcT1Dw" aria-label="点击购买 XSUS" rel="sponsored nofollow">点击购买</a> |
-| 3 | [xxyun](/vpnrecs/xxyun/) | 9.99元100GB/月（11/23用户套餐图） | 待核 | <span class="home-summary-state-yes">有</span> | <a class="home-summary-purchase no-external-link-icon" href="https://www.xxyun.ai/?code=HOWnn58c" aria-label="点击购买 xxyun" rel="sponsored nofollow">点击购买</a> |
+| 3 | [xxyun](/vpnrecs/xxyun/) | 9.99元100GB/月（11/23用户套餐图） | <span class="home-summary-state-yes">是</span>（11/9） | <span class="home-summary-state-yes">有</span> | <a class="home-summary-purchase no-external-link-icon" href="https://www.xxyun.ai/?code=HOWnn58c" aria-label="点击购买 xxyun" rel="sponsored nofollow">点击购买</a> |
 | 4 | [网际快车](/vpnrecs/wjkc/) | 6.8元 20GB(不限时) | <span class="home-summary-state-yes">是</span> | <span class="home-summary-state-yes">有</span> | <a class="home-summary-purchase no-external-link-icon" href="https://ermao.快车.com?c=USNCXQ" aria-label="点击购买 网际快车" rel="sponsored nofollow">点击购买</a> |
 | 5 | [cocoduck](/vpnrecs/cocoduck/) | 15元 150G/月 | <span class="home-summary-state-yes">是</span> | <span class="home-summary-state-no">无</span> | <a class="home-summary-purchase no-external-link-icon" href="https://www.cocoduck.site/auth/register?code=25c8b515df" aria-label="点击购买 cocoduck" rel="sponsored nofollow">点击购买</a> |
 | 6 | [阿达西](/vpnrecs/zf12sje8/) | 3元 20G/月 | <span class="home-summary-state-no">否</span> | <span class="home-summary-state-yes">有</span> | <a class="home-summary-purchase no-external-link-icon" href="https://adaxi.net/?r=68917" aria-label="点击购买 阿达西" rel="sponsored nofollow">点击购买</a> |
@@ -495,7 +495,7 @@ CyberGuard主要提供安全网络访问解决方案。由网络安全专家团�
 
 <a href="https://www.xxyun.ai/?code=HOWnn58c" rel="sponsored nofollow noopener" target="_blank">查看 XXYun 当前套餐</a>
 
-公开注册配置列出新用户9折码 `xxyun`，适用套餐和期限看结算页。历史记录为9.99元100G/月，当前价格、试用、设备限制与订阅兼容待核；旧文的8.89元与1天10G试用不作为当前承诺。
+公开注册配置列出新用户9折码 `xxyun`，适用套餐和期限看结算页。历史记录为9.99元100G/月，当前价格、试用、设备限制待核；通用订阅于2026年11月9日确认支持，具体客户端以账号导出选项为准；旧文的8.89元与1天10G试用不作为当前承诺。
 
 先按自己的设备与使用时段验证，再决定续费或升级。详见 [XXYun 小额购买与套餐核对](/vpnrecs/xxyun/)。
 
