@@ -28,75 +28,75 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 
 | 序号 | 名称与详情 | 最低套餐 | 通用订阅 | 不限时套餐 |
 | ---: | --- | --- | :---: | :---: |
-| 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | 是 | 有 |
-| 2 | [XSUS](/vpnrecs/bc6o8acd/) | 现价待核实 | 是 | 有 |
-| 3 | [xxyun](/vpnrecs/xxyun/) | 历史9.99元100G/月，现价待核 | 待核 | 历史有，现售待核 |
-| 4 | [网际快车](/vpnrecs/wjkc/) | 6.8元 20GB(不限时) | 是 | 有 |
-| 5 | [cocoduck](/vpnrecs/cocoduck/) | 15元 150G/月 | 是 | 无 |
-| 6 | [阿达西](/vpnrecs/zf12sje8/) | 3元 20G/月 | 否 | 有 |
-| 7 | [冲上云霄](/vpnrecs/dycrz2ch/) | 5元 80G/30天 | 是 | 有 |
-| 8 | [u1s1](/vpnrecs/机场推荐u1s1.html) | 20元 120G/月 | 是 | 无 |
-| 9 | [大哥云](/vpnrecs/994p0u8j/) | 19.9元 100G/月 | 是 | 无 |
-| 10 | [龙猫云](/vpnrecs/b6t9mwuv/) | 15元 100G/月 | 是 | 无 |
-| 11 | [迅达](/vpnrecs/xunda/) | 15元 120G/月 | 否 | 无 |
-| 12 | [星岛梦](/vpnrecs/xingdaomeng/) | 16元 100G/月 | 否 | 有 |
-| 13 | [uuone](/vpnrecs/uuone/) | 19元 150GB/月 | 否 | 有 |
-| 14 | [随便云](/vpnrecs/suibian/) | 10元 68G/月 | 是 | 有 |
-| 15 | [Edge-X](/vpnrecs/edge-x/) | 22.8元/月起 | 是 | 无 |
-| 16 | [环球梯](/vpnrecs/huanqiuti/) 新上 | 22元120GB/月 | 是 | 有 |
-| 17 | [神行加速](/vpnrecs/shenxing/) 新上 | 96元/年，60GB/月；23元120GB/月 | 否 | 无 |
-| 18 | [榴莲云](/vpnrecs/liulianyun/) 新上 | 24元 140GB/月；96元/年，60GB/月 | 是 | 有 |
-| 19 | [闪电鼠](/vpnrecs/shandianshu/) 新上 | 96元/年，60GB/30天 | 否 | 无 |
-| 20 | [全球云](/vpnrecs/quanqiuyun/) | 20元 120GB/月 | 是 | 有 |
-| 21 | [智联网络](/vpnrecs/zlwl-airport/) | 5元 500GB/月 | 是 | 无 |
-| 22 | [灯塔cloud](/vpnrecs/osp1vx6y/) | 10元 100G/月 | 否 | 无 |
-| 23 | [闪狐云](/vpnrecs/bls8yo25/) | 20元 120G/月 | 是 | 无 |
-| 24 | [极连云](/vpnrecs/jilianyun/) | 96元 60GB/年 | 否 | 有 |
-| 25 | [唯兔云](/vpnrecs/weituyun/) | 现价待核实 | 否 | 有 |
-| 26 | [Danke](/vpnrecs/danke/) | 3元 88GB/月 | 否 | 有 |
-| 27 | [CyberGuard](/vpnrecs/4m7fg8r9/) | 18元 100G/月 | 否 | 有 |
-| 28 | [TNT](/vpnrecs/4uxesz79/) | 30元 60GB/季 | 否 | 无 |
-| 29 | [锦云](/vpnrecs/jinyun-airport/) | 6元 50GB（月付） | 是 | 有 |
-| 30 | [superbiu](/vpnrecs/superbiu/) | 14元 50GB/月 | 否 | 无 |
-| 31 | [云图高速](/vpnrecs/yuntu-airport/) 新上 | 25元 150GB/月 | 是 | 有 |
-| 32 | [梦想云](/vpnrecs/dreamcl/) | 8.8元 100GB/月 | 否 | 无 |
-| 33 | [加速啦](/vpnrecs/kewe92tu/) | 10元 80G/月 | 是 | 有 |
-| 34 | [寰宇云](/vpnrecs/huanyuyun/) | 18元 150GB/月 | 是 | 有 |
-| 35 | [百变小樱](/vpnrecs/jd2i293q/) | 15元 100G/30天 | 是 | 无 |
-| 36 | [纵云梯](/vpnrecs/e5lzcgzg/) | 10元 60G/30天 | 是 | 无 |
-| 37 | [Runway](/vpnrecs/runway/) | 9.9元 100G/月 | 否 | 有 |
-| 38 | [二猫云](/vpnrecs/ermaoyun/) | 16元 100G/月 | 否 | 有 |
-| 39 | [白羊星](/vpnrecs/zuuzyvvh/) | 12元 100G/月 | 否 | 有 |
-| 40 | [光速云](/vpnrecs/guangsuyun/) | 99元 59GB/年 | 否 | 有 |
-| 41 | [掌中世界](/vpnrecs/7eogfldo/) | 27元 150GB/月 | 否 | 有 |
-| 42 | [山水云](/vpnrecs/2k7jn2n8/) | 14.99元 100G/月 | 是 | 有 |
-| 43 | [光年梯](/vpnrecs/guangnianti/) | 18元 110G/月 | 否 | 无 |
-| 44 | [瞬云](/vpnrecs/shunyun/) | 8.25元 59G/月 | 是 | 无 |
-| 45 | [秒秒云](/vpnrecs/miaomiaoyun-airport/) | 14元 128GB/月 | 是 | 有 |
-| 46 | [跨界云](/vpnrecs/kuajiecloud-airport/) | 20元 120GB/月 | 是 | 无 |
-| 47 | [Firefly](/vpnrecs/firefly-airport/) | 96元 60GB/月（年付） | 是 | 有 |
-| 48 | [浪网](/vpnrecs/wangwang-airport/) | 30元 150GB/月 | 否 | 有 |
-| 49 | [梯子云（LadderCloud）](/vpnrecs/laddercloud/) | 25元 125GB/月 | 是 | 有 |
-| 50 | [无忧链接](/vpnrecs/wuyoulink/) | 12.92元 100GB/月 | 是 | 有 |
-| 51 | [ssone](/vpnrecs/8jxmo76u/) | 15元 128GB/月 | 否 | 有 |
-| 52 | [青云梯](/vpnrecs/mcridsxx/) | 8 元60g/月(年付) | 否 | 无 |
-| 53 | [老头vpn](/vpnrecs/rklwp5go/) | 25元 150G/月 | 否 | 无 |
-| 54 | [99吧](/vpnrecs/99bar/) | 9.9元 70GB/月 | 否 | 有 |
-| 55 | [sogo云](/vpnrecs/sogoyun/) | 20元 150G/月 | 否 | 有 |
-| 56 | [Aladdin](/vpnrecs/aladdin/) | 30元 390G/半年 | 否 | 无 |
-| 57 | [一翻云](/vpnrecs/yifanyun/) | 30元 150G/月 | 否 | 有 |
-| 58 | [速界](/vpnrecs/sujie/) | 25元/月 | 否 | 无 |
-| 59 | [边缘节点](/vpnrecs/bianyuanjiedian/) | 9元/月(年付45G) | 否 | 有 |
-| 60 | [好鸭云](/vpnrecs/73dnyy9a/) | 12元 100G/月 | 否 | 无 |
-| 61 | [影子云](/vpnrecs/yingziyun/) | 18.80元 150G/月 | 是 | 有 |
-| 62 | [xxai](/vpnrecs/xxai/) | 16.9元 100G/月 | 否 | 有 |
-| 63 | [快狸](/vpnrecs/kuaili/) | 10元 30G/月 | 否 | 有 |
-| 64 | [可信云](/vpnrecs/kexinyun/) | 9元 45GB/月 | 否 | 有 |
-| 65 | [暮光加速](/vpnrecs/twilight-airport/) | 20元 120GB/月 | 是 | 有 |
-| 66 | [隐形人](/vpnrecs/invisible-airport/) | 24元 144GB/月 | 是 | 有 |
-| 67 | [灵猫网络](/vpnrecs/civetnet-airport/) | 85元 45GB/年 | 是 | 无 |
-| 68 | [GW云洞](/vpnrecs/gw-cloud-tunnel/) 新上 | 15元 100GB/月 | 是 | 有 |
-| 69 | [Lumo](/vpnrecs/lumo/) | 119元/年365GiB/年；29元/月150GiB/月（资料价） | 需核客户端版本 | 未确认 |
+| 1 | [flybit](/vpnrecs/q8yp9r2b/) <a href="https://goflybit.com/#/register?code=7h1NCdM7" aria-label="flybit 官网" rel="sponsored nofollow">官网</a> | 15元 128G/月 | 是 | 有 |
+| 2 | [XSUS](/vpnrecs/bc6o8acd/) <a href="https://xsus.cloud/register?code=xJFcT1Dw" aria-label="XSUS 官网" rel="sponsored nofollow">官网</a> | 现价待核实 | 是 | 有 |
+| 3 | [xxyun](/vpnrecs/xxyun/) 入口待核 | 历史9.99元100G/月，现价待核 | 待核 | 历史有，现售待核 |
+| 4 | [网际快车](/vpnrecs/wjkc/) <a href="https://ermao.快车.com?c=USNCXQ" aria-label="网际快车 官网" rel="sponsored nofollow">官网</a> | 6.8元 20GB(不限时) | 是 | 有 |
+| 5 | [cocoduck](/vpnrecs/cocoduck/) <a href="https://www.cocoduck.site/auth/register?code=25c8b515df" aria-label="cocoduck 官网" rel="sponsored nofollow">官网</a> | 15元 150G/月 | 是 | 无 |
+| 6 | [阿达西](/vpnrecs/zf12sje8/) <a href="https://adaxi.net/?r=68917" aria-label="阿达西 官网" rel="sponsored nofollow">官网</a> | 3元 20G/月 | 否 | 有 |
+| 7 | [冲上云霄](/vpnrecs/dycrz2ch/) <a href="https://cpdd.one/?r=32083" aria-label="冲上云霄 官网" rel="sponsored nofollow">官网</a> | 5元 80G/30天 | 是 | 有 |
+| 8 | [u1s1](/vpnrecs/机场推荐u1s1.html) <a href="https://ermaozi01.vipaff.cc/#/?code=FC32x5Vs" aria-label="u1s1 官网" rel="sponsored nofollow">官网</a> | 20元 120G/月 | 是 | 无 |
+| 9 | [大哥云](/vpnrecs/994p0u8j/) <a href="https://ermao.666glc.com/#/register?code=peAVAa8D" aria-label="大哥云 官网" rel="sponsored nofollow">官网</a> | 19.9元 100G/月 | 是 | 无 |
+| 10 | [龙猫云](/vpnrecs/b6t9mwuv/) <a href="https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW" aria-label="龙猫云 官网" rel="sponsored nofollow">官网</a> | 15元 100G/月 | 是 | 无 |
+| 11 | [迅达](/vpnrecs/xunda/) <a href="https://sulianproxy.com/register?code=bXIAotbG" aria-label="迅达 官网" rel="sponsored nofollow">官网</a> | 15元 120G/月 | 否 | 无 |
+| 12 | [星岛梦](/vpnrecs/xingdaomeng/) <a href="https://vip06.xdmaffvip.com/#/?code=O9Q9H6VY" aria-label="星岛梦 官网" rel="sponsored nofollow">官网</a> | 16元 100G/月 | 否 | 有 |
+| 13 | [uuone](/vpnrecs/uuone/) <a href="https://uuone.at/?code=AjqYdZlJ" aria-label="uuone 官网" rel="sponsored nofollow">官网</a> | 19元 150GB/月 | 否 | 有 |
+| 14 | [随便云](/vpnrecs/suibian/) <a href="https://wcnm.one/register?code=YZxHwCws" aria-label="随便云 官网" rel="sponsored nofollow">官网</a> | 10元 68G/月 | 是 | 有 |
+| 15 | [Edge-X](/vpnrecs/edge-x/) <a href="https://edge-invite.com/#/register?code=LCH9laOs" aria-label="Edge-X 官网" rel="sponsored nofollow">官网</a> | 22.8元/月起 | 是 | 无 |
+| 16 | [环球梯](/vpnrecs/huanqiuti/) <a href="https://ermaozi01.huanqiutiaff.com/#/?code=QIvL5wZs" aria-label="环球梯 官网" rel="sponsored nofollow">官网</a> 新上 | 22元120GB/月 | 是 | 有 |
+| 17 | [神行加速](/vpnrecs/shenxing/) <a href="https://ermaozi01.shenxingaff.com/#/?code=5qNkAEW4" aria-label="神行加速 官网" rel="sponsored nofollow">官网</a> 新上 | 96元/年，60GB/月；23元120GB/月 | 否 | 无 |
+| 18 | [榴莲云](/vpnrecs/liulianyun/) <a href="https://a01vipaff.liulianyunaff.com/#/?code=CqEkCAgo" aria-label="榴莲云 官网" rel="sponsored nofollow">官网</a> 新上 | 24元 140GB/月；96元/年，60GB/月 | 是 | 有 |
+| 19 | [闪电鼠](/vpnrecs/shandianshu/) <a href="https://ermaozi01.shandianshuaff.com/#/?code=QtJroVdY" aria-label="闪电鼠 官网" rel="sponsored nofollow">官网</a> 新上 | 96元/年，60GB/30天 | 否 | 无 |
+| 20 | [全球云](/vpnrecs/quanqiuyun/) <a href="https://hueue09.gcvipaff.com/#/?code=PGcNh6bA" aria-label="全球云 官网" rel="sponsored nofollow">官网</a> | 20元 120GB/月 | 是 | 有 |
+| 21 | [智联网络](/vpnrecs/zlwl-airport/) <a href="https://a.zlwl.org/auth/register?code=dre2B4" aria-label="智联网络 官网" rel="sponsored nofollow">官网</a> | 5元 500GB/月 | 是 | 无 |
+| 22 | [灯塔cloud](/vpnrecs/osp1vx6y/) <a href="https://www.dengta.cloud/#/register?code=n4jB4z5R" aria-label="灯塔cloud 官网" rel="sponsored nofollow">官网</a> | 10元 100G/月 | 否 | 无 |
+| 23 | [闪狐云](/vpnrecs/bls8yo25/) <a href="https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv" aria-label="闪狐云 官网" rel="sponsored nofollow">官网</a> | 20元 120G/月 | 是 | 无 |
+| 24 | [极连云](/vpnrecs/jilianyun/) <a href="https://ermaozi01.jlcvipaff.cc/#/register?code=GHDiZb1m" aria-label="极连云 官网" rel="sponsored nofollow">官网</a> | 96元 60GB/年 | 否 | 有 |
+| 25 | [唯兔云](/vpnrecs/weituyun/) <a href="https://a01.v2cvipaff.cc/#/?code=iaD6AgSx" aria-label="唯兔云 官网" rel="sponsored nofollow">官网</a> | 现价待核实 | 否 | 有 |
+| 26 | [Danke](/vpnrecs/danke/) <a href="https://www.dankewed.com/#/register?code=a0zksG3J" aria-label="Danke 官网" rel="sponsored nofollow">官网</a> | 3元 88GB/月 | 否 | 有 |
+| 27 | [CyberGuard](/vpnrecs/4m7fg8r9/) <a href="https://www.cyberguard.best/#/register?code=yoyUW3R9" aria-label="CyberGuard 官网" rel="sponsored nofollow">官网</a> | 18元 100G/月 | 否 | 有 |
+| 28 | [TNT](/vpnrecs/4uxesz79/) <a href="https://ermaozi02.tntvipaff.cc/#/register?code=f1EyPwf3" aria-label="TNT 官网" rel="sponsored nofollow">官网</a> | 30元 60GB/季 | 否 | 无 |
+| 29 | [锦云](/vpnrecs/jinyun-airport/) <a href="https://jybdw1.wanhlj.com:8888/#/register?code=7pcmThto" aria-label="锦云 官网" rel="sponsored nofollow">官网</a> | 6元 50GB（月付） | 是 | 有 |
+| 30 | [superbiu](/vpnrecs/superbiu/) <a href="https://biubiux.online/#/register?code=BasmsULb" aria-label="superbiu 官网" rel="sponsored nofollow">官网</a> | 14元 50GB/月 | 否 | 无 |
+| 31 | [云图高速](/vpnrecs/yuntu-airport/) <a href="https://super.yuntujc.cc/#/register?code=8YGrHaR5" aria-label="云图高速 官网" rel="sponsored nofollow">官网</a> 新上 | 25元 150GB/月 | 是 | 有 |
+| 32 | [梦想云](/vpnrecs/dreamcl/) <a href="https://gx.dreamcl.sbs/#/register?code=GFUAEweX" aria-label="梦想云 官网" rel="sponsored nofollow">官网</a> | 8.8元 100GB/月 | 否 | 无 |
+| 33 | [加速啦](/vpnrecs/kewe92tu/) <a href="https://jiasu.la/?r=39116" aria-label="加速啦 官网" rel="sponsored nofollow">官网</a> | 10元 80G/月 | 是 | 有 |
+| 34 | [寰宇云](/vpnrecs/huanyuyun/) <a href="https://vip4.huanyuyunbest.com/#/register?code=W82s7u2a" aria-label="寰宇云 官网" rel="sponsored nofollow">官网</a> | 18元 150GB/月 | 是 | 有 |
+| 35 | [百变小樱](/vpnrecs/jd2i293q/) <a href="https://www.bbxy88.xyz/v2/register?code=WuuD" aria-label="百变小樱 官网" rel="sponsored nofollow">官网</a> | 15元 100G/30天 | 是 | 无 |
+| 36 | [纵云梯](/vpnrecs/e5lzcgzg/) <a href="https://zongyunti.com/?r=60147" aria-label="纵云梯 官网" rel="sponsored nofollow">官网</a> | 10元 60G/30天 | 是 | 无 |
+| 37 | [Runway](/vpnrecs/runway/) <a href="https://www.runwayhz.com/#/register?code=RiIDywqb" aria-label="Runway 官网" rel="sponsored nofollow">官网</a> | 9.9元 100G/月 | 否 | 有 |
+| 38 | [二猫云](/vpnrecs/ermaoyun/) <a href="https://v01.2maoyunaff.cc/#/register?code=6n2UaV1A" aria-label="二猫云 官网" rel="sponsored nofollow">官网</a> | 16元 100G/月 | 否 | 有 |
+| 39 | [白羊星](/vpnrecs/zuuzyvvh/) <a href="https://baiyangxi.com/#/register?code=gelkjfjz" aria-label="白羊星 官网" rel="sponsored nofollow">官网</a> | 12元 100G/月 | 否 | 有 |
+| 40 | [光速云](/vpnrecs/guangsuyun/) <a href="https://ermaozi01.gsyvipaff.com/#/?code=d1eMb3ku" aria-label="光速云 官网" rel="sponsored nofollow">官网</a> | 99元 59GB/年 | 否 | 有 |
+| 41 | [掌中世界](/vpnrecs/7eogfldo/) <a href="https://qq.zjs2025.com/user/register?code=S74QiRGN" aria-label="掌中世界 官网" rel="sponsored nofollow">官网</a> | 27元 150GB/月 | 否 | 有 |
+| 42 | [山水云](/vpnrecs/2k7jn2n8/) <a href="https://ss2.byvvcsx.com/#/register?code=zQA4TyPT" aria-label="山水云 官网" rel="sponsored nofollow">官网</a> | 14.99元 100G/月 | 是 | 有 |
+| 43 | [光年梯](/vpnrecs/guangnianti/) <a href="https://ermaozi02.gntvipaff.cc/#/?code=FSEQIfPr" aria-label="光年梯 官网" rel="sponsored nofollow">官网</a> | 18元 110G/月 | 否 | 无 |
+| 44 | [瞬云](/vpnrecs/shunyun/) 入口待核 | 8.25元 59G/月 | 是 | 无 |
+| 45 | [秒秒云](/vpnrecs/miaomiaoyun-airport/) <a href="https://dl2.mmy8.com/#/register?code=jcr5CpCT" aria-label="秒秒云 官网" rel="sponsored nofollow">官网</a> | 14元 128GB/月 | 是 | 有 |
+| 46 | [跨界云](/vpnrecs/kuajiecloud-airport/) <a href="https://vipermaozi.kuajieaff.com/#/?code=lPz0u1LR" aria-label="跨界云 官网" rel="sponsored nofollow">官网</a> | 20元 120GB/月 | 是 | 无 |
+| 47 | [Firefly](/vpnrecs/firefly-airport/) <a href="https://ermaozi01.fireflyaff.com/#/?code=BUtf2Bj2" aria-label="Firefly 官网" rel="sponsored nofollow">官网</a> | 96元 60GB/月（年付） | 是 | 有 |
+| 48 | [浪网](/vpnrecs/wangwang-airport/) <a href="https://ermaozi01.wavenetaff.com/#/?code=hghwewpc" aria-label="浪网 官网" rel="sponsored nofollow">官网</a> | 30元 150GB/月 | 否 | 有 |
+| 49 | [梯子云（LadderCloud）](/vpnrecs/laddercloud/) <a href="https://ermaozi01.ladderaff.com/#/?code=VZVXWbiq" aria-label="梯子云（LadderCloud） 官网" rel="sponsored nofollow">官网</a> | 25元 125GB/月 | 是 | 有 |
+| 50 | [无忧链接](/vpnrecs/wuyoulink/) <a href="https://ermaozi01.worryfreeaff.com/#/?code=xSLORrqb" aria-label="无忧链接 官网" rel="sponsored nofollow">官网</a> | 12.92元 100GB/月 | 是 | 有 |
+| 51 | [ssone](/vpnrecs/8jxmo76u/) 入口待核 | 15元 128GB/月 | 否 | 有 |
+| 52 | [青云梯](/vpnrecs/mcridsxx/) <a href="https://ermaozi02.qytvipaff.cc/register?aff=W5ICDu2y" aria-label="青云梯 官网" rel="sponsored nofollow">官网</a> | 8 元60g/月(年付) | 否 | 无 |
+| 53 | [老头vpn](/vpnrecs/rklwp5go/) <a href="https://www.chattous.net/register?code=3OWtZ9Bi" aria-label="老头vpn 官网" rel="sponsored nofollow">官网</a> | 25元 150G/月 | 否 | 无 |
+| 54 | [99吧](/vpnrecs/99bar/) <a href="https://99vpn.bar/#/register?code=qzpkbzHF" aria-label="99吧 官网" rel="sponsored nofollow">官网</a> | 9.9元 70GB/月 | 否 | 有 |
+| 55 | [sogo云](/vpnrecs/sogoyun/) <a href="https://ermaozi.sogoaff.com/#/login?code=yxneZJKR" aria-label="sogo云 官网" rel="sponsored nofollow">官网</a> | 20元 150G/月 | 否 | 有 |
+| 56 | [Aladdin](/vpnrecs/aladdin/) 入口待核 | 30元 390G/半年 | 否 | 无 |
+| 57 | [一翻云](/vpnrecs/yifanyun/) 入口待核 | 30元 150G/月 | 否 | 有 |
+| 58 | [速界](/vpnrecs/sujie/) <a href="https://ermaozi01.speedworldaff.cc/#/register?code=SLWrHAPx" aria-label="速界 官网" rel="sponsored nofollow">官网</a> | 25元/月 | 否 | 无 |
+| 59 | [边缘节点](/vpnrecs/bianyuanjiedian/) <a href="https://ermaozi.edgenovaaff.cc/#/register?code=oErRsBNy" aria-label="边缘节点 官网" rel="sponsored nofollow">官网</a> | 9元/月(年付45G) | 否 | 有 |
+| 60 | [好鸭云](/vpnrecs/73dnyy9a/) <a href="https://vuser.niceduck.io/register?code=QS0hzI2y" aria-label="好鸭云 官网" rel="sponsored nofollow">官网</a> | 12元 100G/月 | 否 | 无 |
+| 61 | [影子云](/vpnrecs/yingziyun/) <a href="https://www.yingzi01.com/register?code=TYHpo13G" aria-label="影子云 官网" rel="sponsored nofollow">官网</a> | 18.80元 150G/月 | 是 | 有 |
+| 62 | [xxai](/vpnrecs/xxai/) <a href="https://xx-ai.co?invite_code=K2TpsDcg" aria-label="xxai 官网" rel="sponsored nofollow">官网</a> | 16.9元 100G/月 | 否 | 有 |
+| 63 | [快狸](/vpnrecs/kuaili/) <a href="https://ermaozi.kuailicloud.cc/#/register?code=nwj3Tk14" aria-label="快狸 官网" rel="sponsored nofollow">官网</a> | 10元 30G/月 | 否 | 有 |
+| 64 | [可信云](/vpnrecs/kexinyun/) <a href="https://ermaozi01.kosingaff.com/#/register?code=aG3TCu1y" aria-label="可信云 官网" rel="sponsored nofollow">官网</a> | 9元 45GB/月 | 否 | 有 |
+| 65 | [暮光加速](/vpnrecs/twilight-airport/) <a href="https://ermaozi01.twilightaff.com/#/?code=4lhDLNFL" aria-label="暮光加速 官网" rel="sponsored nofollow">官网</a> | 20元 120GB/月 | 是 | 有 |
+| 66 | [隐形人](/vpnrecs/invisible-airport/) <a href="https://varnexa.invisibleaff.com/#/?code=8q7IHM5V" aria-label="隐形人 官网" rel="sponsored nofollow">官网</a> | 24元 144GB/月 | 是 | 有 |
+| 67 | [灵猫网络](/vpnrecs/civetnet-airport/) <a href="https://ermaozi.civetaff.com/#/?code=Ammn9sdD" aria-label="灵猫网络 官网" rel="sponsored nofollow">官网</a> | 85元 45GB/年 | 是 | 无 |
+| 68 | [GW云洞](/vpnrecs/gw-cloud-tunnel/) <a href="https://ss.grrnc.com/#/register?code=CphE8F0s" aria-label="GW云洞 官网" rel="sponsored nofollow">官网</a> 新上 | 15元 100GB/月 | 是 | 有 |
+| 69 | [Lumo](/vpnrecs/lumo/) <a href="https://s1.lumo-invite.com/sign-up/?code=Duy8hdoL" aria-label="Lumo 官网" rel="sponsored nofollow">官网</a> | 119元/年365GiB/年；29元/月150GiB/月（资料价） | 需核客户端版本 | 未确认 |
 
 ## 历史简介
 
