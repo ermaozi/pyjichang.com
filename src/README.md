@@ -29,7 +29,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 | 序号 | 名称与详情 | 最低套餐 | 通用订阅 | 不限时套餐 |
 | ---: | --- | --- | :---: | :---: |
 | 1 | [flybit](/vpnrecs/q8yp9r2b/) | 15元 128G/月 | 是 | 有 |
-| 2 | [XSUS](/vpnrecs/bc6o8acd/) | 8元 168G/30天 | 是 | 有 |
+| 2 | [XSUS](/vpnrecs/bc6o8acd/) | 现价待核实 | 是 | 有 |
 | 3 | [xxyun](/vpnrecs/xxyun/) | 历史9.99元100G/月，现价待核 | 待核 | 历史有，现售待核 |
 | 4 | [网际快车](/vpnrecs/wjkc/) | 6.8元 20GB(不限时) | 是 | 有 |
 | 5 | [cocoduck](/vpnrecs/cocoduck/) | 15元 150G/月 | 是 | 无 |
@@ -52,7 +52,7 @@ description: 2026便宜机场推荐与评测汇总，整理套餐价格、试用
 | 22 | [灯塔cloud](/vpnrecs/osp1vx6y/) | 10元 100G/月 | 否 | 无 |
 | 23 | [闪狐云](/vpnrecs/bls8yo25/) | 20元 120G/月 | 是 | 无 |
 | 24 | [极连云](/vpnrecs/jilianyun/) | 96元 60GB/年 | 否 | 有 |
-| 25 | [唯兔云](/vpnrecs/weituyun/) | 79.9元 45GB/年 | 否 | 有 |
+| 25 | [唯兔云](/vpnrecs/weituyun/) | 现价待核实 | 否 | 有 |
 | 26 | [Danke](/vpnrecs/danke/) | 3元 88GB/月 | 否 | 有 |
 | 27 | [CyberGuard](/vpnrecs/4m7fg8r9/) | 18元 100G/月 | 否 | 有 |
 | 28 | [TNT](/vpnrecs/4uxesz79/) | 30元 60GB/季 | 否 | 无 |
