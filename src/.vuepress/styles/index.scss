@@ -113,7 +113,7 @@ html[data-theme="dark"] [vp-content] table a.home-summary-purchase:hover { backg
 }
 
 // Exact yes/no cells in the homepage summary only; keep their text labels.
-[vp-content] .home-summary-state-yes { color: #276547; }
-[vp-content] .home-summary-state-no { color: #9a3434; }
+[vp-content] .home-summary-state-yes { color: #276547; font-weight: 700; }
+[vp-content] .home-summary-state-no { color: #9a3434; font-weight: 700; }
 html[data-theme="dark"] [vp-content] .home-summary-state-yes { color: #91c69b; }
 html[data-theme="dark"] [vp-content] .home-summary-state-no { color: #eda5a5; }
