@@ -87,3 +87,26 @@ html[data-theme="dark"] {
 @media (min-width: 1440px) {
   .theme-container.has-toc { --content-width: 48rem; }
 }
+
+// Only the homepage summary's direct purchase links.
+[vp-content] table a.home-summary-purchase {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 .85rem;
+  box-sizing: border-box;
+  border: 1px solid transparent;
+  border-radius: .4rem;
+  background: #176183;
+  color: #fff;
+  font-weight: 650;
+  white-space: nowrap;
+  text-decoration: none;
+}
+[vp-content] table a.home-summary-purchase:hover { background: #124c66; text-decoration: none; }
+html[data-theme="dark"] [vp-content] table a.home-summary-purchase { background: #8ccde9; color: #14232b; }
+html[data-theme="dark"] [vp-content] table a.home-summary-purchase:hover { background: #b6e2f4; }
+@media (forced-colors: active) {
+  [vp-content] table a.home-summary-purchase { border-color: LinkText; }
+}
