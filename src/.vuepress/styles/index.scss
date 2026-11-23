@@ -1,10 +1,89 @@
-// place your custom styles here
-
+// Visual-only reading layer; keep the Hope layout and existing interactions.
+:root {
+  --content-width: 54rem;
+  --vp-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --vp-font-heading: var(--vp-font);
+  --reading-line: #dce3e8;
+  --reading-soft: #f4f7f9;
+  --reading-link: #176183;
+}
+html[data-theme="dark"] {
+  --reading-line: #3d4852;
+  --reading-soft: #242c33;
+  --reading-link: #8ccde9;
+}
+.vp-navbar { box-shadow: none; border-bottom: 1px solid var(--reading-line); }
+.vp-site-name { font-weight: 650; letter-spacing: -.025em; }
+.vp-nav-links .route-link-active { font-weight: 700; }
+.vp-sidebar { border-inline-end: 1px solid var(--reading-line); box-shadow: none; }
+.vp-sidebar a { line-height: 1.6; }
+.vp-sidebar .active { font-weight: 650; }
+[vp-content] {
+  font-size: 1rem;
+  line-height: 1.85;
+  overflow-wrap: anywhere;
+  h1 { font-size: clamp(1.65rem, 3vw, 2.2rem); line-height: 1.35; letter-spacing: -.025em; }
+  h2 { margin-top: 2.2rem; padding-bottom: .5rem; font-size: 1.45rem; border-color: var(--reading-line); }
+  h3 { margin-top: 1.7rem; font-size: 1.18rem; }
+  p, ul, ol { margin-block: 1rem; }
+  li + li { margin-top: .3rem; }
+  a { color: var(--reading-link); text-underline-offset: .2em; }
+  h1 a, h2 a, h3 a { color: inherit; }
+  a:hover { text-decoration: underline; }
+  table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    border-spacing: 0;
+    border-collapse: separate;
+    margin-block: 1.4rem;
+    font-size: .95rem;
+    line-height: 1.65;
+    font-variant-numeric: tabular-nums;
+    th, td { border: 0; border-bottom: 1px solid var(--reading-line); padding: .8rem 1rem; }
+    th { background: var(--reading-soft); font-weight: 650; white-space: nowrap; text-align: start; }
+    tr { border: 0; background: transparent; }
+    tr:nth-child(2n) { background: var(--reading-soft); }
+    td { min-width: 4rem; }
+    td:first-child { min-width: 2.25rem; }
+    td:nth-child(3) { min-width: 8rem; }
+    td a { font-weight: 550; }
+  }
+  .hint-container { border-radius: .4rem; box-shadow: none;  }
+}
 .plan-comparison {
   max-width: 100%;
   overflow-x: auto;
+  overscroll-behavior-x: contain;
   margin-block: 1rem;
-  &:focus-visible { outline: 2px solid var(--vp-c-accent); outline-offset: 2px; }
-  table { display: table; min-width: 42rem; margin: 0; }
+  table { display: table; min-width: 42rem; margin: 0; overflow: visible; }
   th { white-space: nowrap; }
+}
+:where(a, button, input, summary, [tabindex]):focus-visible,
+[vp-content] table:focus-visible {
+  outline: 3px solid var(--reading-link);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+@media (max-width: 719px) {
+  [vp-content] { font-size: 1rem; line-height: 1.8; }
+  [vp-content] h2 { font-size: 1.3rem; margin-top: 1.8rem; }
+  [vp-content] table { white-space: normal; }
+  [vp-content] th, [vp-content] td { padding: .7rem .8rem; }
+}
+@media (prefers-contrast: more) {
+  [vp-content] table th, [vp-content] table td { border-bottom-width: 2px; }
+  [vp-content] a { text-decoration: underline; }
+}
+@media (forced-colors: active) {
+  :where(a, button, input, summary, [tabindex]):focus-visible { outline-color: Highlight; }
+  [vp-content] table th, [vp-content] table td { border-bottom: 1px solid CanvasText; }
+}
+
+.vp-page-title h1 { font-size: clamp(1.65rem, 3vw, 2.2rem); line-height: 1.35; letter-spacing: -.025em; }
+
+// Leave room for the existing desktop table of contents.
+@media (min-width: 1440px) {
+  .theme-container.has-toc { --content-width: 48rem; }
 }
