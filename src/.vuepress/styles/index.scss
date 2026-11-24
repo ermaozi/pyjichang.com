@@ -119,11 +119,15 @@ html[data-theme="dark"] [vp-content] .home-summary-state-yes { color: #91c69b; }
 html[data-theme="dark"] [vp-content] .home-summary-state-no { color: #eda5a5; }
 
 // Recommendation comparison only: preserve native table and links.
-[vp-content] .compare-v2 table { min-width: 760px; }
+[vp-content] .compare-v2 { padding: 6px; box-sizing: border-box; }
+[vp-content] .compare-v2 table { display: table; width: 100%; min-width: 620px; max-width: none; overflow: visible; }
+[vp-content] .compare-v2 th, [vp-content] .compare-v2 td { min-width: 0; padding: .65rem .5rem; }
+[vp-content] .compare-v2 th { font-size: .9em; }
+[vp-content] .compare-v2 th:last-child, [vp-content] .compare-v2 td:last-child { padding-right: 12px; }
 [vp-content] .compare-v2 th { white-space: nowrap; }
 [vp-content] .compare-v2 td { vertical-align: middle; }
-[vp-content] .compare-v2 td:nth-child(2) { min-width: 96px; }
-[vp-content] .compare-v2 td:nth-child(3) { min-width: 190px; }
+[vp-content] .compare-v2 td:nth-child(2) { min-width: 80px; }
+[vp-content] .compare-v2 td:nth-child(3) { min-width: 145px; }
 [vp-content] .compare-v2 .compare-amount { font-size: 1.1em; font-variant-numeric: tabular-nums; }
 [vp-content] .compare-v2 .compare-flow { display: block; }
 [vp-content] .compare-v2 .compare-billing { display: block; font-size: .8em; line-height: 1.45; color: var(--text-color); opacity: .85; margin-top: .3rem; }
