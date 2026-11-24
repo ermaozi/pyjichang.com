@@ -117,3 +117,14 @@ html[data-theme="dark"] [vp-content] table a.home-summary-purchase:hover { backg
 [vp-content] .home-summary-state-no { color: #9a3434; font-weight: 700; }
 html[data-theme="dark"] [vp-content] .home-summary-state-yes { color: #91c69b; }
 html[data-theme="dark"] [vp-content] .home-summary-state-no { color: #eda5a5; }
+
+// Recommendation comparison only: preserve native table and links.
+[vp-content] .compare-v2 table { min-width: 760px; }
+[vp-content] .compare-v2 th { white-space: nowrap; }
+[vp-content] .compare-v2 td { vertical-align: middle; }
+[vp-content] .compare-v2 td:nth-child(2) { min-width: 96px; }
+[vp-content] .compare-v2 td:nth-child(3) { min-width: 190px; }
+[vp-content] .compare-v2 .compare-amount { font-size: 1.1em; font-variant-numeric: tabular-nums; }
+[vp-content] .compare-v2 .compare-flow { display: block; }
+[vp-content] .compare-v2 .compare-billing { display: block; font-size: .8em; line-height: 1.45; color: var(--text-color); opacity: .85; margin-top: .3rem; }
+[vp-content] .compare-v2 .compare-break { display: none; }
