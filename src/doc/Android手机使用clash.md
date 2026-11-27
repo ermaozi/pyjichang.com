@@ -26,7 +26,7 @@ tags:
 
 ### Clash Meta For Android（官方发布）
 
-优先从 [MetaCubeX 官方 Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) 下载正式版，避免把标为 `Pre-release` 的测试版当作正式版。展开所选版本的 Assets，按设备支持的 CPU 架构选择 APK：`arm64-v8a`、`armeabi-v7a`、`x86` 或 `x86_64`。不确定架构时，可选择同一正式版提供的 `universal` 包；实际兼容性以发布说明和设备安装结果为准。
+优先从 [MetaCubeX 官方 Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) 下载正式版，避免把标为 `Pre-release` 的测试版当作正式版。展开所选版本的 Assets，按设备支持的 CPU 架构选择 APK：`arm64-v8a`、`armeabi-v7a`、`x86` 或 `x86_64`。不确定架构时，可选择同一正式版提供的 `universal` 包；实际兼容性以发布说明和设备安装结果为准。
 
 ### 原文第三方镜像（备用）
 
